@@ -1,0 +1,48 @@
+{
+  "tag": "2021-11-23_105743",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          171
+        ],
+        [
+          1080,
+          2148
+        ]
+      ],
+      "resource_id": "android:id/content",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 1,
+      "temp_id": 2,
+      "size": "1080*1977",
+      "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]",
+      "view_str": "dc9c0f86774143d1a19cbb44f90b514f"
+    }
+  },
+  "start_state": "aa6ce863579e7ee6f1b36c36d4ef8a06",
+  "stop_state": "15eb8cd8aacac0dc1a2f20a5541cbc9e",
+  "event_str": "TouchEvent(state=aa6ce863579e7ee6f1b36c36d4ef8a06, view=dc9c0f86774143d1a19cbb44f90b514f(AppStarterActivity/FrameLayout-))"
+}

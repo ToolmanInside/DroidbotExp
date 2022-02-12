@@ -1,0 +1,48 @@
+{
+  "tag": "2021-12-06_204533",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          500,
+          1207
+        ],
+        [
+          937,
+          1249
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": " Tencent. All Rights Reserved.",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 15,
+      "temp_id": 17,
+      "size": "437*42",
+      "signature": "[class]android.widget.TextView[resource_id]None[text] Tencent. All Rights Reserved.[enabled,,]",
+      "view_str": "7e4fba2e469c7a8dbee98f40015dc239"
+    }
+  },
+  "start_state": "e9389c9171a87ba01e5b9b673b8345f1",
+  "stop_state": "e9389c9171a87ba01e5b9b673b8345f1",
+  "event_str": "TouchEvent(state=e9389c9171a87ba01e5b9b673b8345f1, view=7e4fba2e469c7a8dbee98f40015dc239(ShareFeedActivity/TextView- Tencent. ))"
+}

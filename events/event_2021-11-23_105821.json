@@ -1,0 +1,51 @@
+{
+  "tag": "2021-11-23_105821",
+  "event": {
+    "event_type": "scroll",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        14
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1167
+        ],
+        [
+          1080,
+          1763
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.HorizontalScrollView",
+      "scrollable": true,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 12,
+      "temp_id": 13,
+      "size": "1080*596",
+      "signature": "[class]android.widget.HorizontalScrollView[resource_id]None[text]None[enabled,,]",
+      "view_str": "0b7e69ad645c748ed9aad75daa163a4e"
+    },
+    "direction": "LEFT"
+  },
+  "start_state": "e7d5fa5ade6c3709bc19054d4b9aea14",
+  "stop_state": "e7d5fa5ade6c3709bc19054d4b9aea14",
+  "event_str": "ScrollEvent(state=e7d5fa5ade6c3709bc19054d4b9aea14, view=0b7e69ad645c748ed9aad75daa163a4e(NewPlayerActivity/HorizontalScrollView-), direction=LEFT)"
+}

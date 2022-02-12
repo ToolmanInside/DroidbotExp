@@ -1,0 +1,48 @@
+{
+  "tag": "2021-12-06_204537",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          195,
+          690
+        ],
+        [
+          885,
+          806
+        ]
+      ],
+      "resource_id": "error_text",
+      "checked": false,
+      "text": "\u60a8\u6ca1\u6709\u5b89\u88c5\u6700\u65b0\u7248\u672cQQ\uff0c\u8bf7\u5148\u4e0b\u8f7d\u5e76\u5b89\u88c5\uff0c\u793e\u4ea4\u4e92\u52a8\u4f53\u9a8c\u66f4\u6d41\u7545\u3001\u66f4\u5b89\u5168\u3002",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 7,
+      "temp_id": 9,
+      "size": "690*116",
+      "signature": "[class]android.view.View[resource_id]error_text[text]\u60a8\u6ca1\u6709\u5b89\u88c5\u6700\u65b0\u7248\u672cQQ\uff0c\u8bf7\u5148\u4e0b\u8f7d\u5e76\u5b89\u88c5\uff0c\u793e\u4ea4\u4e92\u52a8\u4f53\u9a8c\u66f4\u6d41\u7545\u3001\u66f4\u5b89\u5168\u3002[enabled,,]",
+      "view_str": "26486dc15339ce06d656949b6fea95f2"
+    }
+  },
+  "start_state": "e9389c9171a87ba01e5b9b673b8345f1",
+  "stop_state": "e9389c9171a87ba01e5b9b673b8345f1",
+  "event_str": "TouchEvent(state=e9389c9171a87ba01e5b9b673b8345f1, view=26486dc15339ce06d656949b6fea95f2(ShareFeedActivity/View-\u60a8\u6ca1\u6709\u5b89\u88c5\u6700\u65b0\u7248\u672cQ))"
+}

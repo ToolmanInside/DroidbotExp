@@ -1,0 +1,48 @@
+{
+  "tag": "2021-11-23_104453",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1132
+        ],
+        [
+          209,
+          1297
+        ]
+      ],
+      "resource_id": "com.tencent.qqmusic:id/bzl",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 86,
+      "temp_id": 87,
+      "size": "165*165",
+      "signature": "[class]android.widget.ImageView[resource_id]com.tencent.qqmusic:id/bzl[text]None[enabled,,]",
+      "view_str": "1e10f5150e84264613bbb4d5ac3ed711"
+    }
+  },
+  "start_state": "5e099da8470283bedbf9d6bbcd2499e5",
+  "stop_state": "bd14c08a48741e813d356ea1640a61b6",
+  "event_str": "TouchEvent(state=5e099da8470283bedbf9d6bbcd2499e5, view=1e10f5150e84264613bbb4d5ac3ed711(FragmentActivityWithMinibar/ImageView-))"
+}

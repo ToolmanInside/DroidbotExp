@@ -1,0 +1,48 @@
+{
+  "tag": "2021-11-23_104627",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          441,
+          231
+        ],
+        [
+          1019,
+          342
+        ]
+      ],
+      "resource_id": "com.tencent.qqmusic:id/elo",
+      "checked": false,
+      "text": "WITHOUT YOU (Miley Cyrus Remix) [Explicit]",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 274,
+      "temp_id": 275,
+      "size": "578*111",
+      "signature": "[class]android.widget.TextView[resource_id]com.tencent.qqmusic:id/elo[text]WITHOUT YOU (Miley Cyrus Remix) [Explicit][enabled,,]",
+      "view_str": "2127e02b285d343c7d57232a6c37401a"
+    }
+  },
+  "start_state": "1a1f6784bc2af921f2503c2cc464bddb",
+  "stop_state": "3d1dd8f5df95fc03f2741bf783a2ca6b",
+  "event_str": "TouchEvent(state=1a1f6784bc2af921f2503c2cc464bddb, view=2127e02b285d343c7d57232a6c37401a(FragmentActivityWithMinibar/TextView-WITHOUT YO))"
+}

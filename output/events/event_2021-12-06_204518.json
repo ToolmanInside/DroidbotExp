@@ -1,0 +1,48 @@
+{
+  "tag": "2021-12-06_204518",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          936,
+          626
+        ],
+        [
+          1014,
+          679
+        ]
+      ],
+      "resource_id": "com.tencent.qqmusic:id/emq",
+      "checked": false,
+      "text": "\u5206\u4eab",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 198,
+      "temp_id": 200,
+      "size": "78*53",
+      "signature": "[class]android.widget.TextView[resource_id]com.tencent.qqmusic:id/emq[text]\u5206\u4eab[enabled,,]",
+      "view_str": "fada7378f33b9317c579c1421d4b7655"
+    }
+  },
+  "start_state": "5b5d1ce0dae74d8468721b8a0c3472d1",
+  "stop_state": "c076572179e6ff3046718e359dce0dab",
+  "event_str": "TouchEvent(state=5b5d1ce0dae74d8468721b8a0c3472d1, view=fada7378f33b9317c579c1421d4b7655(AppStarterActivity/TextView-\u5206\u4eab))"
+}

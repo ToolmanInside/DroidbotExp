@@ -1,0 +1,48 @@
+{
+  "tag": "2021-11-23_104804",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          72,
+          2046
+        ],
+        [
+          761,
+          2095
+        ]
+      ],
+      "resource_id": "com.tencent.qqmusic:id/bzr",
+      "checked": false,
+      "text": "WITHOUT YOU (Miley Cyrus Remix|Explicit)\u00a0-\u00a0The Kid LAROI/Miley Cyrus",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": true,
+      "long_clickable": false,
+      "parent": 345,
+      "temp_id": 346,
+      "size": "689*49",
+      "signature": "[class]android.widget.TextView[resource_id]com.tencent.qqmusic:id/bzr[text]None[enabled,,selected]",
+      "view_str": "6b898ebf408a2f81e3d1415a472f80bf"
+    }
+  },
+  "start_state": "1a1f6784bc2af921f2503c2cc464bddb",
+  "stop_state": "c4070baace700bd4ff3dd5ad4d390e34",
+  "event_str": "TouchEvent(state=1a1f6784bc2af921f2503c2cc464bddb, view=6b898ebf408a2f81e3d1415a472f80bf(FragmentActivityWithMinibar/TextView-WITHOUT YO))"
+}

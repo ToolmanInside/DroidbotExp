@@ -1,0 +1,11 @@
+{
+  "tag": "2021-12-06_204601",
+  "event": {
+    "event_type": "key",
+    "log_lines": null,
+    "name": "BACK"
+  },
+  "start_state": "6a4954ef9c10dbaad2ea610f2610465e",
+  "stop_state": "c076572179e6ff3046718e359dce0dab",
+  "event_str": "KeyEvent(state=6a4954ef9c10dbaad2ea610f2610465e, name=BACK)"
+}

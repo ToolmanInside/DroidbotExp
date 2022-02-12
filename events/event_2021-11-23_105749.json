@@ -1,0 +1,48 @@
+{
+  "tag": "2021-11-23_105749",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          45,
+          129
+        ],
+        [
+          145,
+          203
+        ]
+      ],
+      "resource_id": "com.tencent.qqmusic:id/ehi",
+      "checked": false,
+      "text": "\u63a8\u8350",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 21,
+      "temp_id": 22,
+      "size": "100*74",
+      "signature": "[class]android.widget.TextView[resource_id]com.tencent.qqmusic:id/ehi[text]\u63a8\u8350[enabled,,]",
+      "view_str": "8d148aaa74ceb10722f80ff92b513377"
+    }
+  },
+  "start_state": "70deb0f4e3b61c398fe1e2af454cbcb8",
+  "stop_state": "ba52a0392932cb215a5c97c271cac44e",
+  "event_str": "TouchEvent(state=70deb0f4e3b61c398fe1e2af454cbcb8, view=8d148aaa74ceb10722f80ff92b513377(LoginActivity/TextView-\u63a8\u8350))"
+}

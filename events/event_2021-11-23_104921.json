@@ -1,0 +1,52 @@
+{
+  "tag": "2021-11-23_104921",
+  "event": {
+    "event_type": "scroll",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        16,
+        76
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          375
+        ],
+        [
+          1080,
+          2148
+        ]
+      ],
+      "resource_id": "com.tencent.qqmusic:id/e7p",
+      "checked": false,
+      "text": null,
+      "class": "androidx.viewpager.widget.ViewPager",
+      "scrollable": true,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 3,
+      "temp_id": 15,
+      "size": "1080*1773",
+      "signature": "[class]androidx.viewpager.widget.ViewPager[resource_id]com.tencent.qqmusic:id/e7p[text]None[enabled,,]",
+      "view_str": "0279aa3ac8b38cb17fd34d8bef03ec88"
+    },
+    "direction": "RIGHT"
+  },
+  "start_state": "3f751964fccae4c779db8c3e7ead1c5d",
+  "stop_state": "179d9f04575911a1d5c3eb7973c01f6d",
+  "event_str": "ScrollEvent(state=3f751964fccae4c779db8c3e7ead1c5d, view=0279aa3ac8b38cb17fd34d8bef03ec88(SuperSoundAllEffectActivity/ViewPager-), direction=RIGHT)"
+}

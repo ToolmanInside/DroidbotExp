@@ -1,0 +1,11 @@
+{
+  "tag": "2021-11-23_110155",
+  "event": {
+    "event_type": "key",
+    "log_lines": null,
+    "name": "BACK"
+  },
+  "start_state": "2c2637d8bcfb07aa93ba3badcb7a16ec",
+  "stop_state": "ffa270e4a87e8e4d81b2cff1bf9a3dae",
+  "event_str": "KeyEvent(state=2c2637d8bcfb07aa93ba3badcb7a16ec, name=BACK)"
+}

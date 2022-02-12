@@ -1,0 +1,48 @@
+{
+  "tag": "2021-11-23_105055",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.android.permissioncontroller",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          72,
+          1103
+        ],
+        [
+          1008,
+          1257
+        ]
+      ],
+      "resource_id": "com.android.permissioncontroller:id/permission_allow_foreground_only_button",
+      "checked": false,
+      "text": "WHILE USING THE APP",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 10,
+      "temp_id": 11,
+      "size": "936*154",
+      "signature": "[class]android.widget.Button[resource_id]com.android.permissioncontroller:id/permission_allow_foreground_only_button[text]WHILE USING THE APP[enabled,,]",
+      "view_str": "f2227d05e9a8bb2152d3baf4dbad2987"
+    }
+  },
+  "start_state": "ac972957fe6bee773a767497c78149e1",
+  "stop_state": "687b02f23e16b40e688aeb22daf00f54",
+  "event_str": "TouchEvent(state=ac972957fe6bee773a767497c78149e1, view=f2227d05e9a8bb2152d3baf4dbad2987(GrantPermissionsActivity/Button-WHILE USIN))"
+}

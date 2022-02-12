@@ -1,0 +1,48 @@
+{
+  "tag": "2021-11-23_104705",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          237,
+          1752
+        ],
+        [
+          401,
+          1811
+        ]
+      ],
+      "resource_id": "com.tencent.qqmusic:id/eg",
+      "checked": false,
+      "text": "Prisoner",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 165,
+      "temp_id": 166,
+      "size": "164*59",
+      "signature": "[class]android.widget.TextView[resource_id]com.tencent.qqmusic:id/eg[text]Prisoner[enabled,,]",
+      "view_str": "3d141a8958eed0bf55a27c82f2df01fd"
+    }
+  },
+  "start_state": "1460119d0cdc1da7d4c46b09ce7db681",
+  "stop_state": "1460119d0cdc1da7d4c46b09ce7db681",
+  "event_str": "TouchEvent(state=1460119d0cdc1da7d4c46b09ce7db681, view=3d141a8958eed0bf55a27c82f2df01fd(FragmentActivityWithMinibar/TextView-Prisoner))"
+}

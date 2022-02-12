@@ -1,0 +1,48 @@
+{
+  "tag": "2021-12-06_205221",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "org.chromium.webview_shell",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          233,
+          1294
+        ],
+        [
+          1025,
+          1376
+        ]
+      ],
+      "resource_id": "android:id/title",
+      "checked": false,
+      "text": "About WebView",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 26,
+      "temp_id": 27,
+      "size": "792*82",
+      "signature": "[class]android.widget.TextView[resource_id]android:id/title[text]About WebView[enabled,,]",
+      "view_str": "dba62eeb47797e28f87215e5cd54fcfb"
+    }
+  },
+  "start_state": "7d3d19f3860b7730d71aff15acabdec1",
+  "stop_state": "88f64d0237deaddfcee2337661b62ea0",
+  "event_str": "TouchEvent(state=7d3d19f3860b7730d71aff15acabdec1, view=dba62eeb47797e28f87215e5cd54fcfb(WebViewBrowserActivity/TextView-About WebV))"
+}

@@ -1,0 +1,3926 @@
+{
+  "tag": "2021-11-23_110243",
+  "state_str": "a168777ae396ccbcd70d01393d6cc0b4",
+  "state_str_content_free": "e8222f573c15fb98c1b7e6ff22a79d55",
+  "foreground_activity": "com.tencent.qqmusic/.activity.WebViewActivity",
+  "activity_stack": [
+    "com.tencent.qqmusic/.activity.WebViewActivity",
+    "com.tencent.qqmusic/.activity.LoginActivity",
+    "com.tencent.qqmusic/.activity.AppStarterActivity"
+  ],
+  "background_services": [
+    "com.tencent.qqmusic/.service.MainService",
+    "com.android.providers.media.module/com.android.providers.media.fuse.ExternalStorageServiceImpl",
+    "android.ext.services/.notification.Assistant",
+    "com.google.android.gms/.deviceconnection.service.DeviceConnectionWatcherService",
+    "com.android.systemui/.keyguard.KeyguardService",
+    "com.android.bluetooth/.btservice.AdapterService",
+    "com.android.systemui/.ImageWallpaper",
+    "com.google.android.gms/com.google.android.location.geocode.GeocodeService",
+    "com.tencent.qqmusic/com.tencent.wns.service.WnsMain",
+    "com.google.android.gms/.auth.setup.devicesignals.LockScreenService",
+    "com.google.android.gms/.gcm.GcmService",
+    "com.google.android.gms/.clearcut.debug.ClearcutDebugDumpService",
+    "com.android.phone/com.android.internal.telephony.CellularNetworkService",
+    "com.google.android.gms/com.google.location.nearby.direct.service.NearbyDirectService",
+    "com.google.android.gms/.chimera.PersistentBoundBrokerService",
+    "com.android.bluetooth/.gatt.GattService",
+    "com.tencent.qqmusic/.common.ipc.MusicIPCService",
+    "com.google.android.gms/.fido.fido2.pollux.CableAuthenticatorService",
+    "io.github.ylimit.droidbotapp/.DroidBotIME",
+    "com.android.bluetooth/.pbap.BluetoothPbapService",
+    "com.google.android.gms/.beacon.BleService",
+    "com.tencent.qqmusic/com.tencent.qqmusicplayerprocess.servicenew.QQPlayerServiceNew",
+    "com.google.android.gms/com.google.android.location.fused.FusedLocationService",
+    "com.android.networkstack/com.android.server.NetworkStackService",
+    "com.google.android.gms/.gcm.nts.SchedulerService",
+    "com.android.bluetooth/.a2dp.A2dpService",
+    "com.android.cellbroadcastservice/.DefaultCellBroadcastService",
+    "io.github.ylimit.droidbotapp/io.github.privacystreams.accessibility.PSAccessibilityService",
+    "com.google.android.gms/com.google.android.location.geofencer.service.GeofenceProviderService",
+    "com.google.android.gms/.thunderbird.EmergencyPersistentService",
+    "com.android.systemui/.SystemUIService",
+    "android/.hardware.location.GeofenceHardwareService",
+    "com.android.se/.SecureElementService",
+    "com.google.android.gms/.chimera.PersistentDirectBootAwareApiService",
+    "com.android.bluetooth/.hid.HidDeviceService",
+    "com.google.android.gms/.location.persistent.LocationPersistentService",
+    "com.google.android.gms/.nearby.discovery.service.DiscoveryService",
+    "com.google.android.gms/com.google.android.location.internal.PendingIntentCallbackService",
+    "com.google.android.gms/.nearby.messages.service.NearbyMessagesService",
+    "com.android.server.telecom/.components.BluetoothPhoneService",
+    "com.google.android.gms/com.google.android.location.internal.server.GoogleLocationService",
+    "com.google.android.gms/com.google.android.contextmanager.service.ContextManagerService",
+    "com.android.systemui/.dump.SystemUIAuxiliaryDumpService",
+    "com.google.android.gms/com.google.android.location.network.NetworkLocationService",
+    "com.android.stk/.StkAppService",
+    "com.google.android.gms/com.google.android.location.internal.GoogleLocationManagerService",
+    "com.android.networkstack.tethering/.TetheringService",
+    "com.android.phone/com.android.internal.telephony.dataconnection.CellularDataService",
+    "com.android.service.ims/.RcsService",
+    "com.android.server.telecom/.components.TelecomService",
+    "com.android.launcher3/com.android.quickstep.TouchInteractionService",
+    "com.tencent.qqmusic/org.chromium.content.app.SandboxedProcessService0",
+    "com.android.bluetooth/.hfp.HeadsetService",
+    "com.android.emulator.multidisplay/.MultiDisplayService",
+    "com.android.phone/.vvm.RemoteVvmTaskManager",
+    "com.android.ons/.OpportunisticNetworkService",
+    "com.google.android.gms/.common.stats.GmsCoreStatsService",
+    "com.google.android.gms/com.google.android.location.internal.server.HardwareArProviderService",
+    "com.android.bluetooth/.map.BluetoothMapService",
+    "com.android.phone/com.android.services.telephony.sip.components.TelephonySipService",
+    "com.android.phone/.TelephonyDebugService",
+    "com.android.bluetooth/.hid.HidHostService",
+    "com.android.bluetooth/.opp.BluetoothOppService",
+    "com.android.bluetooth/.pan.PanService",
+    "com.android.bluetooth/.avrcp.AvrcpTargetService",
+    "android.ext.services/.autofill.InlineSuggestionRenderServiceImpl"
+  ],
+  "width": 1080,
+  "height": 2280,
+  "views": [
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        1,
+        102
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1080,
+          2280
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": -1,
+      "temp_id": 0,
+      "size": "1080*2280",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "e3a9b2ba7777651bc8bbda4794a86e4b"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        2
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1080,
+          2148
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 0,
+      "temp_id": 1,
+      "size": "1080*2148",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "b6d81d6ade1f90dc6b48ec5016edb019"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        3
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1080,
+          2148
+        ]
+      ],
+      "resource_id": "android:id/content",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 1,
+      "temp_id": 2,
+      "size": "1080*2148",
+      "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]",
+      "view_str": "f61e98693bd4bf7e2234c52a02659fce"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        4
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1080,
+          2148
+        ]
+      ],
+      "resource_id": "com.tencent.qqmusic:id/f24",
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 2,
+      "temp_id": 3,
+      "size": "1080*2148",
+      "signature": "[class]android.view.ViewGroup[resource_id]com.tencent.qqmusic:id/f24[text]None[enabled,,]",
+      "view_str": "507c9743ccc87766c2253c0c687097c0"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 9,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        5,
+        6,
+        7,
+        10,
+        12,
+        13,
+        14,
+        15,
+        101
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1080,
+          2148
+        ]
+      ],
+      "resource_id": "com.tencent.qqmusic:id/h",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 3,
+      "temp_id": 4,
+      "size": "1080*2148",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.tencent.qqmusic:id/h[text]None[enabled,,]",
+      "view_str": "984520b916817c7ee090fc7c87b969e3"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1080,
+          2148
+        ]
+      ],
+      "resource_id": "com.tencent.qqmusic:id/sw",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 5,
+      "size": "1080*2148",
+      "signature": "[class]android.widget.ImageView[resource_id]com.tencent.qqmusic:id/sw[text]None[enabled,,]",
+      "view_str": "854d84687a2202db4f370e4734ba828e"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1080,
+          259
+        ]
+      ],
+      "resource_id": "com.tencent.qqmusic:id/eji",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 6,
+      "size": "1080*259",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.tencent.qqmusic:id/eji[text]None[enabled,,]",
+      "view_str": "2c51894b1f40889f285b812125139e43"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        8
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          132,
+          259
+        ]
+      ],
+      "resource_id": "com.tencent.qqmusic:id/b_a",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 7,
+      "size": "132*259",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.tencent.qqmusic:id/b_a[text]None[enabled,,]",
+      "view_str": "af54807605b84fd634a6075c7dc6b74b"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        9
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          135
+        ],
+        [
+          121,
+          259
+        ]
+      ],
+      "resource_id": "com.tencent.qqmusic:id/b__",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 7,
+      "temp_id": 8,
+      "size": "121*124",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.tencent.qqmusic:id/b__[text]None[enabled,,]",
+      "view_str": "570253fd251558160e993d6b29d9abfe"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "\u8fd4\u56de",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          136
+        ],
+        [
+          121,
+          257
+        ]
+      ],
+      "resource_id": "com.tencent.qqmusic:id/h3",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 8,
+      "temp_id": 9,
+      "size": "121*121",
+      "signature": "[class]android.widget.ImageView[resource_id]com.tencent.qqmusic:id/h3[text]None[enabled,,]",
+      "view_str": "a98a1700d139fad5086783eef3d33efb"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        11
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          165,
+          0
+        ],
+        [
+          915,
+          259
+        ]
+      ],
+      "resource_id": "com.tencent.qqmusic:id/ok",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 10,
+      "size": "750*259",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.tencent.qqmusic:id/ok[text]None[enabled,,]",
+      "view_str": "91824301d7f4cb0085a0cb2fa286f441"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          315,
+          135
+        ],
+        [
+          765,
+          259
+        ]
+      ],
+      "resource_id": "com.tencent.qqmusic:id/ehs",
+      "checked": false,
+      "text": "\u4f7f\u7528\u6761\u6b3e\u548c\u9690\u79c1\u653f\u7b56",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 10,
+      "temp_id": 11,
+      "size": "450*124",
+      "signature": "[class]android.widget.TextView[resource_id]com.tencent.qqmusic:id/ehs[text]\u4f7f\u7528\u6761\u6b3e\u548c\u9690\u79c1\u653f\u7b56[enabled,,]",
+      "view_str": "c7dc33f60b8b39ffdeda743c1fcac489"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          915,
+          0
+        ],
+        [
+          1080,
+          259
+        ]
+      ],
+      "resource_id": "com.tencent.qqmusic:id/dj7",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 12,
+      "size": "165*259",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.tencent.qqmusic:id/dj7[text]None[enabled,,]",
+      "view_str": "e736550a600f90b564e94e7c6e579cc3"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1080,
+          0
+        ],
+        [
+          1080,
+          259
+        ]
+      ],
+      "resource_id": "com.tencent.qqmusic:id/f1u",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 13,
+      "size": "0*259",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.tencent.qqmusic:id/f1u[text]None[enabled,,]",
+      "view_str": "3b5d0cc125df63f1c681271a9864ff85"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1080,
+          0
+        ],
+        [
+          1080,
+          259
+        ]
+      ],
+      "resource_id": "com.tencent.qqmusic:id/f1t",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 14,
+      "size": "0*259",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.tencent.qqmusic:id/f1t[text]None[enabled,,]",
+      "view_str": "c9024bf09228b5e3fd2c43dfa7842fca"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        16,
+        20,
+        100
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          259
+        ],
+        [
+          1080,
+          2148
+        ]
+      ],
+      "resource_id": "com.tencent.qqmusic:id/dh8",
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 15,
+      "size": "1080*1889",
+      "signature": "[class]android.view.ViewGroup[resource_id]com.tencent.qqmusic:id/dh8[text]None[enabled,,]",
+      "view_str": "8ac2227d13fd1e50bafe67c28bfbe5be"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        17
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          259
+        ],
+        [
+          1080,
+          259
+        ]
+      ],
+      "resource_id": "com.tencent.qqmusic:id/dh_",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 15,
+      "temp_id": 16,
+      "size": "1080*0",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.tencent.qqmusic:id/dh_[text]None[enabled,,]",
+      "view_str": "33cb0bc3463262d1c414992ad576d31f"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        18,
+        19
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          259
+        ],
+        [
+          1080,
+          259
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 16,
+      "temp_id": 17,
+      "size": "1080*0",
+      "signature": "[class]android.view.ViewGroup[resource_id]None[text]None[enabled,,]",
+      "view_str": "43940aad82cc43f72dfb70bd4c27a696"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          471,
+          259
+        ],
+        [
+          609,
+          239
+        ]
+      ],
+      "resource_id": "com.tencent.qqmusic:id/dhe",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 17,
+      "temp_id": 18,
+      "size": "138*-20",
+      "signature": "[class]android.widget.ImageView[resource_id]com.tencent.qqmusic:id/dhe[text]None[enabled,,]",
+      "view_str": "ef312b2a0c48fb6e50928c3634d1d2eb"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          471,
+          259
+        ],
+        [
+          609,
+          239
+        ]
+      ],
+      "resource_id": "com.tencent.qqmusic:id/d7c",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 17,
+      "temp_id": 19,
+      "size": "138*-20",
+      "signature": "[class]android.widget.ImageView[resource_id]com.tencent.qqmusic:id/d7c[text]None[enabled,,]",
+      "view_str": "bb673690da2ab2804c4ebf131d725ff2"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        21
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          259
+        ],
+        [
+          1080,
+          2148
+        ]
+      ],
+      "resource_id": "com.tencent.qqmusic:id/f1x",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 15,
+      "temp_id": 20,
+      "size": "1080*1889",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.tencent.qqmusic:id/f1x[text]None[enabled,,]",
+      "view_str": "47ba670ff23c55ea774cf8eeba0dbc81"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        22
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          259
+        ],
+        [
+          1080,
+          2148
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 20,
+      "temp_id": 21,
+      "size": "1080*1889",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "2b507837a8c36091ba92980a79742999"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        23
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          259
+        ],
+        [
+          1080,
+          2148
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.webkit.WebView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 21,
+      "temp_id": 22,
+      "size": "1080*1889",
+      "signature": "[class]android.webkit.WebView[resource_id]None[text]None[enabled,,]",
+      "view_str": "61b1fb54587578a5516cb0dc5a351b17"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 4,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        24,
+        25,
+        29,
+        99
+      ],
+      "focused": true,
+      "bounds": [
+        [
+          0,
+          259
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "\u4f7f\u7528\u6761\u6b3e\u548c\u9690\u79c1\u653f\u7b56",
+      "class": "android.webkit.WebView",
+      "scrollable": true,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 22,
+      "temp_id": 23,
+      "size": "1083*1891",
+      "signature": "[class]android.webkit.WebView[resource_id]None[text]\u4f7f\u7528\u6761\u6b3e\u548c\u9690\u79c1\u653f\u7b56[enabled,,]",
+      "view_str": "6f35ef137bced6502f2c0bfbde1a7f0d"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          259
+        ],
+        [
+          1083,
+          316
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "QQ\u53f7\u7801\u89c4\u5219",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 23,
+      "temp_id": 24,
+      "size": "1083*57",
+      "signature": "[class]android.view.View[resource_id]None[text]QQ\u53f7\u7801\u89c4\u5219[enabled,,]",
+      "view_str": "9b6ff9143631084c4e765d95024f5a07"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        26,
+        27,
+        28
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          314
+        ],
+        [
+          1083,
+          899
+        ]
+      ],
+      "resource_id": "top",
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 23,
+      "temp_id": 25,
+      "size": "1083*585",
+      "signature": "[class]android.view.View[resource_id]top[text][enabled,,]",
+      "view_str": "19c1375e0bed00cf5a7dc7613171d9d2"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          314
+        ],
+        [
+          1083,
+          371
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "\u3010\u9996\u90e8\u53ca\u5bfc\u8a00\u3011",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 25,
+      "temp_id": 26,
+      "size": "1083*57",
+      "signature": "[class]android.view.View[resource_id]None[text]\u3010\u9996\u90e8\u53ca\u5bfc\u8a00\u3011[enabled,,]",
+      "view_str": "b8a473337f8ae18212c58b2b5e4f0f5f"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          369
+        ],
+        [
+          1083,
+          701
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "\u4e3a\u6709\u6548\u5229\u7528QQ\u53f7\u7801\u8d44\u6e90\uff0c\u7ef4\u62a4\u7528\u6237\u5408\u6cd5\u6743\u76ca\uff0c\u7279\u5236\u8ba2\u300aQQ\u53f7\u7801\u89c4\u5219\u300b\uff08\u4ee5\u4e0b\u7b80\u79f0\u201c\u672c\u89c4\u5219\u201d\uff09\u3002\u8bf7\u60a8\u52a1\u5fc5\u5ba1\u614e\u9605\u8bfb\u3001\u5145\u5206\u7406\u89e3\u5404\u6761\u6b3e\u5185\u5bb9\uff0c\u7279\u522b\u662f\u514d\u9664\u6216\u8005\u9650\u5236\u8d23\u4efb\u7684\u6761\u6b3e\uff0c\u4ee5\u53ca\u5f00\u901a\u6216\u4f7f\u7528\u67d0\u9879\u670d\u52a1\u7684\u5355\u72ec\u534f\u8bae\uff0c\u5e76\u9009\u62e9\u63a5\u53d7\u6216\u4e0d\u63a5\u53d7\u3002\u9650\u5236\u3001\u514d\u8d23\u6761\u6b3e\u53ef\u80fd\u4ee5\u52a0\u7c97\u5f62\u5f0f\u63d0\u793a\u60a8\u6ce8\u610f\u3002",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 25,
+      "temp_id": 27,
+      "size": "1083*332",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "7d29aecabe148f38a9fdb5e0659f560e"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          699
+        ],
+        [
+          1083,
+          899
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "\u9664\u975e\u60a8\u5df2\u9605\u8bfb\u5e76\u63a5\u53d7\u672c\u89c4\u5219\u6240\u6709\u6761\u6b3e\uff0c\u5426\u5219\u60a8\u65e0\u6743\u7533\u8bf7\u6216\u4f7f\u7528QQ\u53f7\u7801\u3002\u60a8\u7533\u8bf7\u6216\u4f7f\u7528QQ\u53f7\u7801\u7684\u884c\u4e3a\u5373\u89c6\u4e3a\u60a8\u5df2\u9605\u8bfb\u5e76\u540c\u610f\u53d7\u672c\u89c4\u5219\u7684\u7ea6\u675f\u3002",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 25,
+      "temp_id": 28,
+      "size": "1083*200",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "7d29aecabe148f38a9fdb5e0659f560e"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 25,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        30,
+        31,
+        39,
+        40,
+        42,
+        43,
+        47,
+        48,
+        51,
+        52,
+        56,
+        57,
+        61,
+        62,
+        69,
+        70,
+        74,
+        75,
+        80,
+        81,
+        86,
+        87,
+        89,
+        90,
+        98
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          897
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": "buttom",
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 23,
+      "temp_id": 29,
+      "size": "1083*1253",
+      "signature": "[class]android.view.View[resource_id]buttom[text][enabled,,]",
+      "view_str": "ce73f614d5e8003c3eb9f169a1348446"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          897
+        ],
+        [
+          1083,
+          957
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "\u4e00\u3001\u3010\u89c4\u5219\u7684\u8303\u56f4\u3011",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 29,
+      "temp_id": 30,
+      "size": "1083*60",
+      "signature": "[class]android.view.View[resource_id]None[text]\u4e00\u3001\u3010\u89c4\u5219\u7684\u8303\u56f4\u3011[enabled,,]",
+      "view_str": "a7b985b14c159a42a8d4b11ba67b8369"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        32,
+        33,
+        38
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          954
+        ],
+        [
+          1083,
+          1419
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.widget.ListView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 29,
+      "temp_id": 31,
+      "size": "1083*465",
+      "signature": "[class]android.widget.ListView[resource_id]None[text][enabled,,]",
+      "view_str": "b34fb461376d9f4add08dbb736656a00"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          954
+        ],
+        [
+          1083,
+          1155
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "1.1 \u672c\u89c4\u5219\u662f\u817e\u8baf\u5236\u5b9a\u7684\u5173\u4e8e\u83b7\u53d6\u548c\u4f7f\u7528QQ\u53f7\u7801\u7684\u76f8\u5173\u89c4\u5219\u3002\u672c\u89c4\u5219\u9002\u7528\u4e8e\u817e\u8baf\u63d0\u4f9b\u7684\u9700\u8981\u6ce8\u518c\u6216\u4f7f\u7528QQ\u53f7\u7801\u7684\u5168\u90e8\u8f6f\u4ef6\u548c\u670d\u52a1\u3002",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 31,
+      "temp_id": 32,
+      "size": "1083*201",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "c51d4514c581d192da9abe1e15c561f2"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        34,
+        35,
+        37
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1152
+        ],
+        [
+          1083,
+          1287
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 31,
+      "temp_id": 33,
+      "size": "1083*135",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "view_str": "8461fe83e3ebcb3a4192a322524c60be"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1155
+        ],
+        [
+          602,
+          1216
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "1.2 \u672c\u89c4\u5219\u5c5e\u4e8e\u817e\u8baf\u7684\u4e1a\u52a1\u89c4\u5219\uff0c\u662f",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 33,
+      "temp_id": 34,
+      "size": "602*61",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]1.2 \u672c\u89c4\u5219\u5c5e\u4e8e\u817e\u8baf\u7684\u4e1a\u52a1\u89c4\u5219\uff0c\u662f[enabled,,]",
+      "view_str": "7a3b3fe7f216aa266ed408f91c028332"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "\u300a\u817e\u8baf\u670d\u52a1\u534f\u8bae\u300b",
+      "children": [
+        36
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          599,
+          1155
+        ],
+        [
+          910,
+          1216
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 33,
+      "temp_id": 35,
+      "size": "311*61",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "edb4c394d1efc9d003b317969d9c622a"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          599,
+          1155
+        ],
+        [
+          910,
+          1216
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "\u300a\u817e\u8baf\u670d\u52a1\u534f\u8bae\u300b",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 35,
+      "temp_id": 36,
+      "size": "311*61",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]\u300a\u817e\u8baf\u670d\u52a1\u534f\u8bae\u300b[enabled,,]",
+      "view_str": "c90e5966857918c7b414174de4c8c5de"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1155
+        ],
+        [
+          1064,
+          1282
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "\u4e0d\u53ef\u5206\u5272\u7684\u7ec4\u6210\u90e8\u5206\u3002",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 33,
+      "temp_id": 37,
+      "size": "1064*127",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]\u4e0d\u53ef\u5206\u5272\u7684\u7ec4\u6210\u90e8\u5206\u3002[enabled,,]",
+      "view_str": "10a7249145d6e853154910b8c9345047"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1284
+        ],
+        [
+          1083,
+          1419
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "1.3 \u60a8\u901a\u8fc7QQ\u53f7\u7801\u4f7f\u7528\u817e\u8baf\u7684\u8f6f\u4ef6\u548c\u670d\u52a1\u65f6\uff0c\u987b\u540c\u65f6\u9075\u5b88\u5404\u9879\u670d\u52a1\u7684\u5355\u72ec\u534f\u8bae\u3002",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 31,
+      "temp_id": 38,
+      "size": "1083*135",
+      "signature": "[class]android.view.View[resource_id]None[text]1.3 \u60a8\u901a\u8fc7QQ\u53f7\u7801\u4f7f\u7528\u817e\u8baf\u7684\u8f6f\u4ef6\u548c\u670d\u52a1\u65f6\uff0c\u987b\u540c\u65f6\u9075\u5b88\u5404\u9879\u670d\u52a1\u7684\u5355\u72ec\u534f\u8bae\u3002[enabled,,]",
+      "view_str": "6212d8f6d6fec4d6e8c22971284e5062"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1416
+        ],
+        [
+          1083,
+          1474
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "\u4e8c\u3001\u3010QQ\u53f7\u7801\u7684\u6027\u8d28\u3011",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 29,
+      "temp_id": 39,
+      "size": "1083*58",
+      "signature": "[class]android.view.View[resource_id]None[text]\u4e8c\u3001\u3010QQ\u53f7\u7801\u7684\u6027\u8d28\u3011[enabled,,]",
+      "view_str": "f3e270555dcf80a29abe7374ab16c346"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        41
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1471
+        ],
+        [
+          1083,
+          1606
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.widget.ListView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 29,
+      "temp_id": 40,
+      "size": "1083*135",
+      "signature": "[class]android.widget.ListView[resource_id]None[text][enabled,,]",
+      "view_str": "0f0b043b590a1632195876fbce06f35f"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1471
+        ],
+        [
+          1083,
+          1606
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "QQ\u53f7\u7801\u662f\u817e\u8baf\u521b\u8bbe\u7684\u7528\u4e8e\u8bc6\u522b\u7528\u6237\u8eab\u4efd\u7684\u6570\u5b57\u6807\u8bc6\u3002QQ\u53f7\u7801\u7684\u6240\u6709\u6743\u5c5e\u4e8e\u817e\u8baf\u3002",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 40,
+      "temp_id": 41,
+      "size": "1083*135",
+      "signature": "[class]android.view.View[resource_id]None[text]QQ\u53f7\u7801\u662f\u817e\u8baf\u521b\u8bbe\u7684\u7528\u4e8e\u8bc6\u522b\u7528\u6237\u8eab\u4efd\u7684\u6570\u5b57\u6807\u8bc6\u3002QQ\u53f7\u7801\u7684\u6240\u6709\u6743\u5c5e\u4e8e\u817e\u8baf\u3002[enabled,,]",
+      "view_str": "59d1fe484ff1c4d52536d835df58e367"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1603
+        ],
+        [
+          1083,
+          1661
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "\u4e09\u3001\u3010QQ\u53f7\u7801\u7684\u83b7\u53d6\u3011",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 29,
+      "temp_id": 42,
+      "size": "1083*58",
+      "signature": "[class]android.view.View[resource_id]None[text]\u4e09\u3001\u3010QQ\u53f7\u7801\u7684\u83b7\u53d6\u3011[enabled,,]",
+      "view_str": "0d81b51a53c4a9e3935a8df8863df9a5"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        44,
+        45,
+        46
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1658
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.widget.ListView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 29,
+      "temp_id": 43,
+      "size": "1083*492",
+      "signature": "[class]android.widget.ListView[resource_id]None[text][enabled,,]",
+      "view_str": "29e9ea342a6fd180f82213c29660160a"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1658
+        ],
+        [
+          1083,
+          2123
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "3.1 \u60a8\u53ef\u4ee5\u901a\u8fc7\u5982\u4e0b\u65b9\u5f0f\u514d\u8d39\u6216\u6709\u507f\u7533\u8bf7\u6ce8\u518cQQ\u53f7\u7801\uff0c\u5305\u62ec\u4f46\u4e0d\u9650\u4e8e\uff1a\n\uff081\uff09\u8f6f\u4ef6\u5ba2\u6237\u7aef\uff1b\n\uff082\uff09\u817e\u8baf\u7f51\u7ad9\uff1b\n\uff083\uff09\u624b\u673a\u77ed\u4fe1\u3001\u7535\u8bdd\u8bed\u97f3\uff08IVR\uff09\uff1b\n\uff084\uff09\u53c2\u4e0e\u817e\u8baf\u5f00\u5c55\u6216\u6388\u6743\u5f00\u5c55\u7684\u6d3b\u52a8\uff1b\n\uff085\uff09\u5176\u4ed6\u817e\u8baf\u6388\u6743\u7684\u65b9\u5f0f\u3002\n",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 43,
+      "temp_id": 44,
+      "size": "1083*465",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "c51d4514c581d192da9abe1e15c561f2"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          2120
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "3.2 \u60a8\u5b8c\u6210\u7533\u8bf7\u6ce8\u518c\u7a0b\u5e8f\u540e\uff0c\u4f9d\u7167\u817e\u8baf\u7684\u4e1a\u52a1\u89c4\u5219\u83b7\u5f97\u8be5\u53f7\u7801\u7684\u4f7f\u7528\u6743\u3002",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 43,
+      "temp_id": 45,
+      "size": "1083*30",
+      "signature": "[class]android.view.View[resource_id]None[text]3.2 \u60a8\u5b8c\u6210\u7533\u8bf7\u6ce8\u518c\u7a0b\u5e8f\u540e\uff0c\u4f9d\u7167\u817e\u8baf\u7684\u4e1a\u52a1\u89c4\u5219\u83b7\u5f97\u8be5\u53f7\u7801\u7684\u4f7f\u7528\u6743\u3002[enabled,,]",
+      "view_str": "59882f42e4753cf4f05256e8b76fccbf"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          2252
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "3.3 \u65e0\u8bba\u60a8\u901a\u8fc7\u4f55\u79cd\u65b9\u5f0f\u83b7\u53d6QQ\u53f7\u7801\uff0c\u5747\u53d7\u672c\u89c4\u5219\u7ea6\u675f\u3002",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 43,
+      "temp_id": 46,
+      "size": "1083*-102",
+      "signature": "[class]android.view.View[resource_id]None[text]3.3 \u65e0\u8bba\u60a8\u901a\u8fc7\u4f55\u79cd\u65b9\u5f0f\u83b7\u53d6QQ\u53f7\u7801\uff0c\u5747\u53d7\u672c\u89c4\u5219\u7ea6\u675f\u3002[enabled,,]",
+      "view_str": "97350b9d6b0b3b514c261520d7136ee2"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          2318
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "\u56db\u3001\u3010\u7528\u6237\u8eab\u4efd\u4fe1\u606f\u9a8c\u8bc1\u3011",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 29,
+      "temp_id": 47,
+      "size": "1083*-168",
+      "signature": "[class]android.view.View[resource_id]None[text]\u56db\u3001\u3010\u7528\u6237\u8eab\u4efd\u4fe1\u606f\u9a8c\u8bc1\u3011[enabled,,]",
+      "view_str": "481ca9933715621c755fae8785a6b288"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        49,
+        50
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          2376
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.widget.ListView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 29,
+      "temp_id": 48,
+      "size": "1083*-226",
+      "signature": "[class]android.widget.ListView[resource_id]None[text][enabled,,]",
+      "view_str": "7b98080bd5c0829ed2776d8218448610"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          2376
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "4.1 \u60a8\u5728\u7533\u8bf7QQ\u53f7\u7801\u8fc7\u7a0b\u4e2d\uff0c\u9700\u8981\u586b\u5199\u4e00\u4e9b\u5fc5\u8981\u7684\u4fe1\u606f\uff0c\u8bf7\u4fdd\u6301\u8fd9\u4e9b\u4fe1\u606f\u7684\u53ca\u65f6\u66f4\u65b0\uff0c\u4ee5\u4fbf\u817e\u8baf\u5411\u60a8\u63d0\u4f9b\u5e2e\u52a9\uff0c\u6216\u66f4\u597d\u5730\u4e3a\u60a8\u63d0\u4f9b\u670d\u52a1\u3002\u82e5\u56fd\u5bb6\u6cd5\u5f8b\u6cd5\u89c4\u6709\u7279\u6b8a\u89c4\u5b9a\u7684\uff0c\u60a8\u9700\u8981\u586b\u5199\u771f\u5b9e\u7684\u8eab\u4efd\u4fe1\u606f\u3002\u82e5\u60a8\u586b\u5199\u7684\u4fe1\u606f\u4e0d\u5b8c\u6574\u6216\u4e0d\u51c6\u786e\uff0c\u5219\u53ef\u80fd\u65e0\u6cd5\u4f7f\u7528\u670d\u52a1\u6216\u5728\u4f7f\u7528\u8fc7\u7a0b\u4e2d\u53d7\u5230\u9650\u5236\u3002",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 48,
+      "temp_id": 49,
+      "size": "1083*-226",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "c51d4514c581d192da9abe1e15c561f2"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          2706
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "4.2 \u817e\u8baf\u4e0e\u7528\u6237\u4e00\u540c\u81f4\u529b\u4e8e\u4e2a\u4eba\u4fe1\u606f\u7684\u4fdd\u62a4\uff0c\u4fdd\u62a4\u7528\u6237\u4e2a\u4eba\u4fe1\u606f\u662f\u817e\u8baf\u7684\u4e00\u9879\u57fa\u672c\u539f\u5219\u3002\u672a\u7ecf\u60a8\u7684\u540c\u610f\uff0c\u817e\u8baf\u4e0d\u4f1a\u5411\u817e\u8baf\u4ee5\u5916\u7684\u4efb\u4f55\u516c\u53f8\u3001\u7ec4\u7ec7\u548c\u4e2a\u4eba\u62ab\u9732\u60a8\u7684\u4e2a\u4eba\u4fe1\u606f\uff0c\u4f46\u6cd5\u5f8b\u6cd5\u89c4\u53e6\u6709\u89c4\u5b9a\u7684\u9664\u5916\u3002",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 48,
+      "temp_id": 50,
+      "size": "1083*-556",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "c51d4514c581d192da9abe1e15c561f2"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          2970
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "\u4e94\u3001\u3010QQ\u53f7\u7801\u7684\u4f7f\u7528\u3011",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 29,
+      "temp_id": 51,
+      "size": "1083*-820",
+      "signature": "[class]android.view.View[resource_id]None[text]\u4e94\u3001\u3010QQ\u53f7\u7801\u7684\u4f7f\u7528\u3011[enabled,,]",
+      "view_str": "4324c1c7cc20d8672f4444213c193d88"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        53,
+        54,
+        55
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          3025
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.widget.ListView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 29,
+      "temp_id": 52,
+      "size": "1083*-875",
+      "signature": "[class]android.widget.ListView[resource_id]None[text][enabled,,]",
+      "view_str": "df9c68477046ee7944190a438aaeaff2"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          3025
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "5.1 \u60a8\u53ef\u4ee5\u6309\u7167\u817e\u8baf\u7684\u4e1a\u52a1\u89c4\u5219\u7528QQ\u53f7\u7801\u767b\u5f55\u548c\u4f7f\u7528\u817e\u8baf\u63d0\u4f9b\u7684\u5404\u79cd\u8f6f\u4ef6\u548c\u670d\u52a1\u3002",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 52,
+      "temp_id": 53,
+      "size": "1083*-875",
+      "signature": "[class]android.view.View[resource_id]None[text]5.1 \u60a8\u53ef\u4ee5\u6309\u7167\u817e\u8baf\u7684\u4e1a\u52a1\u89c4\u5219\u7528QQ\u53f7\u7801\u767b\u5f55\u548c\u4f7f\u7528\u817e\u8baf\u63d0\u4f9b\u7684\u5404\u79cd\u8f6f\u4ef6\u548c\u670d\u52a1\u3002[enabled,,]",
+      "view_str": "d40f58cf695c7692ac30e1920f3b8b1c"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          3157
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "5.2 \u9664\u4e86\u817e\u8baf\u63d0\u4f9b\u7684\u8f6f\u4ef6\u548c\u670d\u52a1\uff0c\u60a8\u8fd8\u53ef\u4ee5\u7528QQ\u53f7\u7801\u767b\u5f55\u4f7f\u7528\u817e\u8baf\u5408\u4f5c\u4f19\u4f34\u7684\u76f8\u5173\u670d\u52a1\u3002",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 52,
+      "temp_id": 54,
+      "size": "1083*-1007",
+      "signature": "[class]android.view.View[resource_id]None[text]5.2 \u9664\u4e86\u817e\u8baf\u63d0\u4f9b\u7684\u8f6f\u4ef6\u548c\u670d\u52a1\uff0c\u60a8\u8fd8\u53ef\u4ee5\u7528QQ\u53f7\u7801\u767b\u5f55\u4f7f\u7528\u817e\u8baf\u5408\u4f5c\u4f19\u4f34\u7684\u76f8\u5173\u670d\u52a1\u3002[enabled,,]",
+      "view_str": "9c14c89048dfebbbef013aa80adfdb90"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          3289
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.widget.ListView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 52,
+      "temp_id": 55,
+      "size": "1083*-1139",
+      "signature": "[class]android.widget.ListView[resource_id]None[text][enabled,,]",
+      "view_str": "bf037ef50e380ca9bf9aa5f4550fcb2c"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          3289
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "\u516d\u3001\u3010QQ\u53f7\u7801\u7684\u5b89\u5168\u3011",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 29,
+      "temp_id": 56,
+      "size": "1083*-1139",
+      "signature": "[class]android.view.View[resource_id]None[text]\u516d\u3001\u3010QQ\u53f7\u7801\u7684\u5b89\u5168\u3011[enabled,,]",
+      "view_str": "79f4c3b96dac364037753893ecd63fcd"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        58,
+        59,
+        60
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          3344
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.widget.ListView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 29,
+      "temp_id": 57,
+      "size": "1083*-1194",
+      "signature": "[class]android.widget.ListView[resource_id]None[text][enabled,,]",
+      "view_str": "3c54fb1be288f4b43355aca85a606b03"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          3344
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "6.1 QQ\u5bc6\u7801\u7531\u60a8\u81ea\u884c\u8bbe\u5b9a\u3002\u60a8\u5e94\u59a5\u5584\u4fdd\u7ba1\u60a8\u7684QQ\u53f7\u7801\u4e0e\u5bc6\u7801\u3002",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 57,
+      "temp_id": 58,
+      "size": "1083*-1194",
+      "signature": "[class]android.view.View[resource_id]None[text]6.1 QQ\u5bc6\u7801\u7531\u60a8\u81ea\u884c\u8bbe\u5b9a\u3002\u60a8\u5e94\u59a5\u5584\u4fdd\u7ba1\u60a8\u7684QQ\u53f7\u7801\u4e0e\u5bc6\u7801\u3002[enabled,,]",
+      "view_str": "9a5c486d4642f176f71b8fba1489dc73"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          3410
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "6.2 \u817e\u8baf\u4e0e\u60a8\u5171\u540c\u8d1f\u6709\u7ef4\u62a4QQ\u53f7\u7801\u5b89\u5168\u7684\u8d23\u4efb\u3002\u817e\u8baf\u4f1a\u91c7\u53d6\u5e76\u4e0d\u65ad\u66f4\u65b0\u6280\u672f\u63aa\u65bd\uff0c\u52aa\u529b\u4fdd\u62a4\u60a8\u7684QQ\u53f7\u7801\u5728\u670d\u52a1\u5668\u7aef\u7684\u5b89\u5168\u3002",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 57,
+      "temp_id": 59,
+      "size": "1083*-1260",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "c51d4514c581d192da9abe1e15c561f2"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          3542
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "6.3 \u60a8\u9700\u8981\u91c7\u53d6\u7279\u5b9a\u63aa\u65bd\u4fdd\u62a4\u60a8\u7684\u53f7\u7801\u5b89\u5168\uff0c\u5305\u62ec\u4f46\u4e0d\u9650\u4e8e\u59a5\u5584\u4fdd\u7ba1QQ\u53f7\u7801\u4e0e\u5bc6\u7801\u3001\u5b89\u88c5\u9632\u75c5\u6bd2\u6728\u9a6c\u8f6f\u4ef6\u3001\u5b9a\u671f\u66f4\u6539\u5bc6\u7801\u7b49\u63aa\u65bd\u3002",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 57,
+      "temp_id": 60,
+      "size": "1083*-1392",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "c51d4514c581d192da9abe1e15c561f2"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          3740
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "\u4e03\u3001\u3010QQ\u53f7\u7801\u7684\u627e\u56de\u3011",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 29,
+      "temp_id": 61,
+      "size": "1083*-1590",
+      "signature": "[class]android.view.View[resource_id]None[text]\u4e03\u3001\u3010QQ\u53f7\u7801\u7684\u627e\u56de\u3011[enabled,,]",
+      "view_str": "81509fa5837e59e286b3e44700ec0a68"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        63
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          3798
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.widget.ListView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 29,
+      "temp_id": 62,
+      "size": "1083*-1648",
+      "signature": "[class]android.widget.ListView[resource_id]None[text][enabled,,]",
+      "view_str": "d3056f7e55db85c5cbdbad5276277acf"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 4,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        64,
+        65,
+        67,
+        68
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          3798
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 62,
+      "temp_id": 63,
+      "size": "1083*-1648",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "view_str": "fcbed9192fce0808cb5a54be602f0509"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          3803
+        ],
+        [
+          1061,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "\u5982\u679c\u60a8\u7684QQ\u53f7\u7801\u88ab\u76d7\u3001\u5bc6\u7801\u9057\u5fd8\u6216\u56e0\u5176\u4ed6\u539f\u56e0\u5bfc\u81f4\u65e0\u6cd5\u6b63\u5e38\u767b\u5f55\uff0c\u60a8\u53ef\u4ee5\u6309\u7167\u817e\u8baf\u7684\u7533\u8bc9\u9014\u5f84\u8fdb\u884c\u7533\u8bc9\uff0c\u5e76\u9075\u5b88",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 63,
+      "temp_id": 64,
+      "size": "1061*-1653",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]\u5982\u679c\u60a8\u7684QQ\u53f7\u7801\u88ab\u76d7\u3001\u5bc6\u7801\u9057\u5fd8\u6216\u56e0\u5176\u4ed6\u539f\u56e0\u5bfc\u81f4\u65e0\u6cd5\u6b63\u5e38\u767b\u5f55\uff0c\u60a8\u53ef\u4ee5\u6309\u7167\u817e\u8baf\u7684\u7533\u8bc9\u9014\u5f84\u8fdb\u884c\u7533\u8bc9\uff0c\u5e76\u9075\u5b88[enabled,,]",
+      "view_str": "48a70de49d91780577ee53b80b73c441"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "\u300aQQ\u5e10\u53f7\u7533\u8bc9\u670d\u52a1\u534f\u8bae\u300b",
+      "children": [
+        66
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          3869
+        ],
+        [
+          1061,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 63,
+      "temp_id": 65,
+      "size": "1061*-1719",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "e6f67952fec816696a576137ae35ba29"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          3869
+        ],
+        [
+          1061,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "\u300aQQ\u5e10\u53f7\u7533\u8bc9\u670d\u52a1\u534f\u8bae\u300b",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 65,
+      "temp_id": 66,
+      "size": "1061*-1719",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]\u300aQQ\u5e10\u53f7\u7533\u8bc9\u670d\u52a1\u534f\u8bae\u300b[enabled,,]",
+      "view_str": "b37d708b81ee19b8f7d2a2af9e9b68aa"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          231,
+          3935
+        ],
+        [
+          272,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "\u3002",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 63,
+      "temp_id": 67,
+      "size": "41*-1785",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]\u3002[enabled,,]",
+      "view_str": "1ca6acb4506a56b875aab24953c725a7"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          266,
+          3935
+        ],
+        [
+          1061,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "\u817e\u8baf\u5e76\u4e0d\u627f\u8bfa\u60a8\u4e00\u5b9a\u80fd\u901a\u8fc7\u7533\u8bc9\u627e\u56deQQ\u53f7\u7801\u3002",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 63,
+      "temp_id": 68,
+      "size": "795*-1785",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]\u817e\u8baf\u5e76\u4e0d\u627f\u8bfa\u60a8\u4e00\u5b9a\u80fd\u901a\u8fc7\u7533\u8bc9\u627e\u56deQQ\u53f7\u7801\u3002[enabled,,]",
+      "view_str": "2ce5acce7a67b724ca77ece11ee5a0a2"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          3996
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "\u516b\u3001\u3010\u7528\u6237\u884c\u4e3a\u89c4\u8303\u3011",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 29,
+      "temp_id": 69,
+      "size": "1083*-1846",
+      "signature": "[class]android.view.View[resource_id]None[text]\u516b\u3001\u3010\u7528\u6237\u884c\u4e3a\u89c4\u8303\u3011[enabled,,]",
+      "view_str": "2a970535c091af5a10e549151d04119b"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        71,
+        72,
+        73
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          4051
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.widget.ListView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 29,
+      "temp_id": 70,
+      "size": "1083*-1901",
+      "signature": "[class]android.widget.ListView[resource_id]None[text][enabled,,]",
+      "view_str": "d116e92c7335888c15ab95fe7e61a6a3"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          4051
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "8.1 \u60a8\u4e0d\u5f97\u6076\u610f\u6ce8\u518cQQ\u53f7\u7801\u3002\u817e\u8baf\u53ef\u4ee5\u5bf9\u6076\u610f\u6ce8\u518c\u884c\u4e3a\u8fdb\u884c\u72ec\u7acb\u5224\u65ad\u548c\u5904\u7406\u3002",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 70,
+      "temp_id": 71,
+      "size": "1083*-1901",
+      "signature": "[class]android.view.View[resource_id]None[text]8.1 \u60a8\u4e0d\u5f97\u6076\u610f\u6ce8\u518cQQ\u53f7\u7801\u3002\u817e\u8baf\u53ef\u4ee5\u5bf9\u6076\u610f\u6ce8\u518c\u884c\u4e3a\u8fdb\u884c\u72ec\u7acb\u5224\u65ad\u548c\u5904\u7406\u3002[enabled,,]",
+      "view_str": "135e8014e2e29f86a7fc867ccd8ab4dd"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          4183
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "8.2 QQ\u53f7\u7801\u4f7f\u7528\u6743\u4ec5\u5c5e\u4e8e\u521d\u59cb\u7533\u8bf7\u6ce8\u518c\u4eba\u3002\u672a\u7ecf\u817e\u8baf\u8bb8\u53ef\uff0c\u60a8\u4e0d\u5f97\u8d60\u4e0e\u3001\u501f\u7528\u3001\u79df\u7528\u3001\u8f6c\u8ba9\u6216\u552e\u5356QQ\u53f7\u7801\u6216\u8005\u4ee5\u5176\u4ed6\u65b9\u5f0f\u8bb8\u53ef\u975e\u521d\u59cb\u7533\u8bf7\u6ce8\u518c\u4eba\u4f7f\u7528QQ\u53f7\u7801\u3002",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 70,
+      "temp_id": 72,
+      "size": "1083*-2033",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "c51d4514c581d192da9abe1e15c561f2"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          4381
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "8.3 \u5982\u679c\u60a8\u5f53\u524d\u4f7f\u7528\u7684QQ\u53f7\u7801\u5e76\u4e0d\u662f\u60a8\u521d\u59cb\u7533\u8bf7\u6ce8\u518c\u7684\u6216\u8005\u901a\u8fc7\u817e\u8baf\u63d0\u4f9b\u7684\u5176\u4ed6\u9014\u5f84\u83b7\u5f97\u7684\uff0c\u4f46\u60a8\u5374\u77e5\u6089\u8be5QQ\u53f7\u7801\u5f53\u524d\u7684\u5bc6\u7801\uff0c\u60a8\u4e0d\u5f97\u7528\u8be5\u53f7\u7801\u767b\u5f55\u6216\u8fdb\u884c\u4efb\u4f55\u64cd\u4f5c\uff0c\u5e76\u8bf7\u60a8\u5728\u7b2c\u4e00\u65f6\u95f4\u901a\u77e5\u817e\u8baf\u6216\u8005\u8be5\u53f7\u7801\u7684\u521d\u59cb\u7533\u8bf7\u6ce8\u518c\u4eba\u3002",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 70,
+      "temp_id": 73,
+      "size": "1083*-2231",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "c51d4514c581d192da9abe1e15c561f2"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          4645
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "\u4e5d\u3001\u3010\u8d23\u4efb\u627f\u62c5\u3011",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 29,
+      "temp_id": 74,
+      "size": "1083*-2495",
+      "signature": "[class]android.view.View[resource_id]None[text]\u4e5d\u3001\u3010\u8d23\u4efb\u627f\u62c5\u3011[enabled,,]",
+      "view_str": "597b32f0e48622fa3e0b7260ac66f028"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 4,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        76,
+        77,
+        78,
+        79
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          4703
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.widget.ListView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 29,
+      "temp_id": 75,
+      "size": "1083*-2553",
+      "signature": "[class]android.widget.ListView[resource_id]None[text][enabled,,]",
+      "view_str": "2529e1bf5e8f5ba7446b3f9fee3747e7"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          4703
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "9.1 \u60a8\u7406\u89e3\u5e76\u540c\u610f\uff0c\u4f5c\u4e3aQQ\u53f7\u7801\u7684\u521d\u59cb\u7533\u8bf7\u6ce8\u518c\u4eba\u548c\u4f7f\u7528\u4eba\uff0c\u60a8\u5e94\u627f\u62c5\u8be5\u53f7\u7801\u9879\u4e0b\u6240\u6709\u6d3b\u52a8\u4ea7\u751f\u7684\u5168\u90e8\u8d23\u4efb\u3002",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 75,
+      "temp_id": 76,
+      "size": "1083*-2553",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "c51d4514c581d192da9abe1e15c561f2"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          4835
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "9.2 \u56e0\u817e\u8baf\u539f\u56e0\u5bfc\u81f4\u60a8\u7684QQ\u53f7\u7801\u88ab\u76d7\uff0c\u817e\u8baf\u5c06\u4f9d\u6cd5\u627f\u62c5\u76f8\u5e94\u8d23\u4efb\u3002\u975e\u56e0\u817e\u8baf\u539f\u56e0\u5bfc\u81f4\u7684\uff0c\u817e\u8baf\u4e0d\u627f\u62c5\u4efb\u4f55\u8d23\u4efb\u3002",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 75,
+      "temp_id": 77,
+      "size": "1083*-2685",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "c51d4514c581d192da9abe1e15c561f2"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          4967
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "9.3 \u817e\u8baf\u4f9d\u7167\u4e1a\u52a1\u89c4\u5219\u9650\u5236\u3001\u51bb\u7ed3\u6216\u7ec8\u6b62\u60a8\u7684QQ\u53f7\u7801\u4f7f\u7528\uff0c\u53ef\u80fd\u4f1a\u7ed9\u60a8\u9020\u6210\u4e00\u5b9a\u7684\u635f\u5931\uff0c\u8be5\u635f\u5931\u7531\u60a8\u81ea\u884c\u627f\u62c5\uff0c\u817e\u8baf\u4e0d\u627f\u62c5\u4efb\u4f55\u8d23\u4efb\u3002",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 75,
+      "temp_id": 78,
+      "size": "1083*-2817",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "c51d4514c581d192da9abe1e15c561f2"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          5165
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "9.4 \u60a8\u4e0d\u5f97\u6709\u507f\u6216\u65e0\u507f\u8f6c\u8ba9QQ\u53f7\u7801\uff0c\u4ee5\u514d\u4ea7\u751f\u7ea0\u7eb7\u3002\u60a8\u5e94\u5f53\u81ea\u884c\u627f\u62c5\u7531\u6b64\u4ea7\u751f\u7684\u4efb\u4f55\u8d23\u4efb\uff0c\u540c\u65f6\u817e\u8baf\u4fdd\u7559\u8ffd\u7a76\u4e0a\u8ff0\u884c\u4e3a\u4eba\u6cd5\u5f8b\u8d23\u4efb\u7684\u6743\u5229\u3002",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 75,
+      "temp_id": 79,
+      "size": "1083*-3015",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "c51d4514c581d192da9abe1e15c561f2"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          5363
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "\u5341\u3001\u3010QQ\u53f7\u7801\u4f7f\u7528\u7684\u9650\u5236\u3001\u51bb\u7ed3\u6216\u7ec8\u6b62\u3011",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 29,
+      "temp_id": 80,
+      "size": "1083*-3213",
+      "signature": "[class]android.view.View[resource_id]None[text]\u5341\u3001\u3010QQ\u53f7\u7801\u4f7f\u7528\u7684\u9650\u5236\u3001\u51bb\u7ed3\u6216\u7ec8\u6b62\u3011[enabled,,]",
+      "view_str": "9d5f1e1e55abb3a2397fc17f41e7c5df"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 4,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        82,
+        83,
+        84,
+        85
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          5418
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.widget.ListView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 29,
+      "temp_id": 81,
+      "size": "1083*-3268",
+      "signature": "[class]android.widget.ListView[resource_id]None[text][enabled,,]",
+      "view_str": "a5d8656790f3fec771ca3a7c0ce3f69b"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          5418
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "10.1 \u5982\u60a8\u8fdd\u53cd\u6cd5\u5f8b\u6cd5\u89c4\u3001\u817e\u8baf\u5404\u670d\u52a1\u534f\u8bae\u6216\u4e1a\u52a1\u89c4\u5219\u7684\u89c4\u5b9a\uff0c\u817e\u8baf\u6709\u6743\u8fdb\u884c\u72ec\u7acb\u5224\u65ad\u5e76\u968f\u65f6\u9650\u5236\u3001\u51bb\u7ed3\u6216\u7ec8\u6b62\u60a8\u5bf9QQ\u53f7\u7801\u7684\u4f7f\u7528\uff0c\u4e14\u6839\u636e\u5b9e\u9645\u60c5\u51b5\u51b3\u5b9a\u662f\u5426\u6062\u590d\u4f7f\u7528\u3002",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 81,
+      "temp_id": 82,
+      "size": "1083*-3268",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "c51d4514c581d192da9abe1e15c561f2"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          5616
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "10.2 \u5982\u679c\u817e\u8baf\u53d1\u73b0\u60a8\u5e76\u975e\u53f7\u7801\u521d\u59cb\u7533\u8bf7\u6ce8\u518c\u4eba\uff0c\u817e\u8baf\u6709\u6743\u5728\u672a\u7ecf\u901a\u77e5\u7684\u60c5\u51b5\u4e0b\u7ec8\u6b62\u60a8\u4f7f\u7528\u8be5\u53f7\u7801\u3002",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 81,
+      "temp_id": 83,
+      "size": "1083*-3466",
+      "signature": "[class]android.view.View[resource_id]None[text]10.2 \u5982\u679c\u817e\u8baf\u53d1\u73b0\u60a8\u5e76\u975e\u53f7\u7801\u521d\u59cb\u7533\u8bf7\u6ce8\u518c\u4eba\uff0c\u817e\u8baf\u6709\u6743\u5728\u672a\u7ecf\u901a\u77e5\u7684\u60c5\u51b5\u4e0b\u7ec8\u6b62\u60a8\u4f7f\u7528\u8be5\u53f7\u7801\u3002[enabled,,]",
+      "view_str": "7cd7ad8b53909cde19760548ad453b7a"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          5748
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "10.3 \u4e3a\u4e86\u5145\u5206\u5229\u7528QQ\u53f7\u7801\u8d44\u6e90\uff0c\u5982\u679c\u60a8\u5b58\u5728\u6ce8\u518cQQ\u53f7\u7801\u540e\u672a\u53ca\u65f6\u8fdb\u884c\u521d\u6b21\u767b\u5f55\u4f7f\u7528\uff0c\u6216\u957f\u671f\u672a\u767b\u9646\u4f7f\u7528QQ\u53f7\u7801\u7b49\u60c5\u5f62\uff0c\u817e\u8baf\u6709\u6743\u7ec8\u6b62\u8be5\u53f7\u7801\u7684\u4f7f\u7528\u3002",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 81,
+      "temp_id": 84,
+      "size": "1083*-3598",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "c51d4514c581d192da9abe1e15c561f2"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          5946
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "10.4 \u817e\u8baf\u6309\u7167\u672c\u89c4\u5219\u6216\u76f8\u5173\u6cd5\u5f8b\u6cd5\u89c4\uff0c\u9650\u5236\u3001\u51bb\u7ed3\u6216\u7ec8\u6b62\u60a8\u5bf9QQ\u53f7\u7801\u7684\u4f7f\u7528\uff0c\u800c\u7531\u6b64\u7ed9\u60a8\u5e26\u6765\u7684\u635f\u5931\uff08\u5305\u62ec\u4f46\u4e0d\u9650\u4e8e\u901a\u4fe1\u4e2d\u65ad\uff0c\u7528\u6237\u8d44\u6599\u3001\u90ae\u4ef6\u548c\u6e38\u620f\u9053\u5177\u53ca\u76f8\u5173\u6570\u636e\u7b49\u7684\u6e05\u7a7a\u7b49\uff09\uff0c\u7531\u60a8\u81ea\u884c\u627f\u62c5\u3002",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 81,
+      "temp_id": 85,
+      "size": "1083*-3796",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "c51d4514c581d192da9abe1e15c561f2"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          6210
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "\u5341\u4e00\u3001\u3010\u5ba2\u6237\u670d\u52a1\u3011",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 29,
+      "temp_id": 86,
+      "size": "1083*-4060",
+      "signature": "[class]android.view.View[resource_id]None[text]\u5341\u4e00\u3001\u3010\u5ba2\u6237\u670d\u52a1\u3011[enabled,,]",
+      "view_str": "0def2c753f42b80b0de8860c62144d10"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        88
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          6265
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.widget.ListView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 29,
+      "temp_id": 87,
+      "size": "1083*-4115",
+      "signature": "[class]android.widget.ListView[resource_id]None[text][enabled,,]",
+      "view_str": "853ad71ca63aa3321fe2c58fd717311a"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          6265
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "\u5982\u679c\u60a8\u5bf9\u817e\u8baf\u91c7\u53d6\u7684QQ\u53f7\u7801\u7684\u9650\u5236\u63aa\u65bd\u6709\u5f02\u8bae\u6216\u5728\u4f7f\u7528QQ\u53f7\u7801\u7684\u8fc7\u7a0b\u4e2d\u6709\u5176\u4ed6\u95ee\u9898\u7684\uff0c\u5747\u53ef\u8054\u7cfb\u817e\u8baf\u5ba2\u6237\u670d\u52a1\u90e8\u95e8\uff08http://kf.qq.com\uff09\uff0c\u6211\u4eec\u4f1a\u7ed9\u4e88\u60a8\u5fc5\u8981\u7684\u5e2e\u52a9\u3002",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 87,
+      "temp_id": 88,
+      "size": "1083*-4115",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "c51d4514c581d192da9abe1e15c561f2"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          6463
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "\u5341\u4e8c\u3001\u3010\u5176\u4ed6\u3011",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 29,
+      "temp_id": 89,
+      "size": "1083*-4313",
+      "signature": "[class]android.view.View[resource_id]None[text]\u5341\u4e8c\u3001\u3010\u5176\u4ed6\u3011[enabled,,]",
+      "view_str": "30c8624de2e73016a5febb0fe3c99c86"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 7,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          6520
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.widget.ListView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 29,
+      "temp_id": 90,
+      "size": "1083*-4370",
+      "signature": "[class]android.widget.ListView[resource_id]None[text][enabled,,]",
+      "view_str": "76cc09b31abd09be6419a1792f2dbe46"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          6520
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "12.1 \u60a8\u7533\u8bf7\u6216\u4f7f\u7528QQ\u53f7\u7801\u5373\u89c6\u4e3a\u60a8\u5df2\u9605\u8bfb\u5e76\u540c\u610f\u53d7\u672c\u89c4\u5219\u7684\u7ea6\u675f\u3002\u817e\u8baf\u6709\u6743\u5728\u5fc5\u8981\u65f6\u4fee\u6539\u672c\u89c4\u5219\u6761\u6b3e\u3002\u60a8\u53ef\u4ee5\u5728\u817e\u8baf\u76f8\u5173\u9875\u9762\u67e5\u9605\u672c\u89c4\u5219\u7684\u6700\u65b0\u7248\u672c\u3002\u672c\u89c4\u5219\u6761\u6b3e\u53d8\u66f4\u540e\uff0c\u5982\u679c\u60a8\u7ee7\u7eed\u4f7f\u7528QQ\u53f7\u7801\uff0c\u5373\u89c6\u4e3a\u60a8\u5df2\u63a5\u53d7\u4fee\u6539\u540e\u7684\u89c4\u5219\u3002\u5982\u679c\u60a8\u4e0d\u63a5\u53d7\u4fee\u6539\u540e\u7684\u89c4\u5219\uff0c\u5e94\u5f53\u505c\u6b62\u4f7f\u7528QQ\u53f7\u7801\u3002",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 90,
+      "temp_id": 91,
+      "size": "1083*-4370",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "c51d4514c581d192da9abe1e15c561f2"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          6850
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "12.2 \u672c\u89c4\u5219\u5185\u5bb9\u540c\u65f6\u5305\u62ec\u300a\u817e\u8baf\u670d\u52a1\u534f\u8bae\u300b\u7b49\u3002\u4e0a\u8ff0\u5185\u5bb9\u4e00\u7ecf\u6b63\u5f0f\u53d1\u5e03\uff0c\u5373\u4e3a\u672c\u89c4\u5219\u4e0d\u53ef\u5206\u5272\u7684\u7ec4\u6210\u90e8\u5206\uff0c\u60a8\u540c\u6837\u5e94\u5f53\u9075\u5b88\u3002\u4e0a\u8ff0\u5185\u5bb9\u4e0e\u672c\u89c4\u5219\u5b58\u5728\u51b2\u7a81\u7684\uff0c\u4ee5\u672c\u89c4\u5219\u4e3a\u51c6\u3002\u60a8\u5bf9\u524d\u8ff0\u4efb\u4f55\u4e1a\u52a1\u89c4\u5219\u3001\u534f\u8bae\u7684\u63a5\u53d7\uff0c\u5373\u89c6\u4e3a\u60a8\u5bf9\u672c\u89c4\u5219\u5168\u90e8\u7684\u63a5\u53d7\u3002",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 90,
+      "temp_id": 92,
+      "size": "1083*-4700",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "c51d4514c581d192da9abe1e15c561f2"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          7114
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "12.3 \u672c\u89c4\u5219\u7b7e\u8ba2\u5730\u4e3a\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd\u5e7f\u4e1c\u7701\u6df1\u5733\u5e02\u5357\u5c71\u533a\u3002",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 90,
+      "temp_id": 93,
+      "size": "1083*-4964",
+      "signature": "[class]android.view.View[resource_id]None[text]12.3 \u672c\u89c4\u5219\u7b7e\u8ba2\u5730\u4e3a\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd\u5e7f\u4e1c\u7701\u6df1\u5733\u5e02\u5357\u5c71\u533a\u3002[enabled,,]",
+      "view_str": "c8c6eed889f8ef465c1f0a0cdfa8358c"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          7180
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "12.4 \u672c\u89c4\u5219\u7684\u6210\u7acb\u3001\u751f\u6548\u3001\u5c65\u884c\u3001\u89e3\u91ca\u53ca\u7ea0\u7eb7\u89e3\u51b3\uff0c\u9002\u7528\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd\u5927\u9646\u5730\u533a\u6cd5\u5f8b\uff08\u4e0d\u5305\u62ec\u51b2\u7a81\u6cd5\uff09\u3002",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 90,
+      "temp_id": 94,
+      "size": "1083*-5030",
+      "signature": "[class]android.view.View[resource_id]None[text]12.4 \u672c\u89c4\u5219\u7684\u6210\u7acb\u3001\u751f\u6548\u3001\u5c65\u884c\u3001\u89e3\u91ca\u53ca\u7ea0\u7eb7\u89e3\u51b3\uff0c\u9002\u7528\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd\u5927\u9646\u5730\u533a\u6cd5\u5f8b\uff08\u4e0d\u5305\u62ec\u51b2\u7a81\u6cd5\uff09\u3002[enabled,,]",
+      "view_str": "e0838b1c8afcb2973c51d2e5f26f70d7"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          7312
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "12.5 \u82e5\u60a8\u548c\u817e\u8baf\u4e4b\u95f4\u53d1\u751f\u4efb\u4f55\u7ea0\u7eb7\u6216\u4e89\u8bae\uff0c\u9996\u5148\u5e94\u53cb\u597d\u534f\u5546\u89e3\u51b3\uff1b\u534f\u5546\u4e0d\u6210\u7684\uff0c\u60a8\u540c\u610f\u5c06\u7ea0\u7eb7\u6216\u4e89\u8bae\u63d0\u4ea4\u672c\u89c4\u5219\u7b7e\u8ba2\u5730\u6709\u7ba1\u8f96\u6743\u7684\u4eba\u6c11\u6cd5\u9662\u7ba1\u8f96\u3002",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 90,
+      "temp_id": 95,
+      "size": "1083*-5162",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "c51d4514c581d192da9abe1e15c561f2"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          7510
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "12.6 \u672c\u89c4\u5219\u6240\u6709\u6761\u6b3e\u7684\u6807\u9898\u4ec5\u4e3a\u9605\u8bfb\u65b9\u4fbf\uff0c\u672c\u8eab\u5e76\u65e0\u5b9e\u9645\u6db5\u4e49\uff0c\u4e0d\u80fd\u4f5c\u4e3a\u672c\u89c4\u5219\u6db5\u4e49\u89e3\u91ca\u7684\u4f9d\u636e\u3002",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 90,
+      "temp_id": 96,
+      "size": "1083*-5360",
+      "signature": "[class]android.view.View[resource_id]None[text]12.6 \u672c\u89c4\u5219\u6240\u6709\u6761\u6b3e\u7684\u6807\u9898\u4ec5\u4e3a\u9605\u8bfb\u65b9\u4fbf\uff0c\u672c\u8eab\u5e76\u65e0\u5b9e\u9645\u6db5\u4e49\uff0c\u4e0d\u80fd\u4f5c\u4e3a\u672c\u89c4\u5219\u6db5\u4e49\u89e3\u91ca\u7684\u4f9d\u636e\u3002[enabled,,]",
+      "view_str": "6fb67c12f5fc51c8925fd0afb63bf9e7"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          7642
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "12.7 \u672c\u89c4\u5219\u6761\u6b3e\u65e0\u8bba\u56e0\u4f55\u79cd\u539f\u56e0\u90e8\u5206\u65e0\u6548\u6216\u4e0d\u53ef\u6267\u884c\uff0c\u5176\u4f59\u6761\u6b3e\u4ecd\u6709\u6548\uff0c\u5bf9\u53cc\u65b9\u5177\u6709\u7ea6\u675f\u529b\u3002\uff08\u6b63\u6587\u5b8c\uff09",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 90,
+      "temp_id": 97,
+      "size": "1083*-5492",
+      "signature": "[class]android.view.View[resource_id]None[text]12.7 \u672c\u89c4\u5219\u6761\u6b3e\u65e0\u8bba\u56e0\u4f55\u79cd\u539f\u56e0\u90e8\u5206\u65e0\u6548\u6216\u4e0d\u53ef\u6267\u884c\uff0c\u5176\u4f59\u6761\u6b3e\u4ecd\u6709\u6548\uff0c\u5bf9\u53cc\u65b9\u5177\u6709\u7ea6\u675f\u529b\u3002\uff08\u6b63\u6587\u5b8c\uff09[enabled,,]",
+      "view_str": "d1b6688d07496e190a67377bc46742da"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          7774
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "\u817e\u8baf\u516c\u53f8",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 29,
+      "temp_id": 98,
+      "size": "1083*-5624",
+      "signature": "[class]android.view.View[resource_id]None[text]\u817e\u8baf\u516c\u53f8[enabled,,]",
+      "view_str": "a0af1db7f64db58922778bc4f4cd2a0e"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          7840
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Copyright \u00a9 1998-2021Tencent All Rights Reserved\n\u817e\u8baf\u516c\u53f8 \u7248\u6743\u6240\u6709",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 23,
+      "temp_id": 99,
+      "size": "1083*-5690",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "c00247772256885fe326226753a55841"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          2148
+        ],
+        [
+          1080,
+          2148
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 15,
+      "temp_id": 100,
+      "size": "1080*0",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "31f13dc4b8cc8bb18f833c01fb7ccd5d"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          2148
+        ],
+        [
+          1080,
+          2148
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 101,
+      "size": "1080*0",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "460764f911e99bd58c7679008e9290a9"
+    },
+    {
+      "package": "com.tencent.qqmusic",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          2148
+        ],
+        [
+          1080,
+          2280
+        ]
+      ],
+      "resource_id": "android:id/navigationBarBackground",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 0,
+      "temp_id": 102,
+      "size": "1080*132",
+      "signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground[text]None[enabled,,]",
+      "view_str": "5f74a4ff6a06f25083cd35826c3978a1"
+    }
+  ]
+}

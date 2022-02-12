@@ -1,0 +1,51 @@
+{
+  "tag": "2021-11-23_094451",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.android.permissioncontroller",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        5
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          28,
+          172
+        ],
+        [
+          1052,
+          2147
+        ]
+      ],
+      "resource_id": "com.android.permissioncontroller:id/grant_singleton",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 3,
+      "temp_id": 4,
+      "size": "1024*1975",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.android.permissioncontroller:id/grant_singleton[text]None[enabled,,]",
+      "view_str": "04ad068897eabf309394e360961013b3",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.android.permissioncontroller:id/grant_singleton"
+    }
+  },
+  "start_state": "8cf282d425b2061759c3b4f1f3fcf265",
+  "stop_state": "6cdadbc51d8c2bb6c29eee03ff2a66cc",
+  "event_str": "TouchEvent(state=8cf282d425b2061759c3b4f1f3fcf265, view=04ad068897eabf309394e360961013b3(GrantPermissionsActivity/LinearLayout-))"
+}

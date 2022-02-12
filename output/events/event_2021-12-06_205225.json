@@ -1,0 +1,11 @@
+{
+  "tag": "2021-12-06_205225",
+  "event": {
+    "event_type": "intent",
+    "log_lines": null,
+    "intent": "am start com.tencent.qqmusic/com.tencent.qqmusic.activity.AppStarterActivity"
+  },
+  "start_state": "88f64d0237deaddfcee2337661b62ea0",
+  "stop_state": "88f64d0237deaddfcee2337661b62ea0",
+  "event_str": "IntentEvent(intent='am start com.tencent.qqmusic/com.tencent.qqmusic.activity.AppStarterActivity')"
+}

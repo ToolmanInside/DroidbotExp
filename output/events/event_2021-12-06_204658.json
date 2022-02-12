@@ -1,0 +1,11 @@
+{
+  "tag": "2021-12-06_204658",
+  "event": {
+    "event_type": "intent",
+    "log_lines": null,
+    "intent": "am force-stop com.tencent.qqmusic"
+  },
+  "start_state": "7937929e2d5e94e9d23022ec606431da",
+  "stop_state": "7937929e2d5e94e9d23022ec606431da",
+  "event_str": "IntentEvent(intent='am force-stop com.tencent.qqmusic')"
+}

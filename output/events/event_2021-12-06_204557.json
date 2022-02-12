@@ -1,0 +1,50 @@
+{
+  "tag": "2021-12-06_204557",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "\u53cd\u9988\u5efa\u8bae",
+      "children": [
+        14
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          473,
+          1141
+        ],
+        [
+          607,
+          1183
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 12,
+      "temp_id": 13,
+      "size": "134*42",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "24a6f832b08c5e314d29c6d691ce8e6a"
+    }
+  },
+  "start_state": "e9389c9171a87ba01e5b9b673b8345f1",
+  "stop_state": "e9389c9171a87ba01e5b9b673b8345f1",
+  "event_str": "TouchEvent(state=e9389c9171a87ba01e5b9b673b8345f1, view=24a6f832b08c5e314d29c6d691ce8e6a(ShareFeedActivity/View-))"
+}

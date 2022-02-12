@@ -1,0 +1,48 @@
+{
+  "tag": "2021-11-23_105152",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          611,
+          444
+        ],
+        [
+          719,
+          493
+        ]
+      ],
+      "resource_id": "com.tencent.qqmusic:id/e8d",
+      "checked": false,
+      "text": "\u9ad8\u4fdd\u771f",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 24,
+      "temp_id": 25,
+      "size": "108*49",
+      "signature": "[class]android.widget.TextView[resource_id]com.tencent.qqmusic:id/e8d[text]\u9ad8\u4fdd\u771f[enabled,,]",
+      "view_str": "167c7f7f787b08eb41105f192123a6e8"
+    }
+  },
+  "start_state": "6bb6a76438e7e475098f122f5a990a47",
+  "stop_state": "543129409656fefee1692af3fd0f10fc",
+  "event_str": "TouchEvent(state=6bb6a76438e7e475098f122f5a990a47, view=167c7f7f787b08eb41105f192123a6e8(SuperSoundAllEffectActivity/TextView-\u9ad8\u4fdd\u771f))"
+}

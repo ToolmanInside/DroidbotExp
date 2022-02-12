@@ -1,0 +1,48 @@
+{
+  "tag": "2021-11-23_104844",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          150,
+          1657
+        ],
+        [
+          164,
+          1687
+        ]
+      ],
+      "resource_id": "com.tencent.qqmusic:id/jq",
+      "checked": false,
+      "text": "1",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 34,
+      "temp_id": 36,
+      "size": "14*30",
+      "signature": "[class]android.widget.TextView[resource_id]com.tencent.qqmusic:id/jq[text]1[enabled,,]",
+      "view_str": "4af5f912afde6fabe77deee591842d70"
+    }
+  },
+  "start_state": "65de470fe4af8e4b11304e4c9c5cc8aa",
+  "stop_state": "65de470fe4af8e4b11304e4c9c5cc8aa",
+  "event_str": "TouchEvent(state=65de470fe4af8e4b11304e4c9c5cc8aa, view=4af5f912afde6fabe77deee591842d70(NewPlayerActivity/TextView-1))"
+}

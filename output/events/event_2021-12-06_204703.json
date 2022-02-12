@@ -1,0 +1,48 @@
+{
+  "tag": "2021-12-06_204703",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "org.chromium.webview_shell",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          275,
+          1752
+        ],
+        [
+          420,
+          1802
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Android",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 35,
+      "temp_id": 37,
+      "size": "145*50",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Android[enabled,,]",
+      "view_str": "6cf83a5755a99f65afad36d02a47d699"
+    }
+  },
+  "start_state": "7937929e2d5e94e9d23022ec606431da",
+  "stop_state": "f57f151231b5e5c6876b3a5fd5d0a060",
+  "event_str": "TouchEvent(state=7937929e2d5e94e9d23022ec606431da, view=6cf83a5755a99f65afad36d02a47d699(WebViewBrowserActivity/TextView-Android))"
+}

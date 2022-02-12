@@ -1,0 +1,49 @@
+{
+  "tag": "2021-11-23_094441",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          171
+        ],
+        [
+          1080,
+          2148
+        ]
+      ],
+      "resource_id": "android:id/content",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 1,
+      "temp_id": 2,
+      "size": "1080*1977",
+      "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]",
+      "view_str": "156471f08b61eec8cdfc2d9f19f9e9c6",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content"
+    }
+  },
+  "start_state": "7f4253e0554c52263f3a56a25ee0cd49",
+  "stop_state": "7f4253e0554c52263f3a56a25ee0cd49",
+  "event_str": "TouchEvent(state=7f4253e0554c52263f3a56a25ee0cd49, view=156471f08b61eec8cdfc2d9f19f9e9c6(StartUpPrivacyPolicyActivity/FrameLayout-))"
+}

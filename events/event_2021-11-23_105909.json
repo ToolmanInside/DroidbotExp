@@ -1,0 +1,48 @@
+{
+  "tag": "2021-11-23_105909",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          306,
+          1784
+        ],
+        [
+          416,
+          1894
+        ]
+      ],
+      "resource_id": "com.tencent.qqmusic:id/cxy",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 39,
+      "temp_id": 40,
+      "size": "110*110",
+      "signature": "[class]android.widget.ImageView[resource_id]com.tencent.qqmusic:id/cxy[text]None[enabled,,]",
+      "view_str": "471abed925c5df33174ee1c16a04856f"
+    }
+  },
+  "start_state": "6bd0d3eb14089a050094b23ca2296b40",
+  "stop_state": "fa864897ca578d50abb2e38d4d55fa76",
+  "event_str": "TouchEvent(state=6bd0d3eb14089a050094b23ca2296b40, view=471abed925c5df33174ee1c16a04856f(ShareActivity/ImageView-))"
+}

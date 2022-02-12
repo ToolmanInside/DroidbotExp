@@ -1,0 +1,48 @@
+{
+  "tag": "2021-11-23_103302",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          238,
+          839
+        ],
+        [
+          842,
+          1463
+        ]
+      ],
+      "resource_id": "com.tencent.qqmusic:id/v0",
+      "checked": false,
+      "text": "\u611f\u8c22\u4f60\u9009\u62e9\u4f7f\u7528QQ\u97f3\u4e50\uff01\u6211\u4eec\u505a\u4e86\u8bf8\u591a\u6709\u5229\u4e8e\u4fdd\u62a4\u4e2a\u4eba\u4fe1\u606f\u7684\u52aa\u529b\uff0c\u5728\u4f7f\u7528\u6211\u4eec\u7684\u670d\u52a1\u524d\uff0c\u8bf7\u9605\u8bfb\u5e76\u540c\u610f\u300aQQ\u97f3\u4e50\u9690\u79c1\u4fdd\u62a4\u6307\u5f15\u300b\uff0c\u4e86\u89e3\u4e2a\u4eba\u4fe1\u606f\u7684\u4f7f\u7528\u60c5\u51b5\u4e0e\u81ea\u4e3b\u9009\u62e9\u7684\u6743\u5229\u3002\n\n\u6211\u4eec\u5c06\u4e25\u683c\u6309\u7167\u300aQQ\u97f3\u4e50\u9690\u79c1\u4fdd\u62a4\u6307\u5f15\u300b\u4e3a\u4f60\u63d0\u4f9b\u670d\u52a1\uff0c\u5e76\u4ee5\u4e13\u4e1a\u7684\u6280\u672f\u4e3a\u4f60\u7684\u4fe1\u606f\u5b89\u5168\u4fdd\u9a7e\u62a4\u822a\u3002",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 6,
+      "temp_id": 9,
+      "size": "604*624",
+      "signature": "[class]android.widget.TextView[resource_id]com.tencent.qqmusic:id/v0[text]None[enabled,,]",
+      "view_str": "104e34994af6bda0d4affe813a099a0c"
+    }
+  },
+  "start_state": "3187315e907d839fbfc6cd5392df21a2",
+  "stop_state": "08930420b18b556a026ee1e3211d8932",
+  "event_str": "TouchEvent(state=3187315e907d839fbfc6cd5392df21a2, view=104e34994af6bda0d4affe813a099a0c(StartUpPrivacyPolicyActivity/TextView-\u611f\u8c22\u4f60\u9009\u62e9\u4f7f\u7528QQ\u97f3))"
+}

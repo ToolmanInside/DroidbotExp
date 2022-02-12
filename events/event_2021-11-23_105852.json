@@ -1,0 +1,51 @@
+{
+  "tag": "2021-11-23_105852",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        78,
+        79
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          804,
+          137
+        ],
+        [
+          942,
+          275
+        ]
+      ],
+      "resource_id": "com.tencent.qqmusic:id/ek3",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 6,
+      "temp_id": 77,
+      "size": "138*138",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.tencent.qqmusic:id/ek3[text]None[enabled,,]",
+      "view_str": "628b3429d160116d86e0c7837ef7cd67"
+    }
+  },
+  "start_state": "cf242adecd0a79b561a7ec44ab17eeab",
+  "stop_state": "ffa270e4a87e8e4d81b2cff1bf9a3dae",
+  "event_str": "TouchEvent(state=cf242adecd0a79b561a7ec44ab17eeab, view=628b3429d160116d86e0c7837ef7cd67(NewPlayerActivity/FrameLayout-))"
+}

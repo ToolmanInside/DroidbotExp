@@ -1,0 +1,1689 @@
+Activity Resolver Table:
+  Full MIME Types:
+      application/x-ogg:
+        7b5f600 com.tencent.qqmusic/.third.DispacherActivityForThird filter 95315df
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "file"
+          StaticType: "audio"
+          StaticType: "application/ogg"
+          StaticType: "application/x-ogg"
+          StaticType: "application/itunes"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+        7b5f600 com.tencent.qqmusic/.third.DispacherActivityForThird filter 284722c
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "content"
+          StaticType: "audio"
+          StaticType: "application/ogg"
+          StaticType: "application/x-ogg"
+          StaticType: "application/itunes"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+      application/ogg:
+        7b5f600 com.tencent.qqmusic/.third.DispacherActivityForThird filter 95315df
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "file"
+          StaticType: "audio"
+          StaticType: "application/ogg"
+          StaticType: "application/x-ogg"
+          StaticType: "application/itunes"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+        7b5f600 com.tencent.qqmusic/.third.DispacherActivityForThird filter 284722c
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "content"
+          StaticType: "audio"
+          StaticType: "application/ogg"
+          StaticType: "application/x-ogg"
+          StaticType: "application/itunes"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+      audio/*:
+        7b5f600 com.tencent.qqmusic/.third.DispacherActivityForThird filter 95315df
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "file"
+          StaticType: "audio"
+          StaticType: "application/ogg"
+          StaticType: "application/x-ogg"
+          StaticType: "application/itunes"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+        7b5f600 com.tencent.qqmusic/.third.DispacherActivityForThird filter 284722c
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "content"
+          StaticType: "audio"
+          StaticType: "application/ogg"
+          StaticType: "application/x-ogg"
+          StaticType: "application/itunes"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+      application/itunes:
+        7b5f600 com.tencent.qqmusic/.third.DispacherActivityForThird filter 95315df
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "file"
+          StaticType: "audio"
+          StaticType: "application/ogg"
+          StaticType: "application/x-ogg"
+          StaticType: "application/itunes"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+        7b5f600 com.tencent.qqmusic/.third.DispacherActivityForThird filter 284722c
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "content"
+          StaticType: "audio"
+          StaticType: "application/ogg"
+          StaticType: "application/x-ogg"
+          StaticType: "application/itunes"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+
+  Base MIME Types:
+      application:
+        7b5f600 com.tencent.qqmusic/.third.DispacherActivityForThird filter 95315df
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "file"
+          StaticType: "audio"
+          StaticType: "application/ogg"
+          StaticType: "application/x-ogg"
+          StaticType: "application/itunes"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+        7b5f600 com.tencent.qqmusic/.third.DispacherActivityForThird filter 95315df
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "file"
+          StaticType: "audio"
+          StaticType: "application/ogg"
+          StaticType: "application/x-ogg"
+          StaticType: "application/itunes"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+        7b5f600 com.tencent.qqmusic/.third.DispacherActivityForThird filter 95315df
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "file"
+          StaticType: "audio"
+          StaticType: "application/ogg"
+          StaticType: "application/x-ogg"
+          StaticType: "application/itunes"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+        7b5f600 com.tencent.qqmusic/.third.DispacherActivityForThird filter 284722c
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "content"
+          StaticType: "audio"
+          StaticType: "application/ogg"
+          StaticType: "application/x-ogg"
+          StaticType: "application/itunes"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+        7b5f600 com.tencent.qqmusic/.third.DispacherActivityForThird filter 284722c
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "content"
+          StaticType: "audio"
+          StaticType: "application/ogg"
+          StaticType: "application/x-ogg"
+          StaticType: "application/itunes"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+        7b5f600 com.tencent.qqmusic/.third.DispacherActivityForThird filter 284722c
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "content"
+          StaticType: "audio"
+          StaticType: "application/ogg"
+          StaticType: "application/x-ogg"
+          StaticType: "application/itunes"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+
+  Wild MIME Types:
+      audio:
+        7b5f600 com.tencent.qqmusic/.third.DispacherActivityForThird filter 95315df
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "file"
+          StaticType: "audio"
+          StaticType: "application/ogg"
+          StaticType: "application/x-ogg"
+          StaticType: "application/itunes"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+        7b5f600 com.tencent.qqmusic/.third.DispacherActivityForThird filter 284722c
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "content"
+          StaticType: "audio"
+          StaticType: "application/ogg"
+          StaticType: "application/x-ogg"
+          StaticType: "application/itunes"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+
+  Schemes:
+      AndroidQQMusic:
+        7b5f600 com.tencent.qqmusic/.third.DispacherActivityForThird filter f79fc7e
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "androidqqmusic"
+          Scheme: "AndroidQQMusic"
+          Scheme: "qqmusic"
+      tencent100497308:
+        1fd30fb com.tencent.qqmusic/com.tencent.tauth.AuthActivity filter adc8518
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "tencent100497308"
+      qqmusicHuaweiPush.scheme:
+        ff84eeb com.tencent.qqmusic/com.tencent.component.thirdpartypush.huaweipush.HuaweiReceivePushActivity filter 6e3d2e1
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "qqmusicHuaweiPush.scheme"
+          Authority: "qqmusicHuaweiPush": -1
+      androidqqmusic:
+        7b5f600 com.tencent.qqmusic/.third.DispacherActivityForThird filter f79fc7e
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "androidqqmusic"
+          Scheme: "AndroidQQMusic"
+          Scheme: "qqmusic"
+      file:
+        7b5f600 com.tencent.qqmusic/.third.DispacherActivityForThird filter 95315df
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "file"
+          StaticType: "audio"
+          StaticType: "application/ogg"
+          StaticType: "application/x-ogg"
+          StaticType: "application/itunes"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+      qqmusicactive:
+        73634f5 com.tencent.qqmusic/.third.ActiveActivity filter b5628a
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "qqmusicactive"
+      qqmusic:
+        7b5f600 com.tencent.qqmusic/.third.DispacherActivityForThird filter f79fc7e
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "androidqqmusic"
+          Scheme: "AndroidQQMusic"
+          Scheme: "qqmusic"
+      content:
+        7b5f600 com.tencent.qqmusic/.third.DispacherActivityForThird filter 284722c
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "content"
+          StaticType: "audio"
+          StaticType: "application/ogg"
+          StaticType: "application/x-ogg"
+          StaticType: "application/itunes"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+      AndroidQQMusicLabel:
+        5d0971e com.tencent.qqmusic/.activity.WeiXinShareSongListActivity filter 70fabff
+          Action: "com.tencent.qqmusiccommon.PLAYLIST_VIEWER.PHONE"
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "AndroidQQMusicLabel"
+      qwallet100497308:
+        9022b71 com.tencent.qqmusic/com.tencent.midas.qq.APMidasQQWalletActivity filter 98f1d56
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.BROWSABLE"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "qwallet100497308"
+
+  Non-Data Actions:
+      com.tencent.qqmusic.action.PUSH.HUAWEI:
+        ff84eeb com.tencent.qqmusic/com.tencent.component.thirdpartypush.huaweipush.HuaweiReceivePushActivity filter 9876448
+          Action: "com.tencent.qqmusic.action.PUSH.HUAWEI"
+          Category: "android.intent.category.DEFAULT"
+      com.tencent.qqmusiccommon.PLAYLIST_VIEWER.PHONE:
+        28a1a22 com.tencent.qqmusic/.activity.ShareAccountActivity filter 10facb3
+          Action: "com.tencent.qqmusiccommon.PLAYLIST_VIEWER.PHONE"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.LAUNCHER"
+        fbd4270 com.tencent.qqmusic/.activity.welcome.WelcomeActivity filter 7399e9
+          Action: "com.tencent.qqmusiccommon.PLAYLIST_VIEWER.PHONE"
+          Category: "android.intent.category.DEFAULT"
+        d53b66e com.tencent.qqmusic/.activity.BillInfoEditActivityNew filter 54e610f
+          Action: "com.tencent.qqmusiccommon.PLAYLIST_VIEWER.PHONE"
+          Category: "android.intent.category.DEFAULT"
+        48c159c com.tencent.qqmusic/.activity.AppStarterActivity filter e2eba5
+          Action: "com.tencent.qqmusiccommon.PLAYLIST_VIEWER.PHONE"
+          Category: "android.intent.category.DEFAULT"
+        c12ef88 com.tencent.qqmusic/.activity.WebViewActivity filter 43b9d21
+          Action: "com.tencent.qqmusiccommon.PLAYLIST_VIEWER.PHONE"
+          Category: "android.intent.category.DEFAULT"
+        fc82546 com.tencent.qqmusic/.activity.LandingPageWebViewActivity filter db76307
+          Action: "com.tencent.qqmusiccommon.PLAYLIST_VIEWER.PHONE"
+          Category: "android.intent.category.DEFAULT"
+        5ab7c34 com.tencent.qqmusic/.activity.GDTLandingPageWebViewActivity filter e13ea5d
+          Action: "com.tencent.qqmusiccommon.PLAYLIST_VIEWER.PHONE"
+          Category: "android.intent.category.DEFAULT"
+        d14fd2 com.tencent.qqmusic/.fragment.mymusic.my.brand.BrandAdWebViewActivity filter ddd28a3
+          Action: "com.tencent.qqmusiccommon.PLAYLIST_VIEWER.PHONE"
+          Category: "android.intent.category.DEFAULT"
+        a9e27a0 com.tencent.qqmusic/.activity.MVPlayerActivity filter b29cf59
+          Action: "com.tencent.qqmusiccommon.PLAYLIST_VIEWER.PHONE"
+          Category: "android.intent.category.DEFAULT"
+        e4e1dcc com.tencent.qqmusic/.activity.MediaScannerActivity filter c1f0815
+          Action: "com.tencent.qqmusiccommon.PLAYLIST_VIEWER.PHONE"
+          Category: "android.intent.category.DEFAULT"
+        2eb072a com.tencent.qqmusic/.activity.CheckScanResultListActivity filter ebd091b
+          Action: "com.tencent.qqmusiccommon.PLAYLIST_VIEWER.PHONE"
+          Category: "android.intent.category.DEFAULT"
+        5254ab8 com.tencent.qqmusic/.activity.MediaScannerFilterActivity filter ff51091
+          Action: "com.tencent.qqmusiccommon.PLAYLIST_VIEWER.PHONE"
+          Category: "android.intent.category.DEFAULT"
+        78a6bf6 com.tencent.qqmusic/.activity.FolderFilterActivity filter 9191bf7
+          Action: "com.tencent.qqmusiccommon.PLAYLIST_VIEWER.PHONE"
+          Category: "android.intent.category.DEFAULT"
+        e405a64 com.tencent.qqmusic/.activity.CustomScanActivity filter a4924cd
+          Action: "com.tencent.qqmusiccommon.PLAYLIST_VIEWER.PHONE"
+          Category: "android.intent.category.DEFAULT"
+        de95182 com.tencent.qqmusic/.activity.EditSongListActivity filter fb98093
+          Action: "com.tencent.qqmusiccommon.PLAYLIST_VIEWER.PHONE"
+          Category: "android.intent.category.DEFAULT"
+        bdab8d0 com.tencent.qqmusic/.activity.LocalEditSongListActivity filter 15040c9
+          Action: "com.tencent.qqmusiccommon.PLAYLIST_VIEWER.PHONE"
+          Category: "android.intent.category.DEFAULT"
+        75f03ce com.tencent.qqmusic/.activity.EditLocalDirListActivity filter 5f192ef
+          Action: "com.tencent.qqmusiccommon.PLAYLIST_VIEWER.PHONE"
+          Category: "android.intent.category.DEFAULT"
+        363e1d7 com.tencent.qqmusic/.activity.GeneOperationActivity filter 3a0dac4
+          Action: "com.tencent.qqmusiccommon.PLAYLIST_VIEWER.PHONE"
+          Category: "android.intent.category.DEFAULT"
+        5bd0dad com.tencent.qqmusic/.activity.EditFolderListActivity filter c77b8e2
+          Action: "com.tencent.qqmusiccommon.PLAYLIST_VIEWER.PHONE"
+          Category: "android.intent.category.DEFAULT"
+        a1ac473 com.tencent.qqmusic/.activity.DownloadLyricAndAlbumActivity filter 932df30
+          Action: "com.tencent.qqmusiccommon.PLAYLIST_VIEWER.PHONE"
+          Category: "android.intent.category.DEFAULT"
+        9c9d7a9 com.tencent.qqmusic/jackpal.androidterm.Term filter 5c812e
+          Action: "com.tencent.qqmusiccommon.PLAYLIST_VIEWER.PHONE"
+          Category: "android.intent.category.DEFAULT"
+        e5334cf com.tencent.qqmusic/.activity.LoginSecureVerificationWebViewActivity filter a9ebe5c
+          Action: "com.tencent.qqmusiccommon.PLAYLIST_VIEWER.PHONE"
+          Category: "android.intent.category.DEFAULT"
+      com.tencent.qqmusic.forthird.activity.PUSH:
+        7b5f600 com.tencent.qqmusic/.third.DispacherActivityForThird filter d6dee39
+          Action: "com.tencent.qqmusic.forthird.activity.MY_MUSIC"
+          Action: "com.tencent.qqmusic.forthird.activity.APP_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RECOGNIZER"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_2"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER2"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_HUAWEI"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_OPPO"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_VIVO"
+          Category: "android.intent.category.DEFAULT"
+      com.tencent.qqmusic.forthird.activity.PUSH_OPPO:
+        7b5f600 com.tencent.qqmusic/.third.DispacherActivityForThird filter d6dee39
+          Action: "com.tencent.qqmusic.forthird.activity.MY_MUSIC"
+          Action: "com.tencent.qqmusic.forthird.activity.APP_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RECOGNIZER"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_2"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER2"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_HUAWEI"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_OPPO"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_VIVO"
+          Category: "android.intent.category.DEFAULT"
+      com.tencent.qqmusic.forthird.activity.PUSH_VIVO:
+        7b5f600 com.tencent.qqmusic/.third.DispacherActivityForThird filter d6dee39
+          Action: "com.tencent.qqmusic.forthird.activity.MY_MUSIC"
+          Action: "com.tencent.qqmusic.forthird.activity.APP_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RECOGNIZER"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_2"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER2"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_HUAWEI"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_OPPO"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_VIVO"
+          Category: "android.intent.category.DEFAULT"
+      com.tencent.qqmusic.action.PUSH.OPPO:
+        abf4565 com.tencent.qqmusic/com.tencent.component.thirdpartypush.oppo.OppoReceivePushActivity filter bb3823a
+          Action: "com.tencent.qqmusic.action.PUSH.OPPO"
+          Category: "android.intent.category.DEFAULT"
+      android.intent.action.MAIN:
+        48c159c com.tencent.qqmusic/.activity.AppStarterActivity filter b08cb7a
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+      android.intent.action.VIEW:
+        48c159c com.tencent.qqmusic/.activity.AppStarterActivity filter b19ff2b
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+      com.tencent.qqmusic.forthird.activity.PLAYER2:
+        7b5f600 com.tencent.qqmusic/.third.DispacherActivityForThird filter d6dee39
+          Action: "com.tencent.qqmusic.forthird.activity.MY_MUSIC"
+          Action: "com.tencent.qqmusic.forthird.activity.APP_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RECOGNIZER"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_2"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER2"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_HUAWEI"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_OPPO"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_VIVO"
+          Category: "android.intent.category.DEFAULT"
+      com.tencent.qqmusic.forthird.activity.RECOGNIZER:
+        7b5f600 com.tencent.qqmusic/.third.DispacherActivityForThird filter d6dee39
+          Action: "com.tencent.qqmusic.forthird.activity.MY_MUSIC"
+          Action: "com.tencent.qqmusic.forthird.activity.APP_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RECOGNIZER"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_2"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER2"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_HUAWEI"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_OPPO"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_VIVO"
+          Category: "android.intent.category.DEFAULT"
+      com.tencent.qqmusic.recognizer:
+        67a91fc com.tencent.qqmusic/.activity.RecognizerActivity filter f932085
+          Action: "com.tencent.qqmusic.recognizer"
+          Category: "android.intent.category.DEFAULT"
+        16b8eda com.tencent.qqmusic/.recognize.RecognizeActivity filter 6ee6f0b
+          Action: "com.tencent.qqmusic.recognizer"
+          Category: "android.intent.category.DEFAULT"
+        f83bea6 com.tencent.qqmusic/.recognizekt.RecognizeActivity filter 992f0e7
+          Action: "com.tencent.qqmusic.recognizer"
+          Category: "android.intent.category.DEFAULT"
+        2a12494 com.tencent.qqmusic/.recognize.RecognizeNewHistoryActivity filter 639db3d
+          Action: "com.tencent.qqmusic.recognizer"
+          Category: "android.intent.category.DEFAULT"
+      com.tencent.qqmusic.forthird.activity.THEME_PAGE:
+        7b5f600 com.tencent.qqmusic/.third.DispacherActivityForThird filter d6dee39
+          Action: "com.tencent.qqmusic.forthird.activity.MY_MUSIC"
+          Action: "com.tencent.qqmusic.forthird.activity.APP_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RECOGNIZER"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_2"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER2"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_HUAWEI"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_OPPO"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_VIVO"
+          Category: "android.intent.category.DEFAULT"
+      com.sina.weibo.sdk.action.ACTION_SDK_REQ_STORY:
+        4478806 com.tencent.qqmusic/com.sina.weibo.sdk.share.WbShareResultActivity filter cd27cf4
+          Action: "com.sina.weibo.sdk.action.ACTION_SDK_REQ_STORY"
+          Category: "android.intent.category.DEFAULT"
+      com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY:
+        4478806 com.tencent.qqmusic/com.sina.weibo.sdk.share.WbShareResultActivity filter 88aeec7
+          Action: "com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY"
+          Category: "android.intent.category.DEFAULT"
+      com.tencent.qqmusic.forthird.activity.PUSH_HUAWEI:
+        7b5f600 com.tencent.qqmusic/.third.DispacherActivityForThird filter d6dee39
+          Action: "com.tencent.qqmusic.forthird.activity.MY_MUSIC"
+          Action: "com.tencent.qqmusic.forthird.activity.APP_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RECOGNIZER"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_2"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER2"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_HUAWEI"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_OPPO"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_VIVO"
+          Category: "android.intent.category.DEFAULT"
+      com.tencent.qqmusic.forthird.activity.MY_MUSIC:
+        7b5f600 com.tencent.qqmusic/.third.DispacherActivityForThird filter d6dee39
+          Action: "com.tencent.qqmusic.forthird.activity.MY_MUSIC"
+          Action: "com.tencent.qqmusic.forthird.activity.APP_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RECOGNIZER"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_2"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER2"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_HUAWEI"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_OPPO"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_VIVO"
+          Category: "android.intent.category.DEFAULT"
+      com.tencent.qqmusic.forthird.activity.PLAYER:
+        7b5f600 com.tencent.qqmusic/.third.DispacherActivityForThird filter d6dee39
+          Action: "com.tencent.qqmusic.forthird.activity.MY_MUSIC"
+          Action: "com.tencent.qqmusic.forthird.activity.APP_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RECOGNIZER"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_2"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER2"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_HUAWEI"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_OPPO"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_VIVO"
+          Category: "android.intent.category.DEFAULT"
+      com.tencent.qqmusic.forthird.activity.PUSH_2:
+        7b5f600 com.tencent.qqmusic/.third.DispacherActivityForThird filter d6dee39
+          Action: "com.tencent.qqmusic.forthird.activity.MY_MUSIC"
+          Action: "com.tencent.qqmusic.forthird.activity.APP_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RECOGNIZER"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_2"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER2"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_HUAWEI"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_OPPO"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_VIVO"
+          Category: "android.intent.category.DEFAULT"
+      android.intent.action.CREATE_SHORTCUT:
+        6dcd1e8 com.tencent.qqmusic/.activity.RecognizerShortCut filter 56a4001
+          Action: "android.intent.action.CREATE_SHORTCUT"
+          Category: "android.intent.category.DEFAULT"
+        59d1f32 com.tencent.qqmusic/.business.scene.ParentingShortcutActivity filter 613b483
+          Action: "android.intent.action.CREATE_SHORTCUT"
+          Category: "android.intent.category.DEFAULT"
+      com.tencent.qqmusic.forthird.activity.APP_LIST:
+        7b5f600 com.tencent.qqmusic/.third.DispacherActivityForThird filter d6dee39
+          Action: "com.tencent.qqmusic.forthird.activity.MY_MUSIC"
+          Action: "com.tencent.qqmusic.forthird.activity.APP_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RECOGNIZER"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_2"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER2"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_HUAWEI"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_OPPO"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_VIVO"
+          Category: "android.intent.category.DEFAULT"
+
+  MIME Typed Actions:
+      android.intent.action.VIEW:
+        7b5f600 com.tencent.qqmusic/.third.DispacherActivityForThird filter 95315df
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "file"
+          StaticType: "audio"
+          StaticType: "application/ogg"
+          StaticType: "application/x-ogg"
+          StaticType: "application/itunes"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+        7b5f600 com.tencent.qqmusic/.third.DispacherActivityForThird filter 284722c
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "content"
+          StaticType: "audio"
+          StaticType: "application/ogg"
+          StaticType: "application/x-ogg"
+          StaticType: "application/itunes"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      wns.push.to.com.tencent.qqmusic:
+        e6b46af com.tencent.qqmusic/.business.push.PushBroadcastReceiver filter d909abc
+          Action: "wns.push.to.com.tencent.qqmusic"
+          Action: "third.party.push.to.com.tencent.qqmusic"
+      com.tencent.qqmusic.forthird.activity.DAILY_RC_DETAIL:
+        8c717b7 com.tencent.qqmusic/.third.BroadcastReceiverCenterForThird filter 4890b24
+          Action: "com.tencent.qqmusic.forthird.activity.APP_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RECOGNIZER"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_2"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER2"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.RADIO_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RANK_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.NEW_SONG_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGLE_NEW_SONG"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGER_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.ALBUM_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.HTML_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.BILL"
+          Action: "com.tencent.qqmusic.forthird.activity.PROFILE"
+          Action: "com.tencent.qqmusic.forthird.activity.MVPLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_FRAGMENT"
+          Action: "com.tencent.qqmusic.forthird.activity.SKIN_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.DAILY_RC_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.PC_WIFI_IMPORT"
+      com.xiaomi.mipush.MESSAGE_ARRIVED:
+        8e055c1 com.tencent.qqmusic/com.tencent.component.thirdpartypush.mipush.MiPushReceiver filter 1975ca7
+          Action: "com.xiaomi.mipush.MESSAGE_ARRIVED"
+      com.tencent.qqmusic.forthird.activity.PC_WIFI_IMPORT:
+        8c717b7 com.tencent.qqmusic/.third.BroadcastReceiverCenterForThird filter 4890b24
+          Action: "com.tencent.qqmusic.forthird.activity.APP_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RECOGNIZER"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_2"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER2"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.RADIO_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RANK_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.NEW_SONG_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGLE_NEW_SONG"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGER_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.ALBUM_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.HTML_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.BILL"
+          Action: "com.tencent.qqmusic.forthird.activity.PROFILE"
+          Action: "com.tencent.qqmusic.forthird.activity.MVPLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_FRAGMENT"
+          Action: "com.tencent.qqmusic.forthird.activity.SKIN_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.DAILY_RC_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.PC_WIFI_IMPORT"
+      com.tencent.qqmusic.forthird.activity.NEW_SONG_PAGE:
+        8c717b7 com.tencent.qqmusic/.third.BroadcastReceiverCenterForThird filter 4890b24
+          Action: "com.tencent.qqmusic.forthird.activity.APP_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RECOGNIZER"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_2"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER2"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.RADIO_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RANK_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.NEW_SONG_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGLE_NEW_SONG"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGER_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.ALBUM_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.HTML_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.BILL"
+          Action: "com.tencent.qqmusic.forthird.activity.PROFILE"
+          Action: "com.tencent.qqmusic.forthird.activity.MVPLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_FRAGMENT"
+          Action: "com.tencent.qqmusic.forthird.activity.SKIN_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.DAILY_RC_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.PC_WIFI_IMPORT"
+      com.tencent.qqmusic.forthird.activity.BILL:
+        8c717b7 com.tencent.qqmusic/.third.BroadcastReceiverCenterForThird filter 4890b24
+          Action: "com.tencent.qqmusic.forthird.activity.APP_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RECOGNIZER"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_2"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER2"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.RADIO_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RANK_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.NEW_SONG_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGLE_NEW_SONG"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGER_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.ALBUM_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.HTML_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.BILL"
+          Action: "com.tencent.qqmusic.forthird.activity.PROFILE"
+          Action: "com.tencent.qqmusic.forthird.activity.MVPLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_FRAGMENT"
+          Action: "com.tencent.qqmusic.forthird.activity.SKIN_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.DAILY_RC_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.PC_WIFI_IMPORT"
+      com.tencent.qqmusic.forthird.activity.PUSH:
+        8c717b7 com.tencent.qqmusic/.third.BroadcastReceiverCenterForThird filter 4890b24
+          Action: "com.tencent.qqmusic.forthird.activity.APP_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RECOGNIZER"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_2"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER2"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.RADIO_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RANK_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.NEW_SONG_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGLE_NEW_SONG"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGER_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.ALBUM_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.HTML_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.BILL"
+          Action: "com.tencent.qqmusic.forthird.activity.PROFILE"
+          Action: "com.tencent.qqmusic.forthird.activity.MVPLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_FRAGMENT"
+          Action: "com.tencent.qqmusic.forthird.activity.SKIN_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.DAILY_RC_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.PC_WIFI_IMPORT"
+      com.tencent.qqmusic.forthird.activity.MVPLAYER:
+        8c717b7 com.tencent.qqmusic/.third.BroadcastReceiverCenterForThird filter 4890b24
+          Action: "com.tencent.qqmusic.forthird.activity.APP_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RECOGNIZER"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_2"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER2"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.RADIO_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RANK_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.NEW_SONG_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGLE_NEW_SONG"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGER_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.ALBUM_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.HTML_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.BILL"
+          Action: "com.tencent.qqmusic.forthird.activity.PROFILE"
+          Action: "com.tencent.qqmusic.forthird.activity.MVPLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_FRAGMENT"
+          Action: "com.tencent.qqmusic.forthird.activity.SKIN_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.DAILY_RC_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.PC_WIFI_IMPORT"
+      com.xiaomi.mipush.ERROR:
+        8e055c1 com.tencent.qqmusic/com.tencent.component.thirdpartypush.mipush.MiPushReceiver filter bd78554
+          Action: "com.xiaomi.mipush.ERROR"
+      com.huawei.android.push.intent.REGISTRATION:
+        649d0bb com.tencent.qqmusic/com.huawei.hms.support.api.push.PushReceiver filter 6a909d8
+          Action: "com.huawei.android.push.intent.REGISTRATION"
+          Action: "com.huawei.android.push.intent.RECEIVE"
+      com.tencent.qqmusic.forthird.activity.RANK_PAGE:
+        8c717b7 com.tencent.qqmusic/.third.BroadcastReceiverCenterForThird filter 4890b24
+          Action: "com.tencent.qqmusic.forthird.activity.APP_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RECOGNIZER"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_2"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER2"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.RADIO_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RANK_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.NEW_SONG_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGLE_NEW_SONG"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGER_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.ALBUM_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.HTML_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.BILL"
+          Action: "com.tencent.qqmusic.forthird.activity.PROFILE"
+          Action: "com.tencent.qqmusic.forthird.activity.MVPLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_FRAGMENT"
+          Action: "com.tencent.qqmusic.forthird.activity.SKIN_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.DAILY_RC_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.PC_WIFI_IMPORT"
+      com.tencent.qqmusic.forthird.activity.ALBUM_PAGE:
+        8c717b7 com.tencent.qqmusic/.third.BroadcastReceiverCenterForThird filter 4890b24
+          Action: "com.tencent.qqmusic.forthird.activity.APP_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RECOGNIZER"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_2"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER2"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.RADIO_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RANK_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.NEW_SONG_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGLE_NEW_SONG"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGER_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.ALBUM_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.HTML_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.BILL"
+          Action: "com.tencent.qqmusic.forthird.activity.PROFILE"
+          Action: "com.tencent.qqmusic.forthird.activity.MVPLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_FRAGMENT"
+          Action: "com.tencent.qqmusic.forthird.activity.SKIN_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.DAILY_RC_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.PC_WIFI_IMPORT"
+      com.tencent.qqmusic.forthird.activity.MV_THEME:
+        8c717b7 com.tencent.qqmusic/.third.BroadcastReceiverCenterForThird filter 4890b24
+          Action: "com.tencent.qqmusic.forthird.activity.APP_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RECOGNIZER"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_2"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER2"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.RADIO_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RANK_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.NEW_SONG_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGLE_NEW_SONG"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGER_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.ALBUM_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.HTML_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.BILL"
+          Action: "com.tencent.qqmusic.forthird.activity.PROFILE"
+          Action: "com.tencent.qqmusic.forthird.activity.MVPLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_FRAGMENT"
+          Action: "com.tencent.qqmusic.forthird.activity.SKIN_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.DAILY_RC_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.PC_WIFI_IMPORT"
+      android.net.conn.CONNECTIVITY_CHANGE:
+        f1f5a45 com.tencent.qqmusic/com.xiaomi.push.service.receivers.NetworkStatusReceiver filter 438a59a
+          Action: "android.net.conn.CONNECTIVITY_CHANGE"
+          Category: "android.intent.category.DEFAULT"
+      com.tencent.qqmusic.forthird.activity.SINGLE_NEW_SONG:
+        8c717b7 com.tencent.qqmusic/.third.BroadcastReceiverCenterForThird filter 4890b24
+          Action: "com.tencent.qqmusic.forthird.activity.APP_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RECOGNIZER"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_2"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER2"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.RADIO_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RANK_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.NEW_SONG_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGLE_NEW_SONG"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGER_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.ALBUM_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.HTML_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.BILL"
+          Action: "com.tencent.qqmusic.forthird.activity.PROFILE"
+          Action: "com.tencent.qqmusic.forthird.activity.MVPLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_FRAGMENT"
+          Action: "com.tencent.qqmusic.forthird.activity.SKIN_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.DAILY_RC_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.PC_WIFI_IMPORT"
+      com.tencent.qqmusic.forthird.activity.SKIN_THEME_DETAIL:
+        8c717b7 com.tencent.qqmusic/.third.BroadcastReceiverCenterForThird filter 4890b24
+          Action: "com.tencent.qqmusic.forthird.activity.APP_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RECOGNIZER"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_2"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER2"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.RADIO_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RANK_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.NEW_SONG_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGLE_NEW_SONG"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGER_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.ALBUM_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.HTML_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.BILL"
+          Action: "com.tencent.qqmusic.forthird.activity.PROFILE"
+          Action: "com.tencent.qqmusic.forthird.activity.MVPLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_FRAGMENT"
+          Action: "com.tencent.qqmusic.forthird.activity.SKIN_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.DAILY_RC_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.PC_WIFI_IMPORT"
+      com.huawei.intent.action.PUSH_DELAY_NOTIFY:
+        a245eb5 com.tencent.qqmusic/com.huawei.hms.support.api.push.PushMsgReceiver filter b55a94a
+          Action: "com.huawei.intent.action.PUSH_DELAY_NOTIFY"
+          Action: "com.huawei.intent.action.PUSH"
+      com.tencent.qqmusic.forthird.activity.PLAYER2:
+        8c717b7 com.tencent.qqmusic/.third.BroadcastReceiverCenterForThird filter 4890b24
+          Action: "com.tencent.qqmusic.forthird.activity.APP_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RECOGNIZER"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_2"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER2"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.RADIO_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RANK_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.NEW_SONG_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGLE_NEW_SONG"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGER_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.ALBUM_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.HTML_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.BILL"
+          Action: "com.tencent.qqmusic.forthird.activity.PROFILE"
+          Action: "com.tencent.qqmusic.forthird.activity.MVPLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_FRAGMENT"
+          Action: "com.tencent.qqmusic.forthird.activity.SKIN_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.DAILY_RC_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.PC_WIFI_IMPORT"
+      com.tencent.qqmusic.forthird.activity.PROFILE:
+        8c717b7 com.tencent.qqmusic/.third.BroadcastReceiverCenterForThird filter 4890b24
+          Action: "com.tencent.qqmusic.forthird.activity.APP_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RECOGNIZER"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_2"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER2"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.RADIO_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RANK_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.NEW_SONG_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGLE_NEW_SONG"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGER_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.ALBUM_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.HTML_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.BILL"
+          Action: "com.tencent.qqmusic.forthird.activity.PROFILE"
+          Action: "com.tencent.qqmusic.forthird.activity.MVPLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_FRAGMENT"
+          Action: "com.tencent.qqmusic.forthird.activity.SKIN_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.DAILY_RC_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.PC_WIFI_IMPORT"
+      com.tencent.qqmusic.forthird.activity.THEME_DETAIL:
+        8c717b7 com.tencent.qqmusic/.third.BroadcastReceiverCenterForThird filter 4890b24
+          Action: "com.tencent.qqmusic.forthird.activity.APP_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RECOGNIZER"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_2"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER2"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.RADIO_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RANK_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.NEW_SONG_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGLE_NEW_SONG"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGER_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.ALBUM_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.HTML_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.BILL"
+          Action: "com.tencent.qqmusic.forthird.activity.PROFILE"
+          Action: "com.tencent.qqmusic.forthird.activity.MVPLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_FRAGMENT"
+          Action: "com.tencent.qqmusic.forthird.activity.SKIN_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.DAILY_RC_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.PC_WIFI_IMPORT"
+      com.tencent.qqmusic.forthird.activity.RADIO_PAGE:
+        8c717b7 com.tencent.qqmusic/.third.BroadcastReceiverCenterForThird filter 4890b24
+          Action: "com.tencent.qqmusic.forthird.activity.APP_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RECOGNIZER"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_2"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER2"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.RADIO_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RANK_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.NEW_SONG_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGLE_NEW_SONG"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGER_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.ALBUM_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.HTML_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.BILL"
+          Action: "com.tencent.qqmusic.forthird.activity.PROFILE"
+          Action: "com.tencent.qqmusic.forthird.activity.MVPLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_FRAGMENT"
+          Action: "com.tencent.qqmusic.forthird.activity.SKIN_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.DAILY_RC_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.PC_WIFI_IMPORT"
+      com.meizu.flyme.push.intent.UNREGISTER.FEEDBACK:
+        6531c43 com.tencent.qqmusic/com.tencent.component.thirdpartypush.meizu.MeizuPushReceiver filter 2d1a2c0
+          Action: "com.meizu.flyme.push.intent.MESSAGE"
+          Action: "com.meizu.flyme.push.intent.REGISTER.FEEDBACK"
+          Action: "com.meizu.flyme.push.intent.UNREGISTER.FEEDBACK"
+          Action: "com.meizu.c2dm.intent.REGISTRATION"
+          Action: "com.meizu.c2dm.intent.RECEIVE"
+          Category: "com.tencent.qqmusic"
+      com.tencent.qqmusic.forthird.activity.ASSORT_LIST:
+        8c717b7 com.tencent.qqmusic/.third.BroadcastReceiverCenterForThird filter 4890b24
+          Action: "com.tencent.qqmusic.forthird.activity.APP_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RECOGNIZER"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_2"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER2"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.RADIO_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RANK_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.NEW_SONG_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGLE_NEW_SONG"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGER_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.ALBUM_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.HTML_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.BILL"
+          Action: "com.tencent.qqmusic.forthird.activity.PROFILE"
+          Action: "com.tencent.qqmusic.forthird.activity.MVPLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_FRAGMENT"
+          Action: "com.tencent.qqmusic.forthird.activity.SKIN_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.DAILY_RC_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.PC_WIFI_IMPORT"
+      com.tencent.qqmusic.forthird.activity.RECOGNIZER:
+        8c717b7 com.tencent.qqmusic/.third.BroadcastReceiverCenterForThird filter 4890b24
+          Action: "com.tencent.qqmusic.forthird.activity.APP_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RECOGNIZER"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_2"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER2"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.RADIO_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RANK_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.NEW_SONG_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGLE_NEW_SONG"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGER_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.ALBUM_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.HTML_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.BILL"
+          Action: "com.tencent.qqmusic.forthird.activity.PROFILE"
+          Action: "com.tencent.qqmusic.forthird.activity.MVPLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_FRAGMENT"
+          Action: "com.tencent.qqmusic.forthird.activity.SKIN_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.DAILY_RC_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.PC_WIFI_IMPORT"
+      com.huawei.android.push.intent.RECEIVE:
+        649d0bb com.tencent.qqmusic/com.huawei.hms.support.api.push.PushReceiver filter 6a909d8
+          Action: "com.huawei.android.push.intent.REGISTRATION"
+          Action: "com.huawei.android.push.intent.RECEIVE"
+      com.meizu.c2dm.intent.RECEIVE:
+        6531c43 com.tencent.qqmusic/com.tencent.component.thirdpartypush.meizu.MeizuPushReceiver filter 2d1a2c0
+          Action: "com.meizu.flyme.push.intent.MESSAGE"
+          Action: "com.meizu.flyme.push.intent.REGISTER.FEEDBACK"
+          Action: "com.meizu.flyme.push.intent.UNREGISTER.FEEDBACK"
+          Action: "com.meizu.c2dm.intent.REGISTRATION"
+          Action: "com.meizu.c2dm.intent.RECEIVE"
+          Category: "com.tencent.qqmusic"
+      com.vivo.pushclient.action.RECEIVE:
+        85b8cfd com.tencent.qqmusic/com.tencent.component.thirdpartypush.vivo.VivoPushReceiver filter c9e4df2
+          Action: "com.vivo.pushclient.action.RECEIVE"
+      com.tencent.qalsdk.broadcast.qal:
+        ab7853 com.tencent.qqmusic/com.tencent.qalsdk.QALBroadcastReceiver filter addb590
+          Action: "com.tencent.qalsdk.broadcast.qal"
+      com.tencent.qqmusic.forthird.activity.THEME_PAGE:
+        8c717b7 com.tencent.qqmusic/.third.BroadcastReceiverCenterForThird filter 4890b24
+          Action: "com.tencent.qqmusic.forthird.activity.APP_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RECOGNIZER"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_2"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER2"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.RADIO_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RANK_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.NEW_SONG_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGLE_NEW_SONG"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGER_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.ALBUM_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.HTML_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.BILL"
+          Action: "com.tencent.qqmusic.forthird.activity.PROFILE"
+          Action: "com.tencent.qqmusic.forthird.activity.MVPLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_FRAGMENT"
+          Action: "com.tencent.qqmusic.forthird.activity.SKIN_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.DAILY_RC_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.PC_WIFI_IMPORT"
+      com.tencent.qqmusic.forthird.activity.SINGER_PAGE:
+        8c717b7 com.tencent.qqmusic/.third.BroadcastReceiverCenterForThird filter 4890b24
+          Action: "com.tencent.qqmusic.forthird.activity.APP_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RECOGNIZER"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_2"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER2"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.RADIO_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RANK_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.NEW_SONG_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGLE_NEW_SONG"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGER_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.ALBUM_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.HTML_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.BILL"
+          Action: "com.tencent.qqmusic.forthird.activity.PROFILE"
+          Action: "com.tencent.qqmusic.forthird.activity.MVPLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_FRAGMENT"
+          Action: "com.tencent.qqmusic.forthird.activity.SKIN_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.DAILY_RC_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.PC_WIFI_IMPORT"
+      com.meizu.cloud.pushservice.action.PUSH_SERVICE_START:
+        81399f com.tencent.qqmusic/com.meizu.cloud.pushsdk.SystemReceiver filter 68e2aec
+          Action: "com.meizu.cloud.pushservice.action.PUSH_SERVICE_START"
+          Category: "android.intent.category.DEFAULT"
+      com.meizu.flyme.push.intent.MESSAGE:
+        6531c43 com.tencent.qqmusic/com.tencent.component.thirdpartypush.meizu.MeizuPushReceiver filter 2d1a2c0
+          Action: "com.meizu.flyme.push.intent.MESSAGE"
+          Action: "com.meizu.flyme.push.intent.REGISTER.FEEDBACK"
+          Action: "com.meizu.flyme.push.intent.UNREGISTER.FEEDBACK"
+          Action: "com.meizu.c2dm.intent.REGISTRATION"
+          Action: "com.meizu.c2dm.intent.RECEIVE"
+          Category: "com.tencent.qqmusic"
+      com.meizu.c2dm.intent.REGISTRATION:
+        6531c43 com.tencent.qqmusic/com.tencent.component.thirdpartypush.meizu.MeizuPushReceiver filter 2d1a2c0
+          Action: "com.meizu.flyme.push.intent.MESSAGE"
+          Action: "com.meizu.flyme.push.intent.REGISTER.FEEDBACK"
+          Action: "com.meizu.flyme.push.intent.UNREGISTER.FEEDBACK"
+          Action: "com.meizu.c2dm.intent.REGISTRATION"
+          Action: "com.meizu.c2dm.intent.RECEIVE"
+          Category: "com.tencent.qqmusic"
+      com.tencent.qqmusic.forthird.activity.MV_THEME_DETAIL:
+        8c717b7 com.tencent.qqmusic/.third.BroadcastReceiverCenterForThird filter 4890b24
+          Action: "com.tencent.qqmusic.forthird.activity.APP_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RECOGNIZER"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_2"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER2"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.RADIO_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RANK_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.NEW_SONG_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGLE_NEW_SONG"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGER_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.ALBUM_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.HTML_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.BILL"
+          Action: "com.tencent.qqmusic.forthird.activity.PROFILE"
+          Action: "com.tencent.qqmusic.forthird.activity.MVPLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_FRAGMENT"
+          Action: "com.tencent.qqmusic.forthird.activity.SKIN_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.DAILY_RC_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.PC_WIFI_IMPORT"
+      android.intent.action.BOOT_COMPLETED:
+        da551d5 com.tencent.qqmusic/.BootBroadcastReceiver filter e10edea
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Category: "android.intent.category.LAUNCHER"
+      com.tencent.qqmusic.ACTION_GOTO_LOCAL:
+        196e68d com.tencent.qqmusic/.business.local.MediaScannReceiver filter 58d5042
+          Action: "com.tencent.qqpimsecure.ACTION_MEDIA_CACHE_CHANGE"
+          Action: "com.tencent.qqmusic.ACTION_GOTO_LOCAL"
+      com.tencent.qqmusic.sword.INSTALL_CMD:
+        358fbf9 com.tencent.qqmusic/.sword.InstallCmdReceiver filter 53f573e
+          Action: "com.tencent.qqmusic.sword.INSTALL_CMD"
+          Action: "com.tencent.qqmusic.sword.CLEAN_AND_INSTALL_CMD"
+      com.tencent.qqmusic.forthird.activity.ASSORT_FRAGMENT:
+        8c717b7 com.tencent.qqmusic/.third.BroadcastReceiverCenterForThird filter 4890b24
+          Action: "com.tencent.qqmusic.forthird.activity.APP_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RECOGNIZER"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_2"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER2"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.RADIO_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RANK_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.NEW_SONG_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGLE_NEW_SONG"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGER_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.ALBUM_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.HTML_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.BILL"
+          Action: "com.tencent.qqmusic.forthird.activity.PROFILE"
+          Action: "com.tencent.qqmusic.forthird.activity.MVPLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_FRAGMENT"
+          Action: "com.tencent.qqmusic.forthird.activity.SKIN_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.DAILY_RC_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.PC_WIFI_IMPORT"
+      com.tencent.qqpimsecure.ACTION_MEDIA_CACHE_CHANGE:
+        196e68d com.tencent.qqmusic/.business.local.MediaScannReceiver filter 58d5042
+          Action: "com.tencent.qqpimsecure.ACTION_MEDIA_CACHE_CHANGE"
+          Action: "com.tencent.qqmusic.ACTION_GOTO_LOCAL"
+      com.xiaomi.push.PING_TIMER:
+        daf9ecb com.tencent.qqmusic/com.xiaomi.push.service.receivers.PingReceiver filter 22aa6a8
+          Action: "com.xiaomi.push.PING_TIMER"
+      com.xiaomi.mipush.RECEIVE_MESSAGE:
+        8e055c1 com.tencent.qqmusic/com.tencent.component.thirdpartypush.mipush.MiPushReceiver filter 5eb8166
+          Action: "com.xiaomi.mipush.RECEIVE_MESSAGE"
+      third.party.push.to.com.tencent.qqmusic:
+        e6b46af com.tencent.qqmusic/.business.push.PushBroadcastReceiver filter d909abc
+          Action: "wns.push.to.com.tencent.qqmusic"
+          Action: "third.party.push.to.com.tencent.qqmusic"
+      com.meizu.flyme.push.intent.REGISTER.FEEDBACK:
+        6531c43 com.tencent.qqmusic/com.tencent.component.thirdpartypush.meizu.MeizuPushReceiver filter 2d1a2c0
+          Action: "com.meizu.flyme.push.intent.MESSAGE"
+          Action: "com.meizu.flyme.push.intent.REGISTER.FEEDBACK"
+          Action: "com.meizu.flyme.push.intent.UNREGISTER.FEEDBACK"
+          Action: "com.meizu.c2dm.intent.REGISTRATION"
+          Action: "com.meizu.c2dm.intent.RECEIVE"
+          Category: "com.tencent.qqmusic"
+      android.appwidget.action.APPWIDGET_UPDATE:
+        ebdb063 com.tencent.qqmusic/com.tencent.qqmusiccommon.WidgetProviderSmall filter 2147460
+          Action: "android.appwidget.action.APPWIDGET_UPDATE"
+        6afd19 com.tencent.qqmusic/com.tencent.qqmusiccommon.WidgetProviderMiddle filter 10191de
+          Action: "android.appwidget.action.APPWIDGET_UPDATE"
+        7d0efbf com.tencent.qqmusic/com.tencent.qqmusiccommon.WidgetProviderLarge filter 9bc768c
+          Action: "android.appwidget.action.APPWIDGET_UPDATE"
+      com.tencent.qqmusic.forthird.activity.HTML_PAGE:
+        8c717b7 com.tencent.qqmusic/.third.BroadcastReceiverCenterForThird filter 4890b24
+          Action: "com.tencent.qqmusic.forthird.activity.APP_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RECOGNIZER"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_2"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER2"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.RADIO_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RANK_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.NEW_SONG_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGLE_NEW_SONG"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGER_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.ALBUM_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.HTML_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.BILL"
+          Action: "com.tencent.qqmusic.forthird.activity.PROFILE"
+          Action: "com.tencent.qqmusic.forthird.activity.MVPLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_FRAGMENT"
+          Action: "com.tencent.qqmusic.forthird.activity.SKIN_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.DAILY_RC_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.PC_WIFI_IMPORT"
+      com.huawei.intent.action.PUSH:
+        a245eb5 com.tencent.qqmusic/com.huawei.hms.support.api.push.PushMsgReceiver filter b55a94a
+          Action: "com.huawei.intent.action.PUSH_DELAY_NOTIFY"
+          Action: "com.huawei.intent.action.PUSH"
+      com.tencent.qqmusic.alarm:
+        2f63651 com.tencent.qqmusic/.business.musicalarm.AlarmDemoReceiver filter b07feb6
+          Action: "com.tencent.qqmusic.alarm"
+      android.intent.action.MY_PACKAGE_REPLACED:
+        b185e89 com.tencent.qqmusic/.OverInstallDexInjectReceiver filter d242e8e
+          Action: "android.intent.action.MY_PACKAGE_REPLACED"
+      com.tencent.qqmusic.forthird.activity.PLAYER:
+        8c717b7 com.tencent.qqmusic/.third.BroadcastReceiverCenterForThird filter 4890b24
+          Action: "com.tencent.qqmusic.forthird.activity.APP_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RECOGNIZER"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_2"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER2"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.RADIO_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RANK_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.NEW_SONG_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGLE_NEW_SONG"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGER_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.ALBUM_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.HTML_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.BILL"
+          Action: "com.tencent.qqmusic.forthird.activity.PROFILE"
+          Action: "com.tencent.qqmusic.forthird.activity.MVPLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_FRAGMENT"
+          Action: "com.tencent.qqmusic.forthird.activity.SKIN_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.DAILY_RC_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.PC_WIFI_IMPORT"
+      com.tencent.qqmusic.forthird.activity.PUSH_2:
+        8c717b7 com.tencent.qqmusic/.third.BroadcastReceiverCenterForThird filter 4890b24
+          Action: "com.tencent.qqmusic.forthird.activity.APP_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RECOGNIZER"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_2"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER2"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.RADIO_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RANK_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.NEW_SONG_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGLE_NEW_SONG"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGER_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.ALBUM_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.HTML_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.BILL"
+          Action: "com.tencent.qqmusic.forthird.activity.PROFILE"
+          Action: "com.tencent.qqmusic.forthird.activity.MVPLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_FRAGMENT"
+          Action: "com.tencent.qqmusic.forthird.activity.SKIN_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.DAILY_RC_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.PC_WIFI_IMPORT"
+      android.intent.action.ACTION_SHUTDOWN:
+        2aec8db com.tencent.qqmusic/.ShutdownBroadcastReceiver filter a006f78
+          Action: "android.intent.action.ACTION_SHUTDOWN"
+          Category: "android.intent.category.HOME"
+      android.intent.action.MEDIA_BUTTON:
+        69bc1d com.tencent.qqmusic/androidx.media.session.MediaButtonReceiver filter fc41e92
+          Action: "android.intent.action.MEDIA_BUTTON"
+      com.tencent.qqmusic.sword.CLEAN_AND_INSTALL_CMD:
+        358fbf9 com.tencent.qqmusic/.sword.InstallCmdReceiver filter 53f573e
+          Action: "com.tencent.qqmusic.sword.INSTALL_CMD"
+          Action: "com.tencent.qqmusic.sword.CLEAN_AND_INSTALL_CMD"
+      com.tencent.qqmusic.forthird.activity.APP_LIST:
+        8c717b7 com.tencent.qqmusic/.third.BroadcastReceiverCenterForThird filter 4890b24
+          Action: "com.tencent.qqmusic.forthird.activity.APP_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RECOGNIZER"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH"
+          Action: "com.tencent.qqmusic.forthird.activity.PUSH_2"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.PLAYER2"
+          Action: "com.tencent.qqmusic.forthird.activity.THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.RADIO_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.RANK_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.NEW_SONG_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGLE_NEW_SONG"
+          Action: "com.tencent.qqmusic.forthird.activity.SINGER_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.ALBUM_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.HTML_PAGE"
+          Action: "com.tencent.qqmusic.forthird.activity.BILL"
+          Action: "com.tencent.qqmusic.forthird.activity.PROFILE"
+          Action: "com.tencent.qqmusic.forthird.activity.MVPLAYER"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME"
+          Action: "com.tencent.qqmusic.forthird.activity.MV_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_LIST"
+          Action: "com.tencent.qqmusic.forthird.activity.ASSORT_FRAGMENT"
+          Action: "com.tencent.qqmusic.forthird.activity.SKIN_THEME_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.DAILY_RC_DETAIL"
+          Action: "com.tencent.qqmusic.forthird.activity.PC_WIFI_IMPORT"
+
+Service Resolver Table:
+  Non-Data Actions:
+      com.huawei.push.msg.NOTIFY_MSG:
+        7b03a87 com.tencent.qqmusic/com.huawei.hms.support.api.push.service.HmsMsgService filter 3483db4
+          Action: "com.huawei.push.msg.NOTIFY_MSG"
+          Action: "com.huawei.push.msg.PASSBY_MSG"
+      com.heytap.mcs.action.RECEIVE_MCS_MESSAGE:
+        38c5eab com.tencent.qqmusic/com.heytap.mcssdk.AppPushService filter ade9908 permission com.heytap.mcs.permission.SEND_MCS_MESSAGE
+          Action: "com.heytap.mcs.action.RECEIVE_MCS_MESSAGE"
+      com.tencent.wns.service.WnsMain:
+        273d569 com.tencent.qqmusic/com.tencent.wns.service.WnsMain filter e8e0bee
+          Action: "com.tencent.wns.service.WnsMain"
+      com.tencent.qqmusic.third.api.QQMusicApiService:
+        fe39c33 com.tencent.qqmusic/.third.api.QQMusicApiService filter ff33bf0
+          Action: "com.tencent.qqmusic.third.api.QQMusicApiService"
+      com.tencent.qqmusic.service.IMainService:
+        e3abd97 com.tencent.qqmusic/.service.MainService filter e90eb84
+          Action: "com.tencent.qqmusic.service.IMainService"
+          mPriority=999, mOrder=0, mHasStaticPartialTypes=false, mHasDynamicPartialTypes=false
+      com.coloros.mcs.action.RECEIVE_MCS_MESSAGE:
+        56b5f25 com.tencent.qqmusic/com.heytap.mcssdk.PushService filter 152f8fa permission com.coloros.mcs.permission.SEND_MCS_MESSAGE
+          Action: "com.coloros.mcs.action.RECEIVE_MCS_MESSAGE"
+      com.huawei.push.msg.PASSBY_MSG:
+        7b03a87 com.tencent.qqmusic/com.huawei.hms.support.api.push.service.HmsMsgService filter 3483db4
+          Action: "com.huawei.push.msg.NOTIFY_MSG"
+          Action: "com.huawei.push.msg.PASSBY_MSG"
+      com.tencent.qqmusic.third.IQQMusicServiceForThird:
+        78eaf6d com.tencent.qqmusic/.third.QQMusicServiceForThird filter c8217a2
+          Action: "com.tencent.qqmusic.third.IQQMusicServiceForThird"
+      com.huawei.push.action.MESSAGING_EVENT:
+        231c88f com.tencent.qqmusic/com.tencent.component.thirdpartypush.huaweipush.HmsMessageServiceImpl filter 7e8271c
+          Action: "com.huawei.push.action.MESSAGING_EVENT"
+      android.intent.action.MEDIA_BUTTON:
+        c093131 com.tencent.qqmusic/com.tencent.qqmusicplayerprocess.servicenew.QQPlayerServiceNew filter 9cd1016
+          Action: "android.intent.action.MEDIA_BUTTON"
+      com.tencent.qqmusic.messenger:
+        797c8a1 com.tencent.qqmusic/com.blankj.utilcode.util.MessengerUtils$ServerService filter 847aac6
+          Action: "com.tencent.qqmusic.messenger"
+
+Permissions:
+  Permission [com.tencent.qqmusic.theme.permission] (5c74ddd):
+    sourcePackage=com.tencent.qqmusic
+    uid=10128 gids=null type=0 prot=signature
+    perm=Permission{2bca614 com.tencent.qqmusic.theme.permission}
+
+Permissions:
+  Permission [com.tencent.qqmusic.permission.MMOAUTH_CALLBACK] (583ad52):
+    sourcePackage=com.tencent.qqmusic
+    uid=10128 gids=null type=0 prot=signature
+    perm=Permission{c64febd com.tencent.qqmusic.permission.MMOAUTH_CALLBACK}
+
+Permissions:
+  Permission [com.tencent.qqmusic.permission.C2D_MESSAGE] (74bf823):
+    sourcePackage=com.tencent.qqmusic
+    uid=10128 gids=null type=0 prot=signature
+    perm=Permission{fcc3cb2 com.tencent.qqmusic.permission.C2D_MESSAGE}
+
+Permissions:
+  Permission [com.tencent.qqmusic.permission.PROCESS_PUSH_MSG] (f058120):
+    sourcePackage=com.tencent.qqmusic
+    uid=10128 gids=null type=0 prot=signature|privileged
+    perm=Permission{8204403 com.tencent.qqmusic.permission.PROCESS_PUSH_MSG}
+
+Permissions:
+  Permission [com.tencent.qqmusic.permission.MIPUSH_RECEIVE] (16fead9):
+    sourcePackage=com.tencent.qqmusic
+    uid=10128 gids=null type=0 prot=signature
+    perm=Permission{7c80f80 com.tencent.qqmusic.permission.MIPUSH_RECEIVE}
+
+Permissions:
+  Permission [com.tencent.qqmusic.permission.PUSH_WRITE_PROVIDER] (30b4c9e):
+    sourcePackage=com.tencent.qqmusic
+    uid=10128 gids=null type=0 prot=signature|privileged
+    perm=Permission{1e7c9b9 com.tencent.qqmusic.permission.PUSH_WRITE_PROVIDER}
+  Permission [com.tencent.qqmusic.push.permission.MESSAGE] (d5bf37f):
+    sourcePackage=com.tencent.qqmusic
+    uid=10128 gids=null type=0 prot=signature
+    perm=Permission{d3d71fe com.tencent.qqmusic.push.permission.MESSAGE}
+
+Permissions:
+  Permission [com.tencent.qqmusic.WNS_PUSH_BROADCAST] (7918f4c):
+    sourcePackage=com.tencent.qqmusic
+    uid=10128 gids=null type=0 prot=signature
+    perm=Permission{4591d5f com.tencent.qqmusic.WNS_PUSH_BROADCAST}
+
+Permissions:
+  Permission [com.tencent.qqmusic.permission.SEND_BROADCAST_PERMISSION] (36b5b95):
+    sourcePackage=com.tencent.qqmusic
+    uid=10128 gids=null type=0 prot=signature
+    perm=Permission{75ea3ac com.tencent.qqmusic.permission.SEND_BROADCAST_PERMISSION}
+
+Permissions:
+  Permission [com.tencent.qqmusic.permission.PUSH_PROVIDER] (4db94aa):
+    sourcePackage=com.tencent.qqmusic
+    uid=10128 gids=null type=0 prot=signature|privileged
+    perm=Permission{c324875 com.tencent.qqmusic.permission.PUSH_PROVIDER}
+
+Permissions:
+  Permission [com.tencent.qqmusic.permission.MM_MESSAGE] (e46489b):
+    sourcePackage=com.tencent.qqmusic
+    uid=10128 gids=null type=0 prot=signature
+    perm=Permission{2fab00a com.tencent.qqmusic.permission.MM_MESSAGE}
+
+Registered ContentProviders:
+  com.tencent.qqmusic/.common.providers.MusicDbContentProvider:
+    Provider{81c307b com.tencent.qqmusic/.common.providers.MusicDbContentProvider}
+  com.tencent.qqmusic/androidx.lifecycle.ProcessLifecycleOwnerInitializer:
+    Provider{4e84e98 com.tencent.qqmusic/androidx.lifecycle.ProcessLifecycleOwnerInitializer}
+  com.tencent.qqmusic/androidx.core.content.FileProvider:
+    Provider{6bf6f1 com.tencent.qqmusic/androidx.core.content.FileProvider}
+  com.tencent.qqmusic/com.huawei.hms.update.provider.UpdateProvider:
+    Provider{29bc2d6 com.tencent.qqmusic/com.huawei.hms.update.provider.UpdateProvider}
+  com.tencent.qqmusic/com.huawei.hms.support.api.push.PushProvider:
+    Provider{9335957 com.tencent.qqmusic/com.huawei.hms.support.api.push.PushProvider}
+  com.tencent.qqmusic/.business.splash.thirdpartsplash.gdt.GDTFileProvider:
+    Provider{5fbc44 com.tencent.qqmusic/.business.splash.thirdpartsplash.gdt.GDTFileProvider}
+  com.tencent.qqmusic/com.huawei.hms.aaid.InitProvider:
+    Provider{4b8112d com.tencent.qqmusic/com.huawei.hms.aaid.InitProvider}
+  com.tencent.qqmusic/com.blankj.utilcode.util.Utils$FileProvider4UtilCode:
+    Provider{d693662 com.tencent.qqmusic/com.blankj.utilcode.util.Utils$FileProvider4UtilCode}
+  com.tencent.qqmusic/com.huawei.agconnect.core.provider.AGConnectInitializeProvider:
+    Provider{62a33f3 com.tencent.qqmusic/com.huawei.agconnect.core.provider.AGConnectInitializeProvider}
+
+ContentProvider Authorities:
+  [com.tencent.qqmusic.lifecycle-process]:
+    Provider{4e84e98 com.tencent.qqmusic/androidx.lifecycle.ProcessLifecycleOwnerInitializer}
+      applicationInfo=ApplicationInfo{cbe58b0 com.tencent.qqmusic}
+  [com.tencent.qqmusic.utilcode.provider]:
+    Provider{d693662 com.tencent.qqmusic/com.blankj.utilcode.util.Utils$FileProvider4UtilCode}
+      applicationInfo=ApplicationInfo{4319329 com.tencent.qqmusic}
+  [com.tencent.qqmusic.hms.update.provider]:
+    Provider{29bc2d6 com.tencent.qqmusic/com.huawei.hms.update.provider.UpdateProvider}
+      applicationInfo=ApplicationInfo{ea856ae com.tencent.qqmusic}
+  [com.tencent.qqmusic.fileprovider]:
+    Provider{5fbc44 com.tencent.qqmusic/.business.splash.thirdpartsplash.gdt.GDTFileProvider}
+      applicationInfo=ApplicationInfo{aa1c4f com.tencent.qqmusic}
+  [com.tencent.qqmusic.fileProvider]:
+    Provider{6bf6f1 com.tencent.qqmusic/androidx.core.content.FileProvider}
+      applicationInfo=ApplicationInfo{1284fdc com.tencent.qqmusic}
+  [com.tencent.qqmusic.huawei.push.provider]:
+    Provider{9335957 com.tencent.qqmusic/com.huawei.hms.support.api.push.PushProvider}
+      applicationInfo=ApplicationInfo{6a738e5 com.tencent.qqmusic}
+  [com.tencent.qqmusic.musicdbaccessor.MusicDbContentProvider]:
+    Provider{81c307b com.tencent.qqmusic/.common.providers.MusicDbContentProvider}
+      applicationInfo=ApplicationInfo{ea72fba com.tencent.qqmusic}
+  [com.tencent.qqmusic.aaidinitprovider]:
+    Provider{4b8112d com.tencent.qqmusic/com.huawei.hms.aaid.InitProvider}
+      applicationInfo=ApplicationInfo{1962e6b com.tencent.qqmusic}
+  [com.tencent.qqmusic.AGCInitializeProvider]:
+    Provider{62a33f3 com.tencent.qqmusic/com.huawei.agconnect.core.provider.AGConnectInitializeProvider}
+      applicationInfo=ApplicationInfo{d88dc8 com.tencent.qqmusic}
+
+Key Set Manager:
+  [com.tencent.qqmusic]
+      Signing KeySets: 20
+
+Packages:
+  Package [com.tencent.qqmusic] (8177e61):
+    userId=10128
+    pkg=Package{a888d86 com.tencent.qqmusic}
+    codePath=/data/app/~~CYeFVfQskXgpE3slX6pxZQ==/com.tencent.qqmusic-nue86Jiu24NzUgJgC6q_qQ==
+    resourcePath=/data/app/~~CYeFVfQskXgpE3slX6pxZQ==/com.tencent.qqmusic-nue86Jiu24NzUgJgC6q_qQ==
+    legacyNativeLibraryDir=/data/app/~~CYeFVfQskXgpE3slX6pxZQ==/com.tencent.qqmusic-nue86Jiu24NzUgJgC6q_qQ==/lib
+    primaryCpuAbi=armeabi-v7a
+    secondaryCpuAbi=null
+    versionCode=1626 minSdk=14 targetSdk=26
+    versionName=10.2.5.7
+    splits=[base]
+    apkSigningVersion=1
+    applicationInfo=ApplicationInfo{a888d86 com.tencent.qqmusic}
+    flags=[ HAS_CODE ALLOW_TASK_REPARENTING ALLOW_CLEAR_USER_DATA LARGE_HEAP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE PRIVATE_FLAG_REQUEST_LEGACY_EXTERNAL_STORAGE PARTIALLY_DIRECT_BOOT_AWARE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesPackages=[]
+    dataDir=/data/user/0/com.tencent.qqmusic
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesLibraries:
+      android.test.base
+    usesOptionalLibraries:
+      org.apache.http.legacy
+    usesLibraryFiles:
+      /system/framework/android.test.base.jar
+      /system/framework/org.apache.http.legacy.jar
+    timeStamp=2021-11-23 10:57:16
+    firstInstallTime=2021-11-23 10:57:19
+    lastUpdateTime=2021-11-23 10:57:19
+    signatures=PackageSignatures{2e74647 version:1, signatures:[909ee988], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_TASK_REPARENTING ALLOW_CLEAR_USER_DATA LARGE_HEAP ]
+    declared permissions:
+      com.tencent.qqmusic.permission.MM_MESSAGE: prot=signature, INSTALLED
+      com.tencent.qqmusic.permission.MMOAUTH_CALLBACK: prot=signature, INSTALLED
+      com.tencent.qqmusic.permission.SEND_BROADCAST_PERMISSION: prot=signature, INSTALLED
+      com.tencent.qqmusic.theme.permission: prot=signature, INSTALLED
+      com.tencent.qqmusic.permission.MIPUSH_RECEIVE: prot=signature, INSTALLED
+      com.tencent.qqmusic.WNS_PUSH_BROADCAST: prot=signature, INSTALLED
+      com.tencent.qqmusic.push.permission.MESSAGE: prot=signature, INSTALLED
+      com.tencent.qqmusic.permission.C2D_MESSAGE: prot=signature, INSTALLED
+      com.tencent.qqmusic.permission.PROCESS_PUSH_MSG: prot=signature|privileged, INSTALLED
+      com.tencent.qqmusic.permission.PUSH_PROVIDER: prot=signature|privileged, INSTALLED
+      com.tencent.qqmusic.permission.PUSH_WRITE_PROVIDER: prot=signature|privileged, INSTALLED
+    requested permissions:
+      com.huawei.android.launcher.permission.CHANGE_BADGE
+      com.huawei.android.launcher.permission.READ_SETTINGS
+      com.huawei.android.launcher.permission.WRITE_SETTINGS
+      com.oppo.launcher.permission.READ_SETTINGS
+      com.oppo.launcher.permission.WRITE_SETTINGS
+      android.permission.GET_TASKS
+      com.tencent.qqmusic.permission.MMOAUTH_CALLBACK
+      com.tencent.qqmusic.permission.MM_MESSAGE
+      android.permission.MODIFY_AUDIO_SETTINGS
+      android.permission.BROADCAST_STICKY
+      com.tencent.qqmusic.permission.SEND_BROADCAST_PERMISSION
+      android.permission.WRITE_SETTINGS
+      android.permission.WAKE_LOCK
+      android.permission.INTERNET
+      android.permission.READ_PHONE_STATE
+      android.permission.ACCESS_WIFI_STATE
+      android.permission.ACCESS_NETWORK_STATE
+      com.android.launcher.permission.INSTALL_SHORTCUT
+      com.android.launcher.permission.UNINSTALL_SHORTCUT
+      com.android.launcher.permission.READ_SETTINGS
+      com.android.launcher.permission.WRITE_SETTINGS
+      android.permission.READ_EXTERNAL_STORAGE: restricted=true
+      android.permission.WRITE_EXTERNAL_STORAGE: restricted=true
+      android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+      android.permission.WRITE_MEDIA_STORAGE
+      android.permission.RECORD_AUDIO
+      android.permission.VIBRATE
+      android.permission.CHANGE_WIFI_STATE
+      android.permission.CHANGE_WIFI_MULTICAST_STATE
+      android.permission.RESTART_PACKAGES
+      android.permission.RECEIVE_BOOT_COMPLETED
+      android.permission.SYSTEM_ALERT_WINDOW
+      android.permission.DISABLE_KEYGUARD
+      android.permission.ACCESS_FINE_LOCATION
+      android.permission.ACCESS_COARSE_LOCATION
+      android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+      android.permission.BLUETOOTH
+      android.permission.BLUETOOTH_ADMIN
+      android.permission.qqmusic.qqcbdm
+      android.permission.EXPAND_STATUS_BAR
+      android.permission.READ_LOGS
+      com.tencent.qqmusic.theme.permission
+      android.permission.CHANGE_NETWORK_STATE
+      android.permission.REORDER_TASKS
+      android.permission.CAMERA
+      android.permission.READ_CALENDAR
+      android.permission.WRITE_CALENDAR
+      android.permission.FOREGROUND_SERVICE
+      android.permission.REQUEST_INSTALL_PACKAGES
+      com.tencent.qqmusic.permission.MIPUSH_RECEIVE
+      com.tencent.qqmusic.WNS_PUSH_BROADCAST
+      com.meizu.flyme.push.permission.RECEIVE
+      com.tencent.qqmusic.push.permission.MESSAGE
+      com.meizu.c2dm.permission.RECEIVE
+      com.tencent.qqmusic.permission.C2D_MESSAGE
+      com.tencent.qqmusic.permission.PROCESS_PUSH_MSG
+      com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE
+      com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE
+      com.tencent.qqmusic.permission.PUSH_PROVIDER
+      com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA
+      android.permission.ACCESS_BACKGROUND_LOCATION: restricted=true
+      android.permission.ACCESS_MEDIA_LOCATION
+    install permissions:
+      android.permission.RESTART_PACKAGES: granted=true
+      android.permission.MODIFY_AUDIO_SETTINGS: granted=true
+      com.tencent.qqmusic.theme.permission: granted=true
+      com.tencent.qqmusic.permission.MMOAUTH_CALLBACK: granted=true
+      android.permission.CHANGE_NETWORK_STATE: granted=true
+      android.permission.FOREGROUND_SERVICE: granted=true
+      android.permission.RECEIVE_BOOT_COMPLETED: granted=true
+      com.tencent.qqmusic.permission.C2D_MESSAGE: granted=true
+      android.permission.EXPAND_STATUS_BAR: granted=true
+      com.android.launcher.permission.UNINSTALL_SHORTCUT: granted=true
+      android.permission.BLUETOOTH: granted=true
+      android.permission.CHANGE_WIFI_MULTICAST_STATE: granted=true
+      android.permission.GET_TASKS: granted=true
+      com.tencent.qqmusic.permission.PROCESS_PUSH_MSG: granted=true
+      android.permission.INTERNET: granted=true
+      com.tencent.qqmusic.permission.MIPUSH_RECEIVE: granted=true
+      android.permission.REORDER_TASKS: granted=true
+      com.tencent.qqmusic.push.permission.MESSAGE: granted=true
+      android.permission.BLUETOOTH_ADMIN: granted=true
+      com.tencent.qqmusic.WNS_PUSH_BROADCAST: granted=true
+      com.tencent.qqmusic.permission.SEND_BROADCAST_PERMISSION: granted=true
+      android.permission.ACCESS_LOCATION_EXTRA_COMMANDS: granted=true
+      android.permission.BROADCAST_STICKY: granted=true
+      com.tencent.qqmusic.permission.PUSH_PROVIDER: granted=true
+      android.permission.CHANGE_WIFI_STATE: granted=true
+      com.tencent.qqmusic.permission.MM_MESSAGE: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+      android.permission.DISABLE_KEYGUARD: granted=true
+      android.permission.VIBRATE: granted=true
+      android.permission.ACCESS_WIFI_STATE: granted=true
+      com.android.launcher.permission.INSTALL_SHORTCUT: granted=true
+      android.permission.WAKE_LOCK: granted=true
+    User 0: ceDataInode=131235 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+      gids=[3002, 3003, 3001]
+      runtime permissions:
+        android.permission.READ_EXTERNAL_STORAGE: granted=false, flags=[ APPLY_RESTRICTION]
+        android.permission.WRITE_EXTERNAL_STORAGE: granted=false, flags=[ APPLY_RESTRICTION]
+        android.permission.ACCESS_BACKGROUND_LOCATION: granted=false, flags=[ REVOKE_WHEN_REQUESTED|APPLY_RESTRICTION]
+        android.permission.ACCESS_MEDIA_LOCATION: granted=false, flags=[ REVOKE_WHEN_REQUESTED]
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    com.android.documentsui:
+      com.tencent.qqmusic
+  queryable via interaction:
+    User 0:
+
+Package Changes:
+  Sequence number=313
+  User 0:
+    seq=0, package=com.android.permissioncontroller
+    seq=2, package=com.google.android.sdksetup
+    seq=3, package=com.android.cellbroadcastreceiver.module
+    seq=4, package=com.android.provision
+    seq=71, package=com.android.settings
+    seq=180, package=com.google.android.gsf
+    seq=260, package=com.android.calendar
+    seq=261, package=com.android.camera2
+    seq=262, package=com.android.gallery3d
+    seq=263, package=com.android.inputmethod.latin
+    seq=268, package=com.android.messaging
+    seq=269, package=com.android.nfc
+    seq=271, package=com.android.traceur
+    seq=272, package=com.android.stk
+    seq=273, package=com.google.android.apps.maps
+    seq=298, package=com.google.android.gms
+    seq=311, package=io.github.ylimit.droidbotapp
+    seq=312, package=com.tencent.qqmusic
+
+
+Dexopt state:
+  [com.tencent.qqmusic]
+    path: /data/app/~~CYeFVfQskXgpE3slX6pxZQ==/com.tencent.qqmusic-nue86Jiu24NzUgJgC6q_qQ==/base.apk
+      x86: [status=run-from-apk] [reason=unknown]
+
+
+Compiler stats:
+  [com.tencent.qqmusic]
+     base.apk - 6077
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+

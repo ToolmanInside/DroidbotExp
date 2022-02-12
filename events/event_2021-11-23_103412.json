@@ -1,0 +1,48 @@
+{
+  "tag": "2021-11-23_103412",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          152,
+          1553
+        ],
+        [
+          400,
+          1601
+        ]
+      ],
+      "resource_id": "com.tencent.qqmusic:id/e4b",
+      "checked": false,
+      "text": "Wrecking Ball",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 285,
+      "temp_id": 286,
+      "size": "248*48",
+      "signature": "[class]android.widget.TextView[resource_id]com.tencent.qqmusic:id/e4b[text]Wrecking Ball[enabled,,]",
+      "view_str": "9bb52c81d400f85ba39331feed932c9c"
+    }
+  },
+  "start_state": "ead21c927ce41e918e02cd07c72240aa",
+  "stop_state": "1f76136d2cb3eb30a0f8d3036db6f565",
+  "event_str": "TouchEvent(state=ead21c927ce41e918e02cd07c72240aa, view=9bb52c81d400f85ba39331feed932c9c(AppStarterActivity/TextView-Wrecking B))"
+}

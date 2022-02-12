@@ -1,0 +1,11 @@
+{
+  "tag": "2021-12-06_204449",
+  "event": {
+    "event_type": "kill_app",
+    "log_lines": null,
+    "stop_intent": "am force-stop com.tencent.qqmusic"
+  },
+  "start_state": "5e81a9b524e53123df2017058fa6b4c8",
+  "stop_state": "5e81a9b524e53123df2017058fa6b4c8",
+  "event_str": "KillAppEvent()"
+}

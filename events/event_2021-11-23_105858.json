@@ -1,0 +1,48 @@
+{
+  "tag": "2021-11-23_105858",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": true,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          227,
+          1867
+        ],
+        [
+          271,
+          1911
+        ]
+      ],
+      "resource_id": "com.tencent.qqmusic:id/e0",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.CheckBox",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 25,
+      "temp_id": 26,
+      "size": "44*44",
+      "signature": "[class]android.widget.CheckBox[resource_id]com.tencent.qqmusic:id/e0[text]None[enabled,,]",
+      "view_str": "ee1964632bc28477053725fe3effd1fc"
+    }
+  },
+  "start_state": "ffa270e4a87e8e4d81b2cff1bf9a3dae",
+  "stop_state": "56b95415c8440b8a720608669dfc8390",
+  "event_str": "TouchEvent(state=ffa270e4a87e8e4d81b2cff1bf9a3dae, view=ee1964632bc28477053725fe3effd1fc(LoginActivity/CheckBox-))"
+}

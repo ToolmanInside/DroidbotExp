@@ -1,0 +1,48 @@
+{
+  "tag": "2021-11-23_105948",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          618,
+          476
+        ],
+        [
+          698,
+          517
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "2021",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 210,
+      "temp_id": 211,
+      "size": "80*41",
+      "signature": "[class]android.view.View[resource_id]None[text]2021[enabled,,]",
+      "view_str": "78055ca9a76ece5bff868e21c1480ca2"
+    }
+  },
+  "start_state": "b5422360956bdfdd71279a6dcbdf843a",
+  "stop_state": "b5422360956bdfdd71279a6dcbdf843a",
+  "event_str": "TouchEvent(state=b5422360956bdfdd71279a6dcbdf843a, view=78055ca9a76ece5bff868e21c1480ca2(AppStarterActivity/View-2021))"
+}

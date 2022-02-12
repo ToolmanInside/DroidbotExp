@@ -1,0 +1,48 @@
+{
+  "tag": "2021-11-23_105119",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          860,
+          1127
+        ],
+        [
+          1036,
+          1265
+        ]
+      ],
+      "resource_id": "com.tencent.qqmusic:id/dho",
+      "checked": false,
+      "text": "\u6447\u5934",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 19,
+      "temp_id": 24,
+      "size": "176*138",
+      "signature": "[class]android.widget.Button[resource_id]com.tencent.qqmusic:id/dho[text]\u6447\u5934[enabled,,]",
+      "view_str": "653429c6f0ea71ab43456ba9e3b70619"
+    }
+  },
+  "start_state": "507fec45a1139520038c2078252007a5",
+  "stop_state": "83854076f2194fdf65bcf3fd7144c36e",
+  "event_str": "TouchEvent(state=507fec45a1139520038c2078252007a5, view=653429c6f0ea71ab43456ba9e3b70619(SuperSoundDJDetailActivity/Button-\u6447\u5934))"
+}

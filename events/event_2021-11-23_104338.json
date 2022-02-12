@@ -1,0 +1,49 @@
+{
+  "tag": "2021-11-23_104338",
+  "event": {
+    "event_type": "long_touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.android.launcher3",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Camera",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          842,
+          1836
+        ],
+        [
+          1042,
+          2084
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Camera",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 20,
+      "temp_id": 25,
+      "size": "200*248",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Camera[enabled,,]",
+      "view_str": "a96048c432765ac640f07c9ca88f69fb"
+    },
+    "duration": 2000
+  },
+  "start_state": "5e81a9b524e53123df2017058fa6b4c8",
+  "stop_state": "5e81a9b524e53123df2017058fa6b4c8",
+  "event_str": "LongTouchEvent(state=5e81a9b524e53123df2017058fa6b4c8, view=a96048c432765ac640f07c9ca88f69fb(QuickstepLauncher/TextView-Camera))"
+}

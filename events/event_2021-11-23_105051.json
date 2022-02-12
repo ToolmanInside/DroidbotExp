@@ -1,0 +1,48 @@
+{
+  "tag": "2021-11-23_105051",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.android.permissioncontroller",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          138,
+          896
+        ],
+        [
+          942,
+          1034
+        ]
+      ],
+      "resource_id": "com.android.permissioncontroller:id/permission_message",
+      "checked": false,
+      "text": "Allow QQMusic to take pictures and record video?",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 7,
+      "temp_id": 9,
+      "size": "804*138",
+      "signature": "[class]android.widget.TextView[resource_id]com.android.permissioncontroller:id/permission_message[text]Allow QQMusic to take pictures and record video?[enabled,,]",
+      "view_str": "323160c5a087a2b5c668c55378cd2a28"
+    }
+  },
+  "start_state": "ac972957fe6bee773a767497c78149e1",
+  "stop_state": "ac972957fe6bee773a767497c78149e1",
+  "event_str": "TouchEvent(state=ac972957fe6bee773a767497c78149e1, view=323160c5a087a2b5c668c55378cd2a28(GrantPermissionsActivity/TextView-Allow QQMu))"
+}

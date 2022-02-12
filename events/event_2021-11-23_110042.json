@@ -1,0 +1,48 @@
+{
+  "tag": "2021-11-23_110042",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          517,
+          1702
+        ],
+        [
+          665,
+          1812
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "QQ\u767b\u5f55",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 20,
+      "temp_id": 22,
+      "size": "148*110",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]QQ\u767b\u5f55[enabled,,]",
+      "view_str": "44cd86abf64d38c771a2ce8c80673b68"
+    }
+  },
+  "start_state": "ffa270e4a87e8e4d81b2cff1bf9a3dae",
+  "stop_state": "69b8488a264a49c84683c77bda2e2b44",
+  "event_str": "TouchEvent(state=ffa270e4a87e8e4d81b2cff1bf9a3dae, view=44cd86abf64d38c771a2ce8c80673b68(LoginActivity/TextView-QQ\u767b\u5f55))"
+}

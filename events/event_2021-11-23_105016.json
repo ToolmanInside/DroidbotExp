@@ -1,0 +1,48 @@
+{
+  "tag": "2021-11-23_105016",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "\u8fd4\u56de",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          100
+        ],
+        [
+          121,
+          155
+        ]
+      ],
+      "resource_id": "com.tencent.qqmusic:id/h3",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 43,
+      "temp_id": 44,
+      "size": "121*55",
+      "signature": "[class]android.widget.ImageView[resource_id]com.tencent.qqmusic:id/h3[text]None[enabled,,]",
+      "view_str": "c3cfcbc28bf170598166c5a3070614fb"
+    }
+  },
+  "start_state": "16a4d3f27a6d1026ea4e7421295413e4",
+  "stop_state": "16a4d3f27a6d1026ea4e7421295413e4",
+  "event_str": "TouchEvent(state=16a4d3f27a6d1026ea4e7421295413e4, view=c3cfcbc28bf170598166c5a3070614fb(SuperSoundDJDetailActivity/ImageView-))"
+}

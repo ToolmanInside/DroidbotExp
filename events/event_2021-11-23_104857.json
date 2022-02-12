@@ -1,0 +1,48 @@
+{
+  "tag": "2021-11-23_104857",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          404,
+          848
+        ],
+        [
+          487,
+          932
+        ]
+      ],
+      "resource_id": "com.tencent.qqmusic:id/duo",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 6,
+      "temp_id": 13,
+      "size": "83*84",
+      "signature": "[class]android.widget.ImageView[resource_id]com.tencent.qqmusic:id/duo[text]None[enabled,,]",
+      "view_str": "c5c5daa289a7773538d6744b58a4dfe7"
+    }
+  },
+  "start_state": "8408e9b381aafbf440b7e31b065c9135",
+  "stop_state": "3f751964fccae4c779db8c3e7ead1c5d",
+  "event_str": "TouchEvent(state=8408e9b381aafbf440b7e31b065c9135, view=c5c5daa289a7773538d6744b58a4dfe7(SoundFxSettingActivity/ImageView-))"
+}

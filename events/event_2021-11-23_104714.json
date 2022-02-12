@@ -1,0 +1,48 @@
+{
+  "tag": "2021-11-23_104714",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          77,
+          797
+        ],
+        [
+          195,
+          866
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "\u4e13\u8f91\uff1a",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 26,
+      "temp_id": 27,
+      "size": "118*69",
+      "signature": "[class]android.view.View[resource_id]None[text]\u4e13\u8f91\uff1a[enabled,,]",
+      "view_str": "7fb40451ce96c132f6a1b8e353addbc2"
+    }
+  },
+  "start_state": "1460119d0cdc1da7d4c46b09ce7db681",
+  "stop_state": "1460119d0cdc1da7d4c46b09ce7db681",
+  "event_str": "TouchEvent(state=1460119d0cdc1da7d4c46b09ce7db681, view=7fb40451ce96c132f6a1b8e353addbc2(FragmentActivityWithMinibar/View-\u4e13\u8f91\uff1a))"
+}

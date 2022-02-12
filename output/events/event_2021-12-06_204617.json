@@ -1,0 +1,48 @@
+{
+  "tag": "2021-12-06_204617",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          41,
+          767
+        ],
+        [
+          181,
+          853
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "\u63a8\u8350",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": true,
+      "long_clickable": false,
+      "parent": 14,
+      "temp_id": 15,
+      "size": "140*86",
+      "signature": "[class]android.view.View[resource_id]None[text]\u63a8\u8350[enabled,,selected]",
+      "view_str": "6ece92d12044127a45d50492ec17dae9"
+    }
+  },
+  "start_state": "d117989d571af7219845ec0989c73b90",
+  "stop_state": "d117989d571af7219845ec0989c73b90",
+  "event_str": "TouchEvent(state=d117989d571af7219845ec0989c73b90, view=6ece92d12044127a45d50492ec17dae9(ShareFeedActivity/View-\u63a8\u8350))"
+}

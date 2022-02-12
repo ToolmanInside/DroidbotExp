@@ -1,0 +1,49 @@
+{
+  "tag": "2021-11-23_094433",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.android.launcher3",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Apps list",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          515,
+          1797
+        ],
+        [
+          565,
+          1814
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 5,
+      "temp_id": 6,
+      "size": "50*17",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "d87cd9a9bc19f3e611b086f272f4fbe7",
+      "content_free_signature": "[class]android.view.View[resource_id]None"
+    }
+  },
+  "start_state": "845248ae17772c01397603d1fe9763e9",
+  "stop_state": "845248ae17772c01397603d1fe9763e9",
+  "event_str": "TouchEvent(state=845248ae17772c01397603d1fe9763e9, view=d87cd9a9bc19f3e611b086f272f4fbe7(QuickstepLauncher/View-))"
+}

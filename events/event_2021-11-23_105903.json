@@ -1,0 +1,48 @@
+{
+  "tag": "2021-11-23_105903",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "\u5206\u4eab",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          942,
+          163
+        ],
+        [
+          1028,
+          249
+        ]
+      ],
+      "resource_id": "com.tencent.qqmusic:id/ek8",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 6,
+      "temp_id": 13,
+      "size": "86*86",
+      "signature": "[class]android.widget.ImageView[resource_id]com.tencent.qqmusic:id/ek8[text]None[enabled,,]",
+      "view_str": "ae49ae5dd1530d504455e3c29e2fc74c"
+    }
+  },
+  "start_state": "56b95415c8440b8a720608669dfc8390",
+  "stop_state": "6bd0d3eb14089a050094b23ca2296b40",
+  "event_str": "TouchEvent(state=56b95415c8440b8a720608669dfc8390, view=ae49ae5dd1530d504455e3c29e2fc74c(NewPlayerActivity/ImageView-))"
+}

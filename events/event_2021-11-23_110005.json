@@ -1,0 +1,53 @@
+{
+  "tag": "2021-11-23_110005",
+  "event": {
+    "event_type": "scroll",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        202,
+        203,
+        1013
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          259
+        ],
+        [
+          1083,
+          2074
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "QQ\u97f3\u4e50\u51fa\u54c1",
+      "class": "android.webkit.WebView",
+      "scrollable": true,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 200,
+      "temp_id": 201,
+      "size": "1083*1815",
+      "signature": "[class]android.webkit.WebView[resource_id]None[text]QQ\u97f3\u4e50\u51fa\u54c1[enabled,,]",
+      "view_str": "dae7b0e1df415f72c89ef7a40dd1a782"
+    },
+    "direction": "UP"
+  },
+  "start_state": "829343861a1653008b416c0a81ac2369",
+  "stop_state": "829343861a1653008b416c0a81ac2369",
+  "event_str": "ScrollEvent(state=829343861a1653008b416c0a81ac2369, view=dae7b0e1df415f72c89ef7a40dd1a782(AppStarterActivity/WebView-QQ\u97f3\u4e50\u51fa\u54c1), direction=UP)"
+}

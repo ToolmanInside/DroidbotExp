@@ -1,0 +1,50 @@
+{
+  "tag": "2021-11-23_110239",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "\u300aQQ\u53f7\u7801\u89c4\u5219\u300b",
+      "children": [
+        33
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          539,
+          721
+        ],
+        [
+          830,
+          778
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 27,
+      "temp_id": 32,
+      "size": "291*57",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "6cbb195ecb534a90dac2b78e95ec0935"
+    }
+  },
+  "start_state": "c8f2fde9d0c36ca12635c425e8272291",
+  "stop_state": "9e613a6e0838c340d71293ab29d4d857",
+  "event_str": "TouchEvent(state=c8f2fde9d0c36ca12635c425e8272291, view=6cbb195ecb534a90dac2b78e95ec0935(WebViewActivity/View-))"
+}

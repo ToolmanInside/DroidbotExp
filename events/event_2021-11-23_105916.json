@@ -1,0 +1,48 @@
+{
+  "tag": "2021-11-23_105916",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          1355
+        ],
+        [
+          936,
+          1420
+        ]
+      ],
+      "resource_id": "com.tencent.qqmusic:id/bvy",
+      "checked": false,
+      "text": "\u7ec8\u4e8e\u638f\u7a7a \u7ec8\u4e8e\u6709\u59cb\u65e0\u7ec8",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 30,
+      "temp_id": 31,
+      "size": "870*65",
+      "signature": "[class]android.widget.TextView[resource_id]com.tencent.qqmusic:id/bvy[text]\u7ec8\u4e8e\u638f\u7a7a \u7ec8\u4e8e\u6709\u59cb\u65e0\u7ec8[enabled,,]",
+      "view_str": "d4657c3453438d22df92745aff59d47a"
+    }
+  },
+  "start_state": "da52920f0deee48e09cbe23662839860",
+  "stop_state": "8a1c49727084d31e99e6274b8cd0b8db",
+  "event_str": "TouchEvent(state=da52920f0deee48e09cbe23662839860, view=d4657c3453438d22df92745aff59d47a(LyricSelectionActivity/TextView-\u7ec8\u4e8e\u638f\u7a7a \u7ec8\u4e8e\u6709\u59cb\u65e0))"
+}

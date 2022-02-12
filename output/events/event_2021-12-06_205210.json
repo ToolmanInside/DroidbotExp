@@ -1,0 +1,50 @@
+{
+  "tag": "2021-12-06_205210",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "org.chromium.webview_shell",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        12
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          189,
+          716
+        ],
+        [
+          1069,
+          892
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 2,
+      "temp_id": 11,
+      "size": "880*176",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "b0f1db155a9416e24d528abde17d051d"
+    }
+  },
+  "start_state": "7d3d19f3860b7730d71aff15acabdec1",
+  "stop_state": "f57f151231b5e5c6876b3a5fd5d0a060",
+  "event_str": "TouchEvent(state=7d3d19f3860b7730d71aff15acabdec1, view=b0f1db155a9416e24d528abde17d051d(WebViewBrowserActivity/LinearLayout-))"
+}

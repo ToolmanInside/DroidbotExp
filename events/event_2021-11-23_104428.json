@@ -1,0 +1,48 @@
+{
+  "tag": "2021-11-23_104428",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          498,
+          1363
+        ],
+        [
+          581,
+          1446
+        ]
+      ],
+      "resource_id": "com.tencent.qqmusic:id/d6m",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ProgressBar",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 13,
+      "temp_id": 14,
+      "size": "83*83",
+      "signature": "[class]android.widget.ProgressBar[resource_id]com.tencent.qqmusic:id/d6m[text]None[enabled,,]",
+      "view_str": "06820cbb13053df2748cec33c449402f"
+    }
+  },
+  "start_state": "9e5895aa155de808f52cb50413554bd6",
+  "stop_state": "9b2ca9bbcddf1667929a35ece34d4702",
+  "event_str": "TouchEvent(state=9e5895aa155de808f52cb50413554bd6, view=06820cbb13053df2748cec33c449402f(MVPlayerActivity/ProgressBar-))"
+}

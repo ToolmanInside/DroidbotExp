@@ -1,0 +1,49 @@
+{
+  "tag": "2021-11-23_105814",
+  "event": {
+    "event_type": "long_touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.tencent.qqmusic",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "\u66f4\u591a",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          896,
+          1646
+        ],
+        [
+          1011,
+          1761
+        ]
+      ],
+      "resource_id": "com.tencent.qqmusic:id/ji",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageButton",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 37,
+      "temp_id": 46,
+      "size": "115*115",
+      "signature": "[class]android.widget.ImageButton[resource_id]com.tencent.qqmusic:id/ji[text]None[enabled,,]",
+      "view_str": "630042a3e79bf14832106f65299fd6fb"
+    },
+    "duration": 2000
+  },
+  "start_state": "8288474239fb14f96153cd8e76fe9f52",
+  "stop_state": "e7d5fa5ade6c3709bc19054d4b9aea14",
+  "event_str": "LongTouchEvent(state=8288474239fb14f96153cd8e76fe9f52, view=630042a3e79bf14832106f65299fd6fb(NewPlayerActivity/ImageButton-))"
+}

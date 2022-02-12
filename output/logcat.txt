@@ -1,0 +1,313 @@
+--------- beginning of main
+12-06 20:51:57.169 10936 10938 I cmd     : oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:51:57.211 10941 10943 I cmd     : oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:51:57.252 10946 10948 I cmd     : oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:51:57.874   154   154 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device manifest.
+12-06 20:51:57.875 10991 10994 I Gralloc4: mapper 4.x is not supported
+12-06 20:51:58.017   154   154 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.allocator@4.0::IAllocator/default in either framework or device manifest.
+12-06 20:51:58.018 10991 10994 W Gralloc4: allocator 3.x is not supported
+12-06 20:51:59.109   186   188 E android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup34: Permission denied
+12-06 20:51:59.093   186   186 W Binder:186_1: type=1400 audit(0.0:230): avc: denied { read } for name="wakeup34" dev="sysfs" ino=18795 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+12-06 20:51:59.121   186   188 E android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup35: Permission denied
+12-06 20:51:59.117   186   186 W Binder:186_1: type=1400 audit(0.0:231): avc: denied { read } for name="wakeup35" dev="sysfs" ino=18858 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+--------- beginning of kernel
+12-06 20:51:59.998 11001 11009 I cmd     : oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:00.673 11050 11050 E libc    : Access denied finding property "persist.device_config.runtime_native_boot.profilebootclasspath"
+12-06 20:52:00.673 11050 11050 E libc    : Access denied finding property "persist.device_config.runtime_native_boot.enable_apex_image"
+12-06 20:52:00.673 11050 11050 I AndroidRuntime: Using default boot image
+12-06 20:52:00.669 11050 11050 W app_process: type=1400 audit(0.0:232): avc: denied { read } for name="u:object_r:device_config_runtime_native_boot_prop:s0" dev="tmpfs" ino=240 scontext=u:r:shell:s0 tcontext=u:object_r:device_config_runtime_native_boot_prop:s0 tclass=file permissive=0
+12-06 20:52:00.673 11050 11050 E libc    : Access denied finding property "persist.device_config.runtime_native_boot.disable_lock_profiling"
+12-06 20:52:00.673 11050 11050 I AndroidRuntime: Leaving lock profiling enabled
+12-06 20:52:00.674 11050 11050 E libc    : Access denied finding property "persist.device_config.runtime_native_boot.enable_generational_cc"
+12-06 20:52:00.681 11050 11050 I app_process: Core platform API reporting enabled, enforcing=false
+12-06 20:52:00.898 11050 11050 W app_process: Unexpected CPU variant for X86 using defaults: x86
+12-06 20:52:00.901 11050 11050 I app_process: The ClassLoaderContext is a special shared library.
+12-06 20:52:00.933 11050 11050 W app_process: JNI RegisterNativeMethods: attempt to register 0 native methods for android.media.AudioAttributes
+12-06 20:52:01.310 11072 11073 I cmd     : oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:01.571 11083 11083 E libc    : Access denied finding property "persist.device_config.runtime_native_boot.profilebootclasspath"
+12-06 20:52:01.571 11083 11083 E libc    : Access denied finding property "persist.device_config.runtime_native_boot.enable_apex_image"
+12-06 20:52:01.571 11083 11083 I AndroidRuntime: Using default boot image
+12-06 20:52:01.571 11083 11083 E libc    : Access denied finding property "persist.device_config.runtime_native_boot.disable_lock_profiling"
+12-06 20:52:01.571 11083 11083 I AndroidRuntime: Leaving lock profiling enabled
+12-06 20:52:01.571 11083 11083 E libc    : Access denied finding property "persist.device_config.runtime_native_boot.enable_generational_cc"
+12-06 20:52:01.574 11083 11083 I app_process: Core platform API reporting enabled, enforcing=false
+12-06 20:52:01.569 11083 11083 W app_process: type=1400 audit(0.0:236): avc: denied { read } for name="u:object_r:device_config_runtime_native_boot_prop:s0" dev="tmpfs" ino=240 scontext=u:r:shell:s0 tcontext=u:object_r:device_config_runtime_native_boot_prop:s0 tclass=file permissive=0
+12-06 20:52:01.644 11083 11083 W app_process: Unexpected CPU variant for X86 using defaults: x86
+12-06 20:52:01.646 11083 11083 I app_process: The ClassLoaderContext is a special shared library.
+12-06 20:52:01.658 11083 11083 W app_process: JNI RegisterNativeMethods: attempt to register 0 native methods for android.media.AudioAttributes
+--------- beginning of system
+12-06 20:52:01.913  1609 11102 I Vision  : Requesting optional module download of ocr.
+12-06 20:52:01.919  1609 11102 I Vision  : Checking for download completion for 520317 -- ocr
+12-06 20:52:01.986  1609 11101 I Authzen : [DeviceStateSyncManager] The server is in sync with current state. Nothing to do
+12-06 20:52:02.149 11107 11109 I cmd     : oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:02.198   153   153 I servicemanager: Since 'apexservice' could not be found, trying to start it as a lazy AIDL service
+12-06 20:52:02.549     0     0 I init    : starting service 'apexd'...
+12-06 20:52:02.556     0     0 I init    : Control message: Processed ctl.interface_start for 'aidl/apexservice' from pid: 153 (/system/bin/servicemanager)
+12-06 20:52:02.586     0     0 I apexd   : Scanning /system/apex for preinstalled data
+12-06 20:52:02.604     0     0 I apexd   : Scanning /system_ext/apex for preinstalled data
+12-06 20:52:02.606     0     0 I apexd   : ... does not exist. Skipping
+12-06 20:52:02.608     0     0 I apexd   : Scanning /product/apex for preinstalled data
+12-06 20:52:02.610     0     0 I apexd   : ... does not exist. Skipping
+12-06 20:52:02.614     0     0 I apexd   : Scanning /vendor/apex for preinstalled data
+12-06 20:52:02.617     0     0 I apexd   : ... does not exist. Skipping
+12-06 20:52:02.619     0     0 I apexd   : Populating APEX database from mounts...
+12-06 20:52:02.623     0     0 I apexd   : Found "/apex/com.android.mediaprovider@300000000" backed by file /system/apex/com.android.mediaprovider.apex
+12-06 20:52:02.628     0     0 I apexd   : Found "/apex/com.android.tethering@300000000" backed by file /system/apex/com.android.tethering.apex
+12-06 20:52:02.635     0     0 I apexd   : Found "/apex/com.android.wifi@300000000" backed by file /system/apex/com.android.wifi.apex
+12-06 20:52:02.639     0     0 I apexd   : Found "/apex/com.android.cellbroadcast@300000000" backed by file /system/apex/com.android.cellbroadcast.apex
+12-06 20:52:02.646     0     0 I apexd   : Found "/apex/com.android.neuralnetworks@300000000" backed by file /system/apex/com.android.neuralnetworks.apex
+12-06 20:52:02.651     0     0 I apexd   : Found "/apex/com.android.resolv@300000000" backed by file /system/apex/com.android.resolv.apex
+12-06 20:52:02.657     0     0 I apexd   : Found "/apex/com.android.media.swcodec@300000000" backed by file /system/apex/com.android.media.swcodec.apex
+12-06 20:52:02.663     0     0 I apexd   : Found "/apex/com.android.conscrypt@300000000" backed by file /system/apex/com.android.conscrypt.apex
+12-06 20:52:02.669     0     0 I apexd   : Found "/apex/com.android.adbd@300000000" backed by file /system/apex/com.android.adbd.apex
+12-06 20:52:02.673     0     0 I apexd   : Found "/apex/com.android.art@1" backed by file /system/apex/com.android.art.debug.apex
+12-06 20:52:02.678     0     0 I apexd   : Found "/apex/com.android.permission@300000000" backed by file /system/apex/com.android.permission.apex
+12-06 20:52:02.684     0     0 I apexd   : Found "/apex/com.android.runtime@1" backed by file /system/apex/com.android.runtime.apex
+12-06 20:52:02.689     0     0 I apexd   : Found "/apex/com.android.sdkext@300000000" backed by file /system/apex/com.android.sdkext.apex
+12-06 20:52:02.693     0     0 I apexd   : Found "/apex/com.android.tzdata@300000000" backed by file /system/apex/com.android.tzdata.apex
+12-06 20:52:02.699     0     0 I apexd   : Found "/apex/com.android.media@300000000" backed by file /system/apex/com.android.media.apex
+12-06 20:52:02.703     0     0 I apexd   : Found "/apex/com.android.extservices@300000000" backed by file /system/apex/com.android.extservices.apex
+12-06 20:52:02.709     0     0 I apexd   : Found "/apex/com.android.vndk.v30@1" backed by file /system/apex/com.android.vndk.current.apex
+12-06 20:52:02.713     0     0 I apexd   : Found "/apex/com.android.os.statsd@300000000" backed by file /system/apex/com.android.os.statsd.apex
+12-06 20:52:02.719     0     0 I apexd   : Found "/apex/com.android.apex.cts.shim@1" backed by file /system/apex/com.android.apex.cts.shim.apex
+12-06 20:52:02.723     0     0 I apexd   : Found "/apex/com.android.i18n@1" backed by file /system/apex/com.android.i18n.apex
+12-06 20:52:02.729     0     0 I apexd   : Found "/apex/com.android.ipsec@300000000" backed by file /system/apex/com.android.ipsec.apex
+12-06 20:52:02.733     0     0 I apexd   : 21 packages restored.
+12-06 20:52:02.736     0     0 I AidlLazyServiceRegistrar: Registering service apexservice
+12-06 20:52:02.396   153   153 I BpBinder: onLastStrongRef automatically unlinking death recipients: <uncached descriptor>
+12-06 20:52:02.404   153   153 I servicemanager: Tried to unregister apexservice, but there is about to be a client.
+12-06 20:52:02.741     0     0 I AidlLazyServiceRegistrar: Trying to shut down the service. No clients in use for any service in process.
+12-06 20:52:02.748     0     0 I AidlLazyServiceRegistrar: Failed to unregister service apexservice
+12-06 20:52:02.630   524   534 I system_server: Background concurrent copying GC freed 182740(9982KB) AllocSpace objects, 82(2136KB) LOS objects, 49% free, 12MB/24MB, paused 71us total 168.537ms
+12-06 20:52:02.798 11140 11142 I cmd     : oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:03.034   524  1381 I ActivityManager: Force stopping com.tencent.qqmusic appid=10124 user=0: from pid 11167
+12-06 20:52:03.047 11167 11169 I cmd     : oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:03.162 11170 11170 E libc    : Access denied finding property "persist.device_config.runtime_native_boot.profilebootclasspath"
+12-06 20:52:03.162 11170 11170 E libc    : Access denied finding property "persist.device_config.runtime_native_boot.enable_apex_image"
+12-06 20:52:03.162 11170 11170 I AndroidRuntime: Using default boot image
+12-06 20:52:03.162 11170 11170 E libc    : Access denied finding property "persist.device_config.runtime_native_boot.disable_lock_profiling"
+12-06 20:52:03.162 11170 11170 I AndroidRuntime: Leaving lock profiling enabled
+12-06 20:52:03.163 11170 11170 E libc    : Access denied finding property "persist.device_config.runtime_native_boot.enable_generational_cc"
+12-06 20:52:03.166 11170 11170 I app_process: Core platform API reporting enabled, enforcing=false
+12-06 20:52:03.157 11170 11170 W app_process: type=1400 audit(0.0:240): avc: denied { read } for name="u:object_r:device_config_runtime_native_boot_prop:s0" dev="tmpfs" ino=240 scontext=u:r:shell:s0 tcontext=u:object_r:device_config_runtime_native_boot_prop:s0 tclass=file permissive=0
+12-06 20:52:03.255 11170 11170 W app_process: Unexpected CPU variant for X86 using defaults: x86
+12-06 20:52:03.257 11170 11170 I app_process: The ClassLoaderContext is a special shared library.
+12-06 20:52:03.269 11170 11170 W app_process: JNI RegisterNativeMethods: attempt to register 0 native methods for android.media.AudioAttributes
+12-06 20:52:03.283   524   546 I ActivityTaskManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10000100 cmp=com.android.launcher3/.uioverrides.QuickstepLauncher (has extras)} from uid 0
+12-06 20:52:04.094   186   188 E android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup34: Permission denied
+12-06 20:52:04.104   186   188 E android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup35: Permission denied
+12-06 20:52:04.093   186   186 W Binder:186_1: type=1400 audit(0.0:244): avc: denied { read } for name="wakeup34" dev="sysfs" ino=18795 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+12-06 20:52:04.444     0     0 W audit   : audit_lost=11 audit_rate_limit=5 audit_backlog_limit=64
+12-06 20:52:04.448     0     0 E audit   : rate limit exceeded
+12-06 20:52:05.369 11235 11237 I cmd     : oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:05.882   524  2831 I ActivityTaskManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.tencent.qqmusic/.activity.AppStarterActivity} from uid 2000
+12-06 20:52:05.890 10742 10742 I perfetto: ing_service_impl.cc:758 Configured tracing session 1, #sources:1, duration:5000 ms, #buffers:1, total buffer size:4096 KB, total sessions:1, uid:1071 session name: ""
+12-06 20:52:05.960   524   932 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+12-06 20:52:05.960   524   932 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+12-06 20:52:05.960   524   932 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+12-06 20:52:05.960   524   932 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+12-06 20:52:05.960   524   932 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+12-06 20:52:05.960   524   932 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+12-06 20:52:05.960   524   932 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+12-06 20:52:05.960   524   932 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+12-06 20:52:05.960   524   932 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+12-06 20:52:05.960   524   932 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+12-06 20:52:05.960   524   932 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+12-06 20:52:05.960   524   932 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+12-06 20:52:05.960   524   932 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+12-06 20:52:05.960   524   932 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+12-06 20:52:05.960   524   932 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+12-06 20:52:05.960   524   932 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+12-06 20:52:05.960   524   932 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+12-06 20:52:05.960   524   932 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+12-06 20:52:05.960   524   932 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+12-06 20:52:05.961   524   932 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+12-06 20:52:05.996 11276 11278 I cmd     : oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:05.998   187   187 E android.hardware.atrace@1.0-service: Failed to enable tracing on: /sys/kernel/debug/tracing/events/mdss/enable
+12-06 20:52:05.998   187   187 E android.hardware.atrace@1.0-service: Failed to enable tracing on: /sys/kernel/debug/tracing/events/sde/enable
+12-06 20:52:05.998   187   187 E android.hardware.atrace@1.0-service: Failed to enable tracing on: /sys/kernel/debug/tracing/events/mali_systrace/enable
+12-06 20:52:05.998   187   187 E android.hardware.atrace@1.0-service: Failed to disable tracing on: /sys/kernel/debug/tracing/events/mdss/enable
+12-06 20:52:05.998   187   187 E android.hardware.atrace@1.0-service: Failed to disable tracing on: /sys/kernel/debug/tracing/events/sde/enable
+12-06 20:52:05.998   187   187 E android.hardware.atrace@1.0-service: Failed to disable tracing on: /sys/kernel/debug/tracing/events/mali_systrace/enable
+12-06 20:52:05.999   187   187 E android.hardware.atrace@1.0-service: Failed to disable tracing on: /sys/kernel/debug/tracing/events/kmem/ion_alloc_buffer_start/enable
+12-06 20:52:05.999   187   187 E android.hardware.atrace@1.0-service: Failed to enable tracing on: /sys/kernel/debug/tracing/events/kmem/ion_alloc_buffer_start/enable
+12-06 20:52:05.999   187   187 E android.hardware.atrace@1.0-service: Failed to disable tracing on: /sys/kernel/debug/tracing/events/mdss/enable
+12-06 20:52:05.999   187   187 E android.hardware.atrace@1.0-service: Failed to disable tracing on: /sys/kernel/debug/tracing/events/sde/enable
+12-06 20:52:05.999   187   187 E android.hardware.atrace@1.0-service: Failed to disable tracing on: /sys/kernel/debug/tracing/events/mali_systrace/enable
+12-06 20:52:05.999   187   187 E android.hardware.atrace@1.0-service: Failed to disable tracing on: /sys/kernel/debug/tracing/events/kmem/ion_alloc_buffer_start/enable
+12-06 20:52:06.129 10752 10752 I perfetto: probes_producer.cc:230  Ftrace setup (target_buf=1)
+12-06 20:52:06.304 10752 10752 I perfetto: ftrace_procfs.cc:176    enabled ftrace
+12-06 20:52:06.642     0     0 W perfetto: enabled ftrace
+12-06 20:52:06.767   153   153 I servicemanager: Notifying apexservice they have clients: 1
+12-06 20:52:06.767   153   153 I servicemanager: Notifying apexservice they have clients: 0
+12-06 20:52:07.112     0     0 I AidlLazyServiceRegistrar: Process has 1 (of 1 available) client(s) in use after notification android.apex.IApexService has clients: 1
+12-06 20:52:07.124     0     0 I AidlLazyServiceRegistrar: Process has 0 (of 1 available) client(s) in use after notification android.apex.IApexService has clients: 0
+12-06 20:52:07.130     0     0 I AidlLazyServiceRegistrar: Trying to shut down the service. No clients in use for any service in process.
+12-06 20:52:06.934   153   153 I BpBinder: onLastStrongRef automatically unlinking death recipients: <uncached descriptor>
+12-06 20:52:07.279     0     0 I AidlLazyServiceRegistrar: Unregistered all clients and exiting
+12-06 20:52:07.289     0     0 I init    : Service 'apexd' (pid 11114) exited with status 0 oneshot service took 4.736000 seconds in background
+12-06 20:52:07.333     0     0 I init    : Sending signal 9 to service 'apexd' (pid 11114) process group...
+12-06 20:52:07.346     0     0 I libprocessgroup: Successfully killed process cgroup uid 0 pid 11114 in 0ms
+12-06 20:52:07.214  3009  3023 I mit.droidbotap: Background concurrent copying GC freed 35162(1635KB) AllocSpace objects, 52(1536KB) LOS objects, 49% free, 3795KB/7590KB, paused 17us total 144.868ms
+12-06 20:52:07.529 11321 11322 I cmd     : oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:09.005   524  1295 E TaskPersister: File error accessing recents directory (directory doesn't exist?).
+12-06 20:52:09.121 11445 11447 I cmd     : oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:09.437 11472 11472 E libc    : Access denied finding property "persist.device_config.runtime_native_boot.profilebootclasspath"
+12-06 20:52:09.437 11472 11472 E libc    : Access denied finding property "persist.device_config.runtime_native_boot.enable_apex_image"
+12-06 20:52:09.437 11472 11472 I AndroidRuntime: Using default boot image
+12-06 20:52:09.437 11472 11472 E libc    : Access denied finding property "persist.device_config.runtime_native_boot.disable_lock_profiling"
+12-06 20:52:09.437 11472 11472 I AndroidRuntime: Leaving lock profiling enabled
+12-06 20:52:09.438 11472 11472 E libc    : Access denied finding property "persist.device_config.runtime_native_boot.enable_generational_cc"
+12-06 20:52:09.441 11472 11472 I app_process: Core platform API reporting enabled, enforcing=false
+12-06 20:52:09.437 11472 11472 W app_process: type=1400 audit(0.0:246): avc: denied { read } for name="u:object_r:device_config_runtime_native_boot_prop:s0" dev="tmpfs" ino=240 scontext=u:r:shell:s0 tcontext=u:object_r:device_config_runtime_native_boot_prop:s0 tclass=file permissive=0
+12-06 20:52:09.437 11472 11472 W app_process: type=1400 audit(0.0:248): avc: denied { read } for name="u:object_r:device_config_runtime_native_boot_prop:s0" dev="tmpfs" ino=240 scontext=u:r:shell:s0 tcontext=u:object_r:device_config_runtime_native_boot_prop:s0 tclass=file permissive=0
+12-06 20:52:09.562 11472 11472 W app_process: Unexpected CPU variant for X86 using defaults: x86
+12-06 20:52:09.564 11472 11472 I app_process: The ClassLoaderContext is a special shared library.
+12-06 20:52:09.577 11472 11472 W app_process: JNI RegisterNativeMethods: attempt to register 0 native methods for android.media.AudioAttributes
+12-06 20:52:09.437 11472 11472 W app_process: type=1400 audit(0.0:249): avc: denied { read } for name="u:object_r:device_config_runtime_native_boot_prop:s0" dev="tmpfs" ino=240 scontext=u:r:shell:s0 tcontext=u:object_r:device_config_runtime_native_boot_prop:s0 tclass=file permissive=0
+12-06 20:52:09.819   524 10100 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:09.819   524 10100 I chatty  : uid=1000(system) Binder:524_16 identical 1 line
+12-06 20:52:09.819   524 10100 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:09.842  6190  6190 W InputEventReceiver: Attempted to finish an input event but the input event receiver has already been disposed.
+12-06 20:52:09.936 11497 11499 I cmd     : oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:09.959   524   932 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:10.897 10752 10752 I perfetto: probes_producer.cc:329  Producer stop (id=1)
+12-06 20:52:10.899 10742 10742 I perfetto: ng_service_impl.cc:1948 Tracing session 1 ended, total sessions:0
+12-06 20:52:10.900 10752 10752 I perfetto: ftrace_procfs.cc:183    disabled ftrace
+12-06 20:52:11.243     0     0 W perfetto: disabled ftrace
+12-06 20:52:11.569 11528 11530 I cmd     : oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:11.944  1609 11553 I Vision  : Requesting optional module download of ocr.
+12-06 20:52:11.946  1609 11553 I Vision  : Checking for download completion for 530344 -- ocr
+12-06 20:52:12.511   524   932 I ActivityTaskManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.tencent.qqmusic/.activity.AppStarterActivity} from uid 2000
+12-06 20:52:12.515 10742 10742 I perfetto: ing_service_impl.cc:758 Configured tracing session 2, #sources:1, duration:5000 ms, #buffers:1, total buffer size:4096 KB, total sessions:1, uid:1071 session name: ""
+12-06 20:52:12.517 10752 10752 I perfetto: probes_producer.cc:230  Ftrace setup (target_buf=2)
+12-06 20:52:12.520 11598 11600 I cmd     : oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:12.537 10752 10752 I perfetto: ftrace_procfs.cc:176    enabled ftrace
+12-06 20:52:12.880     0     0 W perfetto: enabled ftrace
+12-06 20:52:12.923   524   932 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:13.799 11625 11628 I cmd     : oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:15.261 11740 11740 W app_process: type=1400 audit(0.0:250): avc: denied { read } for name="u:object_r:device_config_runtime_native_boot_prop:s0" dev="tmpfs" ino=240 scontext=u:r:shell:s0 tcontext=u:object_r:device_config_runtime_native_boot_prop:s0 tclass=file permissive=0
+12-06 20:52:15.261 11740 11740 I chatty  : uid=2000(shell) app_process identical 2 lines
+12-06 20:52:15.261 11740 11740 W app_process: type=1400 audit(0.0:253): avc: denied { read } for name="u:object_r:device_config_runtime_native_boot_prop:s0" dev="tmpfs" ino=240 scontext=u:r:shell:s0 tcontext=u:object_r:device_config_runtime_native_boot_prop:s0 tclass=file permissive=0
+12-06 20:52:15.263 11740 11740 E libc    : Access denied finding property "persist.device_config.runtime_native_boot.profilebootclasspath"
+12-06 20:52:15.263 11740 11740 E libc    : Access denied finding property "persist.device_config.runtime_native_boot.enable_apex_image"
+12-06 20:52:15.263 11740 11740 I AndroidRuntime: Using default boot image
+12-06 20:52:15.263 11740 11740 E libc    : Access denied finding property "persist.device_config.runtime_native_boot.disable_lock_profiling"
+12-06 20:52:15.263 11740 11740 I AndroidRuntime: Leaving lock profiling enabled
+12-06 20:52:15.263 11740 11740 E libc    : Access denied finding property "persist.device_config.runtime_native_boot.enable_generational_cc"
+12-06 20:52:15.265 11740 11740 I app_process: Core platform API reporting enabled, enforcing=false
+12-06 20:52:15.354 11740 11740 W app_process: Unexpected CPU variant for X86 using defaults: x86
+12-06 20:52:15.358 11740 11740 I app_process: The ClassLoaderContext is a special shared library.
+12-06 20:52:15.372 11740 11740 W app_process: JNI RegisterNativeMethods: attempt to register 0 native methods for android.media.AudioAttributes
+12-06 20:52:15.593   524   932 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:15.593   524   932 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:15.594   524  1381 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:15.728   524  1391 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:17.309 11791 11795 I cmd     : oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:17.518 10752 10752 I perfetto: probes_producer.cc:329  Producer stop (id=2)
+12-06 20:52:17.519 10742 10742 I perfetto: ng_service_impl.cc:1948 Tracing session 2 ended, total sessions:0
+12-06 20:52:17.522 10752 10752 I perfetto: ftrace_procfs.cc:183    disabled ftrace
+12-06 20:52:17.865     0     0 W perfetto: disabled ftrace
+12-06 20:52:18.362 11870 11872 I cmd     : oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:18.517   524  1391 I ActivityTaskManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.tencent.qqmusic/.activity.AppStarterActivity} from uid 2000
+12-06 20:52:18.519 10742 10742 I perfetto: ing_service_impl.cc:758 Configured tracing session 3, #sources:1, duration:5000 ms, #buffers:1, total buffer size:4096 KB, total sessions:1, uid:1071 session name: ""
+12-06 20:52:18.519 10752 10752 I perfetto: probes_producer.cc:230  Ftrace setup (target_buf=3)
+12-06 20:52:18.521 11884 11886 I cmd     : oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:18.537 10752 10752 I perfetto: ftrace_procfs.cc:176    enabled ftrace
+12-06 20:52:18.879     0     0 W perfetto: enabled ftrace
+12-06 20:52:18.685   524   932 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:18.983   524   932 I ActivityManager: Killing 2438:com.android.externalstorage/u0a48 (adj 975): empty #17
+12-06 20:52:19.000   264   264 I Zygote  : Process 2438 exited due to signal 9 (Killed)
+12-06 20:52:19.029   524   556 I libprocessgroup: Successfully killed process cgroup uid 10048 pid 2438 in 44ms
+12-06 20:52:19.289   186   186 W Binder:186_1: type=1400 audit(0.0:254): avc: denied { read } for name="wakeup34" dev="sysfs" ino=18795 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+12-06 20:52:19.301   186   186 W Binder:186_1: type=1400 audit(0.0:255): avc: denied { read } for name="wakeup35" dev="sysfs" ino=18858 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+12-06 20:52:19.296   186   188 E android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup34: Permission denied
+12-06 20:52:19.304   186   188 E android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup35: Permission denied
+12-06 20:52:19.833 11911 11913 I cmd     : oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:20.839 11982 11984 I cmd     : oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:20.972 11997 11999 I cmd     : oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:21.103 12012 12014 I cmd     : oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:21.300 12024 12024 E libc    : Access denied finding property "persist.device_config.runtime_native_boot.profilebootclasspath"
+12-06 20:52:21.300 12024 12024 E libc    : Access denied finding property "persist.device_config.runtime_native_boot.enable_apex_image"
+12-06 20:52:21.300 12024 12024 I AndroidRuntime: Using default boot image
+12-06 20:52:21.300 12024 12024 E libc    : Access denied finding property "persist.device_config.runtime_native_boot.disable_lock_profiling"
+12-06 20:52:21.300 12024 12024 I AndroidRuntime: Leaving lock profiling enabled
+12-06 20:52:21.297 12024 12024 W app_process: type=1400 audit(0.0:256): avc: denied { read } for name="u:object_r:device_config_runtime_native_boot_prop:s0" dev="tmpfs" ino=240 scontext=u:r:shell:s0 tcontext=u:object_r:device_config_runtime_native_boot_prop:s0 tclass=file permissive=0
+12-06 20:52:21.301 12024 12024 W app_process: type=1400 audit(0.0:259): avc: denied { read } for name="u:object_r:device_config_runtime_native_boot_prop:s0" dev="tmpfs" ino=240 scontext=u:r:shell:s0 tcontext=u:object_r:device_config_runtime_native_boot_prop:s0 tclass=file permissive=0
+12-06 20:52:21.301 12024 12024 E libc    : Access denied finding property "persist.device_config.runtime_native_boot.enable_generational_cc"
+12-06 20:52:21.303 12024 12024 I app_process: Core platform API reporting enabled, enforcing=false
+12-06 20:52:21.383 12024 12024 W app_process: Unexpected CPU variant for X86 using defaults: x86
+12-06 20:52:21.385 12024 12024 I app_process: The ClassLoaderContext is a special shared library.
+12-06 20:52:21.398 12024 12024 W app_process: JNI RegisterNativeMethods: attempt to register 0 native methods for android.media.AudioAttributes
+12-06 20:52:21.614   524  1037 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:21.614   524  1037 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:21.658 12044 12046 I cmd     : oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:21.687  6190  6190 W InputEventReceiver: Attempted to finish an input event but the input event receiver has already been disposed.
+12-06 20:52:21.754   524   932 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:22.089  1609 12056 I Vision  : Requesting optional module download of ocr.
+12-06 20:52:22.090  1609 12056 I Vision  : Checking for download completion for 540489 -- ocr
+12-06 20:52:22.195  3009  3023 I mit.droidbotap: Background concurrent copying GC freed 49707(2153KB) AllocSpace objects, 96(3064KB) LOS objects, 49% free, 2603KB/5207KB, paused 18us total 103.827ms
+12-06 20:52:23.072 12069 12070 I cmd     : oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:23.521 10752 10752 I perfetto: probes_producer.cc:329  Producer stop (id=3)
+12-06 20:52:23.525 10752 10752 I perfetto: ftrace_procfs.cc:183    disabled ftrace
+12-06 20:52:23.526 10742 10742 I perfetto: ng_service_impl.cc:1948 Tracing session 3 ended, total sessions:0
+12-06 20:52:23.867     0     0 W perfetto: disabled ftrace
+12-06 20:52:23.967 12125 12127 I cmd     : oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:24.340 12152 12154 I cmd     : oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:24.482   524  1037 I ActivityTaskManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.tencent.qqmusic/.activity.AppStarterActivity} from uid 2000
+12-06 20:52:24.484 10742 10742 I perfetto: ing_service_impl.cc:758 Configured tracing session 4, #sources:1, duration:5000 ms, #buffers:1, total buffer size:4096 KB, total sessions:1, uid:1071 session name: ""
+12-06 20:52:24.484 10752 10752 I perfetto: probes_producer.cc:230  Ftrace setup (target_buf=4)
+12-06 20:52:24.506 10752 10752 I perfetto: ftrace_procfs.cc:176    enabled ftrace
+12-06 20:52:24.847     0     0 W perfetto: enabled ftrace
+12-06 20:52:24.606 12179 12180 I cmd     : oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:24.716   524  1037 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:25.808 12208 12211 I cmd     : oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:26.172 12236 12238 I cmd     : oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:26.769 12280 12282 I cmd     : oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:26.897 12295 12297 I cmd     : oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:27.214 12322 12322 E libc    : Access denied finding property "persist.device_config.runtime_native_boot.profilebootclasspath"
+12-06 20:52:27.214 12322 12322 E libc    : Access denied finding property "persist.device_config.runtime_native_boot.enable_apex_image"
+12-06 20:52:27.214 12322 12322 I AndroidRuntime: Using default boot image
+12-06 20:52:27.214 12322 12322 E libc    : Access denied finding property "persist.device_config.runtime_native_boot.disable_lock_profiling"
+12-06 20:52:27.214 12322 12322 I AndroidRuntime: Leaving lock profiling enabled
+12-06 20:52:27.213 12322 12322 W app_process: type=1400 audit(0.0:260): avc: denied { read } for name="u:object_r:device_config_runtime_native_boot_prop:s0" dev="tmpfs" ino=240 scontext=u:r:shell:s0 tcontext=u:object_r:device_config_runtime_native_boot_prop:s0 tclass=file permissive=0
+12-06 20:52:27.214 12322 12322 E libc    : Access denied finding property "persist.device_config.runtime_native_boot.enable_generational_cc"
+12-06 20:52:27.216 12322 12322 W app_process: Could not reserve sentinel fault page
+12-06 20:52:27.217 12322 12322 I app_process: Core platform API reporting enabled, enforcing=false
+12-06 20:52:27.295 12322 12322 W app_process: Unexpected CPU variant for X86 using defaults: x86
+12-06 20:52:27.297 12322 12322 I app_process: The ClassLoaderContext is a special shared library.
+12-06 20:52:27.311 12322 12322 W app_process: JNI RegisterNativeMethods: attempt to register 0 native methods for android.media.AudioAttributes
+12-06 20:52:29.223 12356 12358 I cmd     : oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:29.486 10752 10752 I perfetto: probes_producer.cc:329  Producer stop (id=4)
+12-06 20:52:29.487 10742 10742 I perfetto: ng_service_impl.cc:1948 Tracing session 4 ended, total sessions:0
+12-06 20:52:29.489 10752 10752 I perfetto: ftrace_procfs.cc:183    disabled ftrace
+12-06 20:52:29.831     0     0 W perfetto: disabled ftrace
+12-06 20:52:29.950 12412 12414 I cmd     : oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:30.057 10742 10742 I perfetto: ing_service_impl.cc:758 Configured tracing session 5, #sources:1, duration:5000 ms, #buffers:1, total buffer size:4096 KB, total sessions:1, uid:1071 session name: ""
+12-06 20:52:30.057 10752 10752 I perfetto: probes_producer.cc:230  Ftrace setup (target_buf=5)
+12-06 20:52:30.058 12424 12426 I cmd     : oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:30.076 10752 10752 I perfetto: ftrace_procfs.cc:176    enabled ftrace
+12-06 20:52:30.419     0     0 W perfetto: enabled ftrace
+12-06 20:52:30.189 12437 12439 I cmd     : oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:31.346 12466 12468 I cmd     : oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:32.103  1609 12518 I Vision  : Requesting optional module download of ocr.
+12-06 20:52:32.103  1609 12518 I Vision  : Checking for download completion for 550502 -- ocr
+12-06 20:52:32.211 12524 12526 I cmd     : oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:32.609 12569 12571 I cmd     : oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:32.807 12581 12581 E libc    : Access denied finding property "persist.device_config.runtime_native_boot.profilebootclasspath"
+12-06 20:52:32.807 12581 12581 E libc    : Access denied finding property "persist.device_config.runtime_native_boot.enable_apex_image"
+12-06 20:52:32.807 12581 12581 I AndroidRuntime: Using default boot image
+12-06 20:52:32.801 12581 12581 W app_process: type=1400 audit(0.0:264): avc: denied { read } for name="u:object_r:device_config_runtime_native_boot_prop:s0" dev="tmpfs" ino=240 scontext=u:r:shell:s0 tcontext=u:object_r:device_config_runtime_native_boot_prop:s0 tclass=file permissive=0
+12-06 20:52:32.807 12581 12581 E libc    : Access denied finding property "persist.device_config.runtime_native_boot.disable_lock_profiling"
+12-06 20:52:32.807 12581 12581 I AndroidRuntime: Leaving lock profiling enabled
+12-06 20:52:32.807 12581 12581 E libc    : Access denied finding property "persist.device_config.runtime_native_boot.enable_generational_cc"
+12-06 20:52:32.809 12581 12581 I app_process: Core platform API reporting enabled, enforcing=false
+12-06 20:52:32.891 12581 12581 W app_process: Unexpected CPU variant for X86 using defaults: x86
+12-06 20:52:32.893 12581 12581 I app_process: The ClassLoaderContext is a special shared library.
+12-06 20:52:32.905 12581 12581 W app_process: JNI RegisterNativeMethods: attempt to register 0 native methods for android.media.AudioAttributes
+12-06 20:52:34.823 12615 12617 I cmd     : oneway function results will be dropped but finished with status OK and parcel size 4
+12-06 20:52:35.058 10752 10752 I perfetto: probes_producer.cc:329  Producer stop (id=5)
+12-06 20:52:35.060 10742 10742 I perfetto: ng_service_impl.cc:1948 Tracing session 5 ended, total sessions:0
+12-06 20:52:35.061 10752 10752 I perfetto: ftrace_procfs.cc:183    disabled ftrace
+12-06 20:52:35.404     0     0 W perfetto: disabled ftrace
+12-06 20:52:35.218 12644 12646 I cmd     : oneway function results will be dropped but finished with status OK and parcel size 4
