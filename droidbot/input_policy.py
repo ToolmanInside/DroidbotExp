@@ -491,56 +491,57 @@ class UtgGreedySearchPolicy(UtgBasedInputPolicy):
         if current_state.state_str in self.__missed_states:
             self.__missed_states.remove(current_state.state_str)
 
-        if current_state.get_app_activity_depth(self.app) < 0:
-            # If the app is not in the activity stack
-            start_app_intent = self.app.get_start_intent()
+        # if current_state.get_app_activity_depth(self.app) < 0:
+        #     # If the app is not in the activity stack
+        #     start_app_intent = self.app.get_start_intent()
 
-            # It seems the app stucks at some state, has been
-            # 1) force stopped (START, STOP)
-            #    just start the app again by increasing self.__num_restarts
-            # 2) started at least once and cannot be started (START)
-            #    pass to let viewclient deal with this case
-            # 3) nothing
-            #    a normal start. clear self.__num_restarts.
+        #     # It seems the app stucks at some state, has been
+        #     # 1) force stopped (START, STOP)
+        #     #    just start the app again by increasing self.__num_restarts
+        #     # 2) started at least once and cannot be started (START)
+        #     #    pass to let viewclient deal with this case
+        #     # 3) nothing
+        #     #    a normal start. clear self.__num_restarts.
 
-            if self.__event_trace.endswith(EVENT_FLAG_START_APP + EVENT_FLAG_STOP_APP) \
-                    or self.__event_trace.endswith(EVENT_FLAG_START_APP):
-                self.__num_restarts += 1
-                self.logger.info("The app had been restarted %d times.", self.__num_restarts)
-            else:
-                self.__num_restarts = 0
+        #     if self.__event_trace.endswith(EVENT_FLAG_START_APP + EVENT_FLAG_STOP_APP) \
+        #             or self.__event_trace.endswith(EVENT_FLAG_START_APP):
+        #         self.__num_restarts += 1
+        #         self.logger.info("The app had been restarted %d times.", self.__num_restarts)
+        #     else:
+        #         self.__num_restarts = 0
 
-            # pass (START) through
-            if not self.__event_trace.endswith(EVENT_FLAG_START_APP):
-                if self.__num_restarts > MAX_NUM_RESTARTS:
-                    # If the app had been restarted too many times, enter random mode
-                    msg = "The app had been restarted too many times. Entering random mode."
-                    self.logger.info(msg)
-                    self.__random_explore = True
-                else:
-                    # Start the app
-                    self.__event_trace += EVENT_FLAG_START_APP
-                    self.logger.info("Trying to start the app...")
-                    return IntentEvent(intent=start_app_intent)
+        #     # pass (START) through
+        #     if not self.__event_trace.endswith(EVENT_FLAG_START_APP):
+        #         if self.__num_restarts > MAX_NUM_RESTARTS:
+        #             # If the app had been restarted too many times, enter random mode
+        #             msg = "The app had been restarted too many times. Entering random mode."
+        #             self.logger.info(msg)
+        #             self.__random_explore = True
+        #         else:
+        #             # Start the app
+        #             self.__event_trace += EVENT_FLAG_START_APP
+        #             self.logger.info("Trying to start the app...")
+        #             return IntentEvent(intent=start_app_intent)
 
-        elif current_state.get_app_activity_depth(self.app) > 0:
-            # If the app is in activity stack but is not in foreground
-            self.__num_steps_outside += 1
+        # elif current_state.get_app_activity_depth(self.app) > 0:
+        #     # If the app is in activity stack but is not in foreground
+        #     self.__num_steps_outside += 1
 
-            if self.__num_steps_outside > MAX_NUM_STEPS_OUTSIDE:
-                # If the app has not been in foreground for too long, try to go back
-                if self.__num_steps_outside > MAX_NUM_STEPS_OUTSIDE_KILL:
-                    # stop_app_intent = self.app.get_stop_intent()
-                    # go_back_event = IntentEvent(stop_app_intent)
-                    go_back_event = KillAppEvent(app=self.app)
-                else:
-                    go_back_event = KeyEvent(name="BACK")
-                self.__event_trace += EVENT_FLAG_NAVIGATE
-                self.logger.info("Going back to the app...")
-                return go_back_event
-        else:
-            # If the app is in foreground
-            self.__num_steps_outside = 0
+        #     if self.__num_steps_outside > MAX_NUM_STEPS_OUTSIDE:
+        #         # If the app has not been in foreground for too long, try to go back
+        #         if self.__num_steps_outside > MAX_NUM_STEPS_OUTSIDE_KILL:
+        #             # stop_app_intent = self.app.get_stop_intent()
+        #             # go_back_event = IntentEvent(stop_app_intent)
+        #             go_back_event = KillAppEvent(app=self.app)
+        #         else:
+        #             go_back_event = KeyEvent(name="BACK")
+        #         self.__event_trace += EVENT_FLAG_NAVIGATE
+        #         self.logger.info("Going back to the app...")
+        #         return go_back_event
+        # else:
+        #     # If the app is in foreground
+        #     self.__num_steps_outside = 0
+        self.__num_steps_outside = 0
 
         # Get all possible input events
         possible_events = current_state.get_possible_input()
