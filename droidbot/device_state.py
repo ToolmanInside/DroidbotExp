@@ -19,7 +19,7 @@ class DeviceState(object):
         self.background_services = background_services
         if tag is None:
             from datetime import datetime
-            tag = datetime.now().strftime("%Y-%m-%d_%H%M%S")
+            tag = datetime.now().strftime("%Y%m%d%H%M%S")
         self.tag = tag
         self.screenshot_path = screenshot_path
         self.views = self.__parse_views(views)

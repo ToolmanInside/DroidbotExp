@@ -4,7 +4,7 @@ import subprocess
 import time
 
 from .input_event import EventLog
-from .input_policy import MonkeyInpurPolicy, UtgBasedInputPolicy, UtgNaiveSearchPolicy, UtgGreedySearchPolicy, \
+from .input_policy import MonkeyInputPolicy, UtgBasedInputPolicy, UtgNaiveSearchPolicy, UtgGreedySearchPolicy, \
                          UtgReplayPolicy, \
                          ManualPolicy, \
                          POLICY_NAIVE_DFS, POLICY_GREEDY_DFS, \
@@ -68,7 +68,7 @@ class InputManager(object):
             input_policy = None
         elif self.policy_name == POLICY_MONKEY:
             # input_policy = None
-            input_policy = MonkeyInpurPolicy(device, app)
+            input_policy = MonkeyInputPolicy(device, app)
         elif self.policy_name in [POLICY_NAIVE_DFS, POLICY_NAIVE_BFS]:
             input_policy = UtgNaiveSearchPolicy(device, app, self.random_input, self.policy_name)
         elif self.policy_name in [POLICY_GREEDY_DFS, POLICY_GREEDY_BFS]:
@@ -114,7 +114,7 @@ class InputManager(object):
 
         try:
             if self.policy is not None:
-                self.policy.start(self)
+                self.policy.start(self, self.device)
             elif self.policy_name == POLICY_NONE:
                 self.device.start_app(self.app)
                 if self.event_count == 0:

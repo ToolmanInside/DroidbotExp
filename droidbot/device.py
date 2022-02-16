@@ -4,6 +4,7 @@ import re
 import subprocess
 import sys
 import time
+from logzero import logger
 
 from .adapter.adb import ADB
 from .adapter.droidbot_app import DroidBotAppConn
@@ -758,6 +759,13 @@ class Device(object):
     def pull_file(self, remote_file, local_file):
         self.adb.run_cmd(["pull", remote_file, local_file])
 
+    def get_screenshot(self):
+        if self.adapters[self.minicap] and self.minicap.last_screen:
+            # minicap use jpg format
+            return self.minicap.last_screen
+        else:
+            logger.error("Get Screenshot Failed!")
+
     def take_screenshot(self):
         # image = None
         #
@@ -790,11 +798,15 @@ class Device(object):
             # screencap use png format
             local_image_path = os.path.join(local_image_dir, "screen_%s.png" % tag)
             remote_image_path = "/sdcard/screen_%s.png" % tag
-            self.adb.shell("screencap -p %s" % remote_image_path)
-            self.pull_file(remote_image_path, local_image_path)
-            self.adb.shell("rm %s" % remote_image_path)
+            # self.adb.shell("screencap -p %s" % remote_image_path)
+            # self.pull_file(remote_image_path, local_image_path)
+            # self.adb.shell("rm %s" % remote_image_path)
 
         return local_image_path
+
+    def get_output_dir(self):
+        # Get return directory
+        return self.output_dir
 
     def get_current_state(self):
         self.logger.debug("getting current device state...")
