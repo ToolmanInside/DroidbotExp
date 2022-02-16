@@ -103,6 +103,9 @@ class InputEvent(object):
     def __str__(self):
         return self.to_dict().__str__()
 
+    def get_str(self):
+        return self.to_dict().__str__()
+
     @abstractmethod
     def send(self, device):
         """

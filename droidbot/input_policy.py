@@ -4,6 +4,7 @@ import logging
 import os
 import random
 import json
+from logzero import logger
 from abc import abstractmethod
 from datetime import datetime
 
@@ -63,66 +64,70 @@ class InputPolicy(object):
         self.action_count = 0
         self.trace_end=0
         # output_dir = device.get_output_dir() 直接指定output文件夹了，不用这个
-        os.chdir('/home/think/humanoid-output') 
+        # os.chdir('/home/think/humanoid-output') 
         # if not os.path.exists("output"):
         #     os.mkdir('output')
         output_event_list = list()
-        with open("output.log", 'w') as ff:
-            while input_manager.enabled and self.action_count < input_manager.event_count:
-                # try:
-                # make sure the first event is go to HOME screen
-                # the second event is to start the app
-                # if self.action_count == 0 and self.master is None:
-                #     event = KeyEvent(name="HOME")
-                # elif self.action_count == 1 and self.master is None:
-                #     event = IntentEvent(self.app.get_start_intent())
-                tag = datetime.now().strftime("%Y%m%d%H%M%S")
-                screenshot = device.get_screenshot()
-                screenshot_path = os.path.join(os.getcwd(), tag)
-                if self.trace_end >= 10:
-                    self.logger.info("Trace length has reached 7 times, end the trace.")
-                    os._exit(0)
-                # if self.action_count == 0 and self.master is None:
-                #     event = KillAppEvent(app=self.app)
-                # else:
-                #     event = self.generate_event()
-                event = self.generate_event()
-                if event.event_type == "kill_app" and self.action_count != 0:
-                    self.logger.info("Jump to an external app, the test is interrupted.")
-                    continue
-                    # os._exit(0)
-                elif event.event_type == "touch" or event.event_type == "long_touch" or event.event_type == 'scroll':
-                    self.trace_end = self.trace_end + 1
-                    input_manager.add_event(event)
-                elif event.event_type == "back":
-                    self.logger.info("A back event is generated, end the trace.", self.__num_restarts)
-                    continue
+        while input_manager.enabled and self.action_count < input_manager.event_count:
+            # try:
+            # make sure the first event is go to HOME screen
+            # the second event is to start the app
+            # if self.action_count == 0 and self.master is None:
+            #     event = KeyEvent(name="HOME")
+            # elif self.action_count == 1 and self.master is None:
+            #     event = IntentEvent(self.app.get_start_intent())
+            tag = datetime.now().strftime("%Y%m%d%H%M%S")
+            screenshot = device.get_screenshot()
+            screenshot_path = os.path.join("/home/think/humanoid-output", tag)
+            if self.trace_end >= 10:
+                self.logger.info("Trace length has reached 7 times, end the trace.")
+                os._exit(0)
+            # if self.action_count == 0 and self.master is None:
+            #     event = KillAppEvent(app=self.app)
+            # else:
+            #     event = self.generate_event()
+            event = self.generate_event()
+            if event.event_type == "kill_app" and self.action_count != 0:
+                self.logger.info("Jump to an external app, the test is interrupted.")
+                continue
+                # os._exit(0)
+            elif event.event_type == "touch" or event.event_type == "long_touch":
+                self.trace_end = self.trace_end + 1
+                input_manager.add_event(event)
+            elif event.event_type == "scroll":
+                print(event.get_str())
+                continue
+            elif event.event_type == "intent":
+                continue
+            elif event.event_type == "back":
+                self.logger.info("A back event is generated, end the trace.", self.__num_restarts)
+                continue
 
-                event_dict = eval(event)
-                output_dict = {
-                    "tag": tag,
-                    "event_type": event.event_type
-                }
-                if "view" in event_dict['event'].keys():
-                    output_dict['bounds'] = event_dict['event']['view']
-                output_event_list.append(output_dict)
-                with open(screenshot_path, 'wb') as local_image_file:
-                    local_image_file.write(screenshot)
+            event_dict = eval(event.get_str())
+            output_dict = {
+                "tag": tag,
+                "event_type": event.event_type
+            }
+            if "view" in event_dict.keys():
+                output_dict['bounds'] = event_dict['view']['bounds']
+            output_event_list.append(output_dict)
+            with open(screenshot_path, 'wb') as local_image_file:
+                local_image_file.write(screenshot)
 
-                # except KeyboardInterrupt:
-                #     break
-                # except InputInterruptedException as e:
-                #     self.logger.warning("stop sending events: %s" % e)
-                #     break
-                # except RuntimeError as e:
-                #     self.logger.warning(e.message)
-                #     break
-                # except Exception as e:
-                #     self.logger.warning("exception during sending events: %s" % e)
-                #     import traceback
-                #     traceback.print_exc()
-                #     continue
-                self.action_count += 1
+            # except KeyboardInterrupt:
+            #     break
+            # except InputInterruptedException as e:
+            #     self.logger.warning("stop sending events: %s" % e)
+            #     break
+            # except RuntimeError as e:
+            #     self.logger.warning(e.message)
+            #     break
+            # except Exception as e:
+            #     self.logger.warning("exception during sending events: %s" % e)
+            #     import traceback
+            #     traceback.print_exc()
+            #     continue
+            self.action_count += 1
         with open("output.json", 'w') as ff:
             print(json.dumps(output_event_list), file = ff)
 
